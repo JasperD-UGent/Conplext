@@ -1,0 +1,1001 @@
+word_entry	word_level_CEFRLex	sentence_level_generated	sentence_ID	sentence_text
+pappa|NOUN	A1	A1	SV_0	Min pappa är snäll.
+pappa|NOUN	A1	A2	SV_1	Min pappa är snäll.
+pappa|NOUN	A1	B1	SV_2	Min pappa kommer hem sent idag.
+pappa|NOUN	A1	B2	SV_3	Han är en bra pappa.
+pappa|NOUN	A1	C1	SV_4	Trots att hans pappa var skeptisk, valde han att följa sin egen väg.
+människa|NOUN	A1	A1	SV_5	Jag är en människa.
+människa|NOUN	A1	A2	SV_6	Han är en vänlig människa.
+människa|NOUN	A1	B1	SV_7	En människa behöver mat och vatten för att leva.
+människa|NOUN	A1	B2	SV_8	Det är viktigt att behandla varje människa med respekt.
+människa|NOUN	A1	C1	SV_9	Den moderna människan står inför många globala utmaningar.
+förälder|NOUN	A1	A1	SV_10	Min förälder är snäll.
+förälder|NOUN	A1	A2	SV_11	Min förälder hjälper mig.
+förälder|NOUN	A1	B1	SV_12	En förälder älskar sina barn.
+förälder|NOUN	A1	B2	SV_13	En förälder har alltid mycket att göra.
+förälder|NOUN	A1	C1	SV_14	En förälder spelar en avgörande roll i barnets utveckling.
+flicka|NOUN	A1	A1	SV_15	Flickan leker.
+flicka|NOUN	A1	A2	SV_16	En flicka leker i parken.
+flicka|NOUN	A1	B1	SV_17	Flickan sprang snabbt till parken.
+flicka|NOUN	A1	B2	SV_18	Flickan lekte med sin boll på gården.
+flicka|NOUN	A1	C1	SV_19	Flickan lekte i parken med sina vänner.
+kläder|NOUN	A1	A1	SV_20	Jag köper nya kläder.
+kläder|NOUN	A1	A2	SV_21	Jag köper nya kläder.
+kläder|NOUN	A1	B1	SV_22	Vi måste tvätta kläderna idag.
+kläder|NOUN	A1	B2	SV_23	Hon har många fina kläder i sin garderob.
+kläder|NOUN	A1	C1	SV_24	Många menar att kläderna vi väljer att bära kan säga en hel del om vår personlighet och sociala status.
+sida|NOUN	A1	A1	SV_25	Boken har många sidor.
+sida|NOUN	A1	A2	SV_26	Läs texten på sida tjugo.
+sida|NOUN	A1	B1	SV_27	Jag läste boken till sista sidan.
+sida|NOUN	A1	B2	SV_28	Han presenterade sin sida av historien.
+sida|NOUN	A1	C1	SV_29	Regeringen lyckades få oppositionen på sin sida i klimatfrågan.
+son|NOUN	A1	A1	SV_30	Jag har en son.
+son|NOUN	A1	A2	SV_31	Han har en son.
+son|NOUN	A1	B1	SV_32	Min son spelar fotboll varje helg.
+son|NOUN	A1	B2	SV_33	Hennes son är en begåvad musiker.
+son|NOUN	A1	C1	SV_34	Sonen övertog ansvaret för familjeföretaget efter sin fars bortgång.
+musik|NOUN	A1	A1	SV_35	Jag gillar musik.
+musik|NOUN	A1	A2	SV_36	Jag gillar att lyssna på musik.
+musik|NOUN	A1	B1	SV_37	Jag lyssnar ofta på musik när jag tränar.
+musik|NOUN	A1	B2	SV_38	De diskuterade hur musiken har utvecklats genom århundradena.
+musik|NOUN	A1	C1	SV_39	Silvias intresse för klassisk musik har blommat ut under de senaste åren.
+syskon|NOUN	A1	A1	SV_40	Jag har ett syskon.
+syskon|NOUN	A1	A2	SV_41	Jag har två syskon.
+syskon|NOUN	A1	B1	SV_42	Jag har två syskon.
+syskon|NOUN	A1	B2	SV_43	Mina syskon bor inte längre i samma stad som jag.
+syskon|NOUN	A1	C1	SV_44	Syskonen delade på ansvaret för att ta hand om sina åldrande föräldrar.
+säng|NOUN	A1	A1	SV_45	Jag sover i min säng.
+säng|NOUN	A1	A2	SV_46	Jag sover i min säng.
+säng|NOUN	A1	B1	SV_47	Jag läser en bok i sängen varje kväll.
+säng|NOUN	A1	B2	SV_48	Jag läste en bok i sängen innan jag somnade.
+säng|NOUN	A1	C1	SV_49	Hon byggde om hela sovrummet och placerade sängen mitt emot fönstret.
+journalist|NOUN	A1	A1	SV_50	Han är journalist.
+journalist|NOUN	A1	A2	SV_51	Hon är journalist.
+journalist|NOUN	A1	B1	SV_52	Journalisten skriver artiklar för en tidning.
+journalist|NOUN	A1	B2	SV_53	Journalisten intervjuade borgmästaren om det nya projektet.
+journalist|NOUN	A1	C1	SV_54	Som journalist är det viktigt att vara objektiv och källkritisk.
+granne|NOUN	A1	A1	SV_55	Min granne heter Anna.
+granne|NOUN	A1	A2	SV_56	Min granne är trevlig.
+granne|NOUN	A1	B1	SV_57	Min granne hjälpte mig att flytta soffan.
+granne|NOUN	A1	B2	SV_58	Min granne hjälpte mig med trädgården igår.
+granne|NOUN	A1	C1	SV_59	Min granne hjälpte mig med att bära upp den nya soffan till lägenheten.
+cykel|NOUN	A1	A1	SV_60	Jag har en cykel.
+cykel|NOUN	A1	A2	SV_61	Min cykel är blå.
+cykel|NOUN	A1	B1	SV_62	Jag cyklar till jobbet varje dag med min cykel.
+cykel|NOUN	A1	B2	SV_63	Jag använder min cykel för att pendla till jobbet varje dag.
+cykel|NOUN	A1	C1	SV_64	Vattenförorening kan störa ekosystemets naturliga cykel.
+ägg|NOUN	A1	A1	SV_65	Jag äter ett ägg.
+ägg|NOUN	A1	A2	SV_66	Jag äter ett ägg till frukost.
+ägg|NOUN	A1	B1	SV_67	Jag äter ett ägg till frukost.
+ägg|NOUN	A1	B2	SV_68	Många recept kräver flera ägg för att få rätt konsistens.
+ägg|NOUN	A1	C1	SV_69	Vissa fåglar lägger sina ägg i trädtopparna för att skydda dem från rovdjur.
+varuhus|NOUN	A1	A1	SV_70	Jag går till varuhuset.
+varuhus|NOUN	A1	A2	SV_71	Vi gick till ett varuhus för att köpa skor.
+varuhus|NOUN	A1	B1	SV_72	Vi gick till varuhuset för att köpa presenter.
+varuhus|NOUN	A1	B2	SV_73	Vi åkte till varuhuset för att köpa nya möbler.
+varuhus|NOUN	A1	C1	SV_74	Efter ombyggnationen framstår det gamla varuhuset nu som en modern och inbjudande mötesplats.
+väska|NOUN	A1	A1	SV_75	Jag har en väska.
+väska|NOUN	A1	A2	SV_76	Var är min väska?
+väska|NOUN	A1	B1	SV_77	Jag glömde min väska på bussen.
+väska|NOUN	A1	B2	SV_78	Jag måste köpa en ny väska eftersom min gamla är trasig.
+väska|NOUN	A1	C1	SV_79	Försök att inte lämna din väska obevakad på offentliga platser.
+hyra|NOUN	A1	A1	SV_80	Vad är hyran?
+hyra|NOUN	A1	A2	SV_81	Hyran är hög i den här staden.
+hyra|NOUN	A1	B1	SV_82	Månadshyran för lägenheten är 8000 kronor.
+hyra|NOUN	A1	B2	SV_83	Hyran för lägenheten är ganska hög.
+hyra|NOUN	A1	C1	SV_84	En oväntad höjning av hyran orsakade protester bland hyresgästerna.
+promenad|NOUN	A1	A1	SV_85	Jag tar en promenad i parken.
+promenad|NOUN	A1	A2	SV_86	Vi tar en promenad i parken.
+promenad|NOUN	A1	B1	SV_87	Vi tog en promenad i skogen efter lunch.
+promenad|NOUN	A1	B2	SV_88	Vi tog en lång promenad i parken igår.
+promenad|NOUN	A1	C1	SV_89	En kvällspromenad i parken är ett perfekt sätt att varva ner efter en lång dag.
+fabrik|NOUN	A1	A1	SV_90	Min pappa jobbar i en fabrik.
+fabrik|NOUN	A1	A2	SV_91	Jag arbetar i en stor fabrik.
+fabrik|NOUN	A1	B1	SV_92	Min morfar arbetade på en fabrik.
+fabrik|NOUN	A1	B2	SV_93	Min far arbetar i en stor fabrik i staden.
+fabrik|NOUN	A1	C1	SV_94	Fabriken implementerade nya hållbarhetsåtgärder för att minska sin miljöpåverkan.
+stuga|NOUN	A1	A1	SV_95	Vi bor i en stuga.
+stuga|NOUN	A1	A2	SV_96	Vi har en liten stuga vid sjön.
+stuga|NOUN	A1	B1	SV_97	Vi hyrde en stuga för semestern.
+stuga|NOUN	A1	B2	SV_98	Vi hyrde en liten stuga vid sjön för sommaren.
+stuga|NOUN	A1	C1	SV_99	Familjen hyrde en charmig stuga vid sjön för sommarlovet.
+skola|VERB	A1	A1	SV_100	N/A
+skola|VERB	A1	A2	SV_101	Vi måste skola hunden.
+skola|VERB	A1	B1	SV_102	Vi måste skola oss för att få bättre jobb.
+skola|VERB	A1	B2	SV_103	Företaget skolar sina anställda i nya tekniker.
+skola|VERB	A1	C1	SV_104	Det är avgörande att regeringen skola agera snabbt i den här frågan.
+vara|VERB	A1	A1	SV_105	Jag vill vara här.
+vara|VERB	A1	A2	SV_106	Jag vill vara här.
+vara|VERB	A1	B1	SV_107	Det är viktigt att vara snäll.
+vara|VERB	A1	B2	SV_108	Han vill vara läkare.
+vara|VERB	A1	C1	SV_109	Det kan vara svårt att avgöra vad som är bäst i en sådan situation.
+tycka|VERB	A1	A1	SV_110	Jag tycker det är bra.
+tycka|VERB	A1	A2	SV_111	Jag tycker om att läsa böcker.
+tycka|VERB	A1	B1	SV_112	Jag tycker att det är en bra idé.
+tycka|VERB	A1	B2	SV_113	Jag tycker att det är en bra bok.
+tycka|VERB	A1	C1	SV_114	Jag tycker att det är viktigt att vi tar hänsyn till alla perspektiv innan vi fattar ett beslut.
+se|VERB	A1	A1	SV_115	Jag ser en katt.
+se|VERB	A1	A2	SV_116	Jag ser en fågel i trädgården.
+se|VERB	A1	B1	SV_117	Hon ser trött ut idag.
+se|VERB	A1	B2	SV_118	Hon såg glad ut när hon fick presenten.
+se|VERB	A1	C1	SV_119	Det är intressant att se hur olika kulturer närmar sig liknande problem.
+sitta|VERB	A1	A1	SV_120	Jag sitter på en stol.
+sitta|VERB	A1	A2	SV_121	Jag sitter på stolen.
+sitta|VERB	A1	B1	SV_122	De sitter på caféet och dricker kaffe.
+sitta|VERB	A1	B2	SV_123	Vi satt länge på kaféet och pratade om resan.
+sitta|VERB	A1	C1	SV_124	Många fördomar sitter djupt rotade i samhället.
+äta|VERB	A1	A1	SV_125	Jag äter en banan.
+äta|VERB	A1	A2	SV_126	Jag äter en äppel varje dag.
+äta|VERB	A1	B1	SV_127	Jag vill äta middag nu.
+äta|VERB	A1	B2	SV_128	Det är viktigt att äta en balanserad kost för att må bra.
+äta|VERB	A1	C1	SV_129	Att äta en balanserad kost är avgörande för att bibehålla god hälsa på lång sikt.
+köpa|VERB	A1	A1	SV_130	Jag vill köpa en tröja.
+köpa|VERB	A1	A2	SV_131	Jag ska köpa mat.
+köpa|VERB	A1	B1	SV_132	Jag måste köpa nya skor snart.
+köpa|VERB	A1	B2	SV_133	Hon planerar att köpa en större lägenhet nästa år.
+köpa|VERB	A1	C1	SV_134	Många experter vägrar köpa regeringens argument om effekterna av de nya reformerna.
+titta|VERB	A1	A1	SV_135	Jag tittar på katten.
+titta|VERB	A1	A2	SV_136	Jag tittar på TV.
+titta|VERB	A1	B1	SV_137	Vi kan titta på den nya filmen ikväll.
+titta|VERB	A1	B2	SV_138	Kan du titta efter mina nycklar medan jag packar?
+titta|VERB	A1	C1	SV_139	Forskarna kommer att titta närmare på de nya resultaten.
+försöka|VERB	A1	A1	SV_140	Jag försöker lära mig svenska.
+försöka|VERB	A1	A2	SV_141	Jag försöker lära mig svenska.
+försöka|VERB	A1	B1	SV_142	Jag ska försöka komma i tid till mötet.
+försöka|VERB	A1	B2	SV_143	Vi måste försöka hitta en lösning på problemet.
+försöka|VERB	A1	C1	SV_144	Hon försökte förklara situationen, men det var svårt att få fram budskapet.
+höra|VERB	A1	A1	SV_145	Jag hör musik.
+höra|VERB	A1	A2	SV_146	Jag hör musik.
+höra|VERB	A1	B1	SV_147	Jag kan höra fåglarna sjunga utanför fönstret.
+höra|VERB	A1	B2	SV_148	Jag hörde att de ska flytta nästa månad.
+höra|VERB	A1	C1	SV_149	Han lovade att låta höra av sig så fort han hade mer information.
+heta|VERB	A1	A1	SV_150	Jag heter Anna.
+heta|VERB	A1	A2	SV_151	Vad heter din bror?
+heta|VERB	A1	B1	SV_152	Filmen heter 'Allt för Sverige' och den är ganska rolig.
+heta|VERB	A1	B2	SV_153	Det heter att man ska vara försiktig när man kör på vintern.
+heta|VERB	A1	C1	SV_154	Det heter att man bör prioritera sömn för att bibehålla god hälsa.
+vänta|VERB	A1	A1	SV_155	Jag väntar på bussen.
+vänta|VERB	A1	A2	SV_156	Jag måste vänta på bussen.
+vänta|VERB	A1	B1	SV_157	Jag måste vänta på bussen.
+vänta|VERB	A1	B2	SV_158	Hon var tvungen att vänta länge i kö på grund av förseningen.
+vänta|VERB	A1	C1	SV_159	De beslutade att vänta med projektet tills finansieringen var säkrad.
+flytta|VERB	A1	A1	SV_160	Jag flyttar min stol.
+flytta|VERB	A1	A2	SV_161	Vi ska flytta till en ny lägenhet nästa månad.
+flytta|VERB	A1	B1	SV_162	Vi ska flytta nästa månad.
+flytta|VERB	A1	B2	SV_163	Vi ska flytta till en ny lägenhet nästa månad.
+flytta|VERB	A1	C1	SV_164	Vi var tvungna att flytta fram lanseringen av produkten till nästa kvartal.
+sluta|VERB	A1	A1	SV_165	Jag slutar jobba klockan fem.
+sluta|VERB	A1	A2	SV_166	Vi måste sluta nu.
+sluta|VERB	A1	B1	SV_167	Jag måste sluta äta godis.
+sluta|VERB	A1	B2	SV_168	De måste sluta röka för sin hälsa.
+sluta|VERB	A1	C1	SV_169	De kom överens om att sluta samarbetet efter oenigheter.
+resa|VERB	A1	A1	SV_170	Jag vill resa till Sverige.
+resa|VERB	A1	A2	SV_171	Jag ska resa till Spanien i sommar.
+resa|VERB	A1	B1	SV_172	Jag vill resa till Spanien i sommar.
+resa|VERB	A1	B2	SV_173	Jag vill resa till ett varmt land i vinter.
+resa|VERB	A1	C1	SV_174	Denna fråga reser komplexa etiska dilemman som kräver noggrann övervägning.
+betala|VERB	A1	A1	SV_175	Jag ska betala.
+betala|VERB	A1	A2	SV_176	Jag måste betala för kaffet.
+betala|VERB	A1	B1	SV_177	Jag betalar räkningen idag.
+betala|VERB	A1	B2	SV_178	Vi måste betala hyran före den femte varje månad.
+betala|VERB	A1	C1	SV_179	Det är viktigt att betala sina skulder i tid för att undvika problem.
+sälja|VERB	A1	A1	SV_180	Jag säljer en bil.
+sälja|VERB	A1	A2	SV_181	Jag vill sälja min gamla bil.
+sälja|VERB	A1	B1	SV_182	Jag vill sälja min gamla cykel.
+sälja|VERB	A1	B2	SV_183	Hon ska sälja sin gamla bil.
+sälja|VERB	A1	C1	SV_184	Företaget planerade att sälja av en del av sina tillgångar för att finansiera den nya expansionen.
+vinna|VERB	A1	A1	SV_185	Jag vill vinna.
+vinna|VERB	A1	A2	SV_186	Vi vill vinna spelet.
+vinna|VERB	A1	B1	SV_187	De vill vinna matchen.
+vinna|VERB	A1	B2	SV_188	De hoppas att de ska vinna matchen ikväll.
+vinna|VERB	A1	C1	SV_189	För att vinna argumentet lade hon fram övertygande bevis.
+möta|VERB	A1	A1	SV_190	Jag möter en vän.
+möta|VERB	A1	A2	SV_191	Jag vill möta min vän i centrum.
+möta|VERB	A1	B1	SV_192	Jag ska möta mina vänner vid stationen.
+möta|VERB	A1	B2	SV_193	Hon var redo att möta utmaningen.
+möta|VERB	A1	C1	SV_194	Det är viktigt att möta kritik med öppenhet.
+intressera|VERB	A1	A1	SV_195	Musik intresserar mig.
+intressera|VERB	A1	A2	SV_196	Det intresserar mig.
+intressera|VERB	A1	B1	SV_197	Sport intresserar mig mycket.
+intressera|VERB	A1	B2	SV_198	Jag hoppas att filmen kommer att intressera dig.
+intressera|VERB	A1	C1	SV_199	Det skulle intressera mig att höra mer om dina framtidsplaner.
+minut|NOUN	A2	A1	SV_200	Vänta en minut.
+minut|NOUN	A2	A2	SV_201	Vänta en minut, tack.
+minut|NOUN	A2	B1	SV_202	Vänta en minut, jag är snart klar.
+minut|NOUN	A2	B2	SV_203	Hon behövde bara några minuter för att förbereda presentationen.
+minut|NOUN	A2	C1	SV_204	Han stod tyst i några minuter, djupt försjunken i tankar.
+miljö|NOUN	A2	A1	SV_205	N/A
+miljö|NOUN	A2	A2	SV_206	Hon gillar att arbeta i en lugn miljö.
+miljö|NOUN	A2	B1	SV_207	Vi måste skydda vår miljö.
+miljö|NOUN	A2	B2	SV_208	Jag letar efter en lugn och kreativ miljö att jobba i.
+miljö|NOUN	A2	C1	SV_209	Att bo nära naturen kan ha en positiv inverkan på vår mentala miljö.
+dam|NOUN	A2	A1	SV_210	En dam dricker kaffe.
+dam|NOUN	A2	A2	SV_211	En dam sitter på bänken.
+dam|NOUN	A2	B1	SV_212	Jag såg en dam i parken.
+dam|NOUN	A2	B2	SV_213	En äldre dam satt på en bänk och läste en bok.
+dam|NOUN	A2	C1	SV_214	En äldre dam frågade om vägen till biblioteket.
+älg|NOUN	A2	A1	SV_215	Jag ser en älg.
+älg|NOUN	A2	A2	SV_216	Älgen är ett stort djur.
+älg|NOUN	A2	B1	SV_217	Jag såg en stor älg vid sjön igår.
+älg|NOUN	A2	B2	SV_218	Vi såg en stor älg i skogen igår.
+älg|NOUN	A2	C1	SV_219	Populationen av älg har ökat i vissa delar av landet, vilket ibland leder till trafikolyckor.
+rygg|NOUN	A2	A1	SV_220	Jag har ont i ryggen.
+rygg|NOUN	A2	A2	SV_221	Han har ont i ryggen.
+rygg|NOUN	A2	B1	SV_222	Jag har ont i ryggen.
+rygg|NOUN	A2	B2	SV_223	Efter träningen kände han sig stel i ryggen.
+rygg|NOUN	A2	C1	SV_224	Arkitekten hade designat en byggnad med en lång, böjd rygg som smälte in i landskapet.
+skiva|NOUN	A2	A1	SV_225	Jag vill ha en skiva bröd.
+skiva|NOUN	A2	A2	SV_226	Jag vill ha en skiva bröd.
+skiva|NOUN	A2	B1	SV_227	Jag vill ha en skiva ost på mackan.
+skiva|NOUN	A2	B2	SV_228	Hon lade en skiva ost på smörgåsen.
+skiva|NOUN	A2	C1	SV_229	Hon satte på en gammal jazz-skiva och lyssnade uppmärksamt.
+skuld|NOUN	A2	A1	SV_230	Jag har en skuld.
+skuld|NOUN	A2	A2	SV_231	Jag har en stor skuld.
+skuld|NOUN	A2	B1	SV_232	Han betalade sin skuld.
+skuld|NOUN	A2	B2	SV_233	Jag måste betala min skuld.
+skuld|NOUN	A2	C1	SV_234	Han kände en djup skuld över att ha glömt sin väns födelsedag.
+föremål|NOUN	A2	A1	SV_235	N/A
+föremål|NOUN	A2	A2	SV_236	Det är ett litet föremål.
+föremål|NOUN	A2	B1	SV_237	Detta föremål är mycket gammalt.
+föremål|NOUN	A2	B2	SV_238	Jag såg många vackra föremål i butiken.
+föremål|NOUN	A2	C1	SV_239	Museet hade många intressanta föremål utställda.
+motorcykel|NOUN	A2	A1	SV_240	Jag har en motorcykel.
+motorcykel|NOUN	A2	A2	SV_241	Han kör en motorcykel.
+motorcykel|NOUN	A2	B1	SV_242	Hon åker motorcykel till jobbet varje dag.
+motorcykel|NOUN	A2	B2	SV_243	Han parkerar sin motorcykel utanför huset varje kväll.
+motorcykel|NOUN	A2	C1	SV_244	Efter många års sparande kunde hon äntligen köpa sin drömmotorcykel.
+ro|NOUN	A2	A1	SV_245	Jag behöver lite ro.
+ro|NOUN	A2	A2	SV_246	Jag behöver lite ro.
+ro|NOUN	A2	B1	SV_247	Jag behöver lite ro.
+ro|NOUN	A2	B2	SV_248	Hon fann ro i att läsa böcker.
+ro|NOUN	A2	C1	SV_249	Jag fann ro i den tysta skogen.
+brand|NOUN	A2	A1	SV_250	Det är en brand i skogen.
+brand|NOUN	A2	A2	SV_251	Det var en brand i skogen.
+brand|NOUN	A2	B1	SV_252	Det var en stor brand i byggnaden igår kväll.
+brand|NOUN	A2	B2	SV_253	En brand bröt ut i köket sent på kvällen.
+brand|NOUN	A2	C1	SV_254	Efter branden fick många evakueras från området.
+påve|NOUN	A2	A1	SV_255	N/A
+påve|NOUN	A2	A2	SV_256	N/A
+påve|NOUN	A2	B1	SV_257	Påven besökte kyrkan i Rom.
+påve|NOUN	A2	B2	SV_258	Påven besökte landet för att träffa troende.
+påve|NOUN	A2	C1	SV_259	Påven har traditionellt sett en viktig roll i katolska kyrkan.
+matematik|NOUN	A2	A1	SV_260	Jag gillar matematik.
+matematik|NOUN	A2	A2	SV_261	Jag gillar matematik.
+matematik|NOUN	A2	B1	SV_262	Matematik är ett viktigt ämne i skolan.
+matematik|NOUN	A2	B2	SV_263	Matematik spelar en avgörande roll i teknisk utveckling.
+matematik|NOUN	A2	C1	SV_264	Trots svårigheterna har hon alltid haft ett stort intresse för matematik.
+korridor|NOUN	A2	A1	SV_265	Korridoren är lång.
+korridor|NOUN	A2	A2	SV_266	Korridoren är lång.
+korridor|NOUN	A2	B1	SV_267	Gå rakt fram i korridoren.
+korridor|NOUN	A2	B2	SV_268	Kontoret har en lång korridor.
+korridor|NOUN	A2	C1	SV_269	En svag doft av desinfektionsmedel hängde kvar i den tomma korridoren.
+folkdräkt|NOUN	A2	A1	SV_270	N/A
+folkdräkt|NOUN	A2	A2	SV_271	N/A
+folkdräkt|NOUN	A2	B1	SV_272	Hon hade en vacker folkdräkt på sig.
+folkdräkt|NOUN	A2	B2	SV_273	Hon bar en vacker folkdräkt på nationaldagen.
+folkdräkt|NOUN	A2	C1	SV_274	Många bär folkdräkt på nationaldagen.
+svärmor|NOUN	A2	A1	SV_275	Min svärmor heter Sara.
+svärmor|NOUN	A2	A2	SV_276	Min svärmor bor i en annan stad.
+svärmor|NOUN	A2	B1	SV_277	Min svärmor lagar god mat.
+svärmor|NOUN	A2	B2	SV_278	Min svärmor är en mycket snäll kvinna.
+svärmor|NOUN	A2	C1	SV_279	Min svärmor överraskade oss med en spontan resa till landet förra helgen.
+gråt|NOUN	A2	A1	SV_280	N/A
+gråt|NOUN	A2	A2	SV_281	Barnets gråt väckte mig.
+gråt|NOUN	A2	B1	SV_282	Barnets gråt väckte mig.
+gråt|NOUN	A2	B2	SV_283	Efter mycket gråt somnade barnet.
+gråt|NOUN	A2	C1	SV_284	Gråten i hans röst var påtaglig.
+höststorm|NOUN	A2	A1	SV_285	Det är en höststorm.
+höststorm|NOUN	A2	A2	SV_286	En höststorm kan vara stark.
+höststorm|NOUN	A2	B1	SV_287	Vi hörde höststormen hela natten.
+höststorm|NOUN	A2	B2	SV_288	Vi stannade inne under höststormen.
+höststorm|NOUN	A2	C1	SV_289	Höststormen orsakade strömavbrott i flera delar av landet.
+studielån|NOUN	A2	A1	SV_290	N/A
+studielån|NOUN	A2	A2	SV_291	Jag måste betala mitt studielån varje månad.
+studielån|NOUN	A2	B1	SV_292	Många studenter tar ett studielån.
+studielån|NOUN	A2	B2	SV_293	Hon betalar tillbaka sitt studielån varje månad.
+studielån|NOUN	A2	C1	SV_294	Många studenter är beroende av studielån för att finansiera sin utbildning.
+trottoar|NOUN	A2	A1	SV_295	Jag går på trottoaren.
+trottoar|NOUN	A2	A2	SV_296	Jag går på trottoaren till affären.
+trottoar|NOUN	A2	B1	SV_297	Barnen lekte på trottoaren.
+trottoar|NOUN	A2	B2	SV_298	Vi gick på trottoaren bredvid den livliga gatan.
+trottoar|NOUN	A2	C1	SV_299	Många cyklister väljer att cykla på trottoaren trots förbud.
+tvinga|VERB	A2	A1	SV_300	N/A
+tvinga|VERB	A2	A2	SV_301	De tvingade honom att stanna.
+tvinga|VERB	A2	B1	SV_302	Jag vill inte tvinga dig att komma.
+tvinga|VERB	A2	B2	SV_303	De tvingade honom att berätta sanningen.
+tvinga|VERB	A2	C1	SV_304	Ingen kan tvinga dig att göra något du inte vill.
+kalla|VERB	A2	A1	SV_305	Vi kan kalla honom Peter.
+kalla|VERB	A2	A2	SV_306	Vi kallar vår hund Leo.
+kalla|VERB	A2	B1	SV_307	De kallar mig Sara.
+kalla|VERB	A2	B2	SV_308	Jag ska kalla dig när maten är klar.
+kalla|VERB	A2	C1	SV_309	Man kan kalla det ett misstag att inte agera snabbare.
+hinna|VERB	A2	A1	SV_310	Jag hinner inte.
+hinna|VERB	A2	A2	SV_311	Jag hann inte äta frukost.
+hinna|VERB	A2	B1	SV_312	Jag hinner inte svara på mejlet idag.
+hinna|VERB	A2	B2	SV_313	Vi måste skynda oss för att hinna med tåget.
+hinna|VERB	A2	C1	SV_314	Många menar att dagens samhälle är så snabbt att man knappt hinner reflektera över tillvaron.
+undra|VERB	A2	A1	SV_315	Jag undrar vad det är.
+undra|VERB	A2	A2	SV_316	Jag undrar vad klockan är.
+undra|VERB	A2	B1	SV_317	Jag undrar om det blir regn imorgon.
+undra|VERB	A2	B2	SV_318	Jag undrar om du kan hjälpa mig.
+undra|VERB	A2	C1	SV_319	Jag undrar om teknologins snabba utveckling kommer att förändra våra samhällen i grunden.
+märka|VERB	A2	A1	SV_320	Jag märker att du är glad.
+märka|VERB	A2	A2	SV_321	Jag märker att det regnar ute.
+märka|VERB	A2	B1	SV_322	Jag märkte att han var ledsen.
+märka|VERB	A2	B2	SV_323	Jag märkte att hon var lite trött.
+märka|VERB	A2	C1	SV_324	Jag märkte att hans röst skiftade när han talade om framtiden.
+leka|VERB	A2	A1	SV_325	Barnen leker.
+leka|VERB	A2	A2	SV_326	Barnen leker i trädgården.
+leka|VERB	A2	B1	SV_327	Barnen leker i parken varje dag.
+leka|VERB	A2	B2	SV_328	Barnen leker i trädgården med bollen.
+leka|VERB	A2	C1	SV_329	Han lekte med tanken att flytta utomlands efter examen.
+önska|VERB	A2	A1	SV_330	Jag önskar dig en trevlig dag.
+önska|VERB	A2	A2	SV_331	Jag önskar dig en trevlig helg.
+önska|VERB	A2	B1	SV_332	Jag önskar dig en trevlig helg.
+önska|VERB	A2	B2	SV_333	Vi önskar er en trevlig resa.
+önska|VERB	A2	C1	SV_334	Många önskar att de hade mer tid att ägna åt sina hobbyer.
+orka|VERB	A2	A1	SV_335	Jag orkar inte.
+orka|VERB	A2	A2	SV_336	Jag orkar inte bära den tunga väskan.
+orka|VERB	A2	B1	SV_337	Jag orkar inte bära den tunga väskan.
+orka|VERB	A2	B2	SV_338	Jag orkar inte träna efter jobbet idag.
+orka|VERB	A2	C1	SV_339	Jag orkar inte med mer stress idag.
+cykla|VERB	A2	A1	SV_340	Jag cyklar till parken.
+cykla|VERB	A2	A2	SV_341	Jag gillar att cykla på sommaren.
+cykla|VERB	A2	B1	SV_342	Jag cyklar till parken på lördagar.
+cykla|VERB	A2	B2	SV_343	Jag brukar cykla till jobbet varje dag.
+cykla|VERB	A2	C1	SV_344	Att cykla i motvind kan vara ansträngande, men man vänjer sig.
+lära|VERB	A2	A1	SV_345	Jag vill lära mig svenska.
+lära|VERB	A2	A2	SV_346	Jag lär mig svenska varje dag.
+lära|VERB	A2	B1	SV_347	Det är viktigt att lära sig av sina misstag.
+lära|VERB	A2	B2	SV_348	Det är viktigt att lära sig av sina misstag.
+lära|VERB	A2	C1	SV_349	Det tar tid att lära sig ett nytt språk på djupet.
+sjunka|VERB	A2	A1	SV_350	Båten sjunker.
+sjunka|VERB	A2	A2	SV_351	Båten sjunker i vattnet.
+sjunka|VERB	A2	B1	SV_352	Stenen sjönk till botten.
+sjunka|VERB	A2	B2	SV_353	Priserna på bostäder har börjat sjunka.
+sjunka|VERB	A2	C1	SV_354	Priserna förväntas sjunka nästa månad på grund av den minskade efterfrågan.
+tacka|VERB	A2	A1	SV_355	Jag tackar dig.
+tacka|VERB	A2	A2	SV_356	Jag vill tacka dig.
+tacka|VERB	A2	B1	SV_357	Jag vill tacka dig för hjälpen.
+tacka|VERB	A2	B2	SV_358	Jag måste tacka min kollega för den goda idén.
+tacka|VERB	A2	C1	SV_359	Efter en lång och framgångsrik karriär bestämde sig VD:n för att tacka för sig.
+utbilda|VERB	A2	A1	SV_360	N/A
+utbilda|VERB	A2	A2	SV_361	Hon vill utbilda sig till läkare.
+utbilda|VERB	A2	B1	SV_362	Hon vill utbilda sig till läkare.
+utbilda|VERB	A2	B2	SV_363	Universitetet utbildar många studenter varje år.
+utbilda|VERB	A2	C1	SV_364	Universitetet har som mål att utbilda nästa generations forskare.
+konstatera|VERB	A2	A1	SV_365	N/A
+konstatera|VERB	A2	A2	SV_366	N/A
+konstatera|VERB	A2	B1	SV_367	Jag kan konstatera att det regnar ute.
+konstatera|VERB	A2	B2	SV_368	Polisen kunde konstatera att inget brott hade begåtts.
+konstatera|VERB	A2	C1	SV_369	Efter en noggrann undersökning kunde läkaren konstatera att patienten var frisk.
+återkomma|VERB	A2	A1	SV_370	N/A
+återkomma|VERB	A2	A2	SV_371	Jag återkommer till dig senare idag.
+återkomma|VERB	A2	B1	SV_372	Jag ska återkomma med mer information.
+återkomma|VERB	A2	B2	SV_373	Jag måste återkomma till den frågan senare.
+återkomma|VERB	A2	C1	SV_374	Jag kommer att återkomma med mer information senare.
+höja|VERB	A2	A1	SV_375	Jag höjer handen.
+höja|VERB	A2	A2	SV_376	Kan du höja volymen?
+höja|VERB	A2	B1	SV_377	De vill höja priserna på mat.
+höja|VERB	A2	B2	SV_378	Regeringen planerar att höja skatterna nästa år.
+höja|VERB	A2	C1	SV_379	Hon försökte höja kvaliteten på projektet genom att implementera nya metoder.
+syssla|VERB	A2	A1	SV_380	N/A
+syssla|VERB	A2	A2	SV_381	Jag sysslar ofta med att läsa böcker på helgen.
+syssla|VERB	A2	B1	SV_382	Han sysslar med sin nya hobby.
+syssla|VERB	A2	B2	SV_383	Han sysslar med att måla tavlor på sin fritid.
+syssla|VERB	A2	C1	SV_384	Många äldre sysslar med trädgårdsarbete för att hålla sig aktiva.
+motionera|VERB	A2	A1	SV_385	Jag motionerar varje dag.
+motionera|VERB	A2	A2	SV_386	Jag motionerar varje morgon.
+motionera|VERB	A2	B1	SV_387	Det är viktigt att motionera regelbundet.
+motionera|VERB	A2	B2	SV_388	Jag försöker motionera minst tre gånger i veckan.
+motionera|VERB	A2	C1	SV_389	Trots sin höga ålder försöker hon motionera dagligen för att bibehålla sin rörlighet.
+avskaffa|VERB	A2	A1	SV_390	N/A
+avskaffa|VERB	A2	A2	SV_391	N/A
+avskaffa|VERB	A2	B1	SV_392	De vill avskaffa den gamla regeln.
+avskaffa|VERB	A2	B2	SV_393	Regeringen beslutade att avskaffa den gamla lagen.
+avskaffa|VERB	A2	C1	SV_394	Regeringen föreslog att avskaffa den kontroversiella skatten.
+stödja|VERB	A2	A1	SV_395	N/A
+stödja|VERB	A2	A2	SV_396	Jag vill stödja dig.
+stödja|VERB	A2	B1	SV_397	Hon försöker stödja sin familj.
+stödja|VERB	A2	B2	SV_398	Vi måste stödja varandra i svåra tider.
+stödja|VERB	A2	C1	SV_399	Föreningen strävar efter att stödja lokala företag för att främja ekonomisk tillväxt i regionen.
+förklaring|NOUN	B1	A1	SV_400	N/A
+förklaring|NOUN	B1	A2	SV_401	Jag behöver en förklaring.
+förklaring|NOUN	B1	B1	SV_402	Jag gav henne en kort förklaring om situationen.
+förklaring|NOUN	B1	B2	SV_403	Jag behöver en förklaring till varför det hände.
+förklaring|NOUN	B1	C1	SV_404	Han gav en detaljerad förklaring till varför projektet försenades.
+andel|NOUN	B1	A1	SV_405	Jag har en andel av kakan.
+andel|NOUN	B1	A2	SV_406	En stor andel av böckerna är på engelska.
+andel|NOUN	B1	B1	SV_407	En stor andel av studenterna kommer från andra länder.
+andel|NOUN	B1	B2	SV_408	En stor andel av befolkningen bor i städerna.
+andel|NOUN	B1	C1	SV_409	En stor andel av befolkningen röstade i valet.
+bröllop|NOUN	B1	A1	SV_410	Det är ett bröllop idag.
+bröllop|NOUN	B1	A2	SV_411	Vi ska gå på ett bröllop nästa månad.
+bröllop|NOUN	B1	B1	SV_412	De ska ha ett bröllop på lördag.
+bröllop|NOUN	B1	B2	SV_413	De ska ha sitt bröllop nästa sommar.
+bröllop|NOUN	B1	C1	SV_414	Bröllopet var en storslagen tillställning med gäster från hela världen.
+smörgåsbord|NOUN	B1	A1	SV_415	Vi äter smörgåsbord.
+smörgåsbord|NOUN	B1	A2	SV_416	Vi åt ett stort smörgåsbord med många olika rätter.
+smörgåsbord|NOUN	B1	B1	SV_417	Jag älskar att äta på ett smörgåsbord.
+smörgåsbord|NOUN	B1	B2	SV_418	Vi åt ett stort smörgåsbord med många olika rätter.
+smörgåsbord|NOUN	B1	C1	SV_419	På midsommarfesten dukades ett fantastiskt smörgåsbord upp.
+yttrande|NOUN	B1	A1	SV_420	N/A
+yttrande|NOUN	B1	A2	SV_421	Han gav ett kort yttrande.
+yttrande|NOUN	B1	B1	SV_422	Hans yttrande var mycket tydligt.
+yttrande|NOUN	B1	B2	SV_423	Regeringen lämnade ett yttrande om den nya lagen.
+yttrande|NOUN	B1	C1	SV_424	Hon fick tillfälle att lämna sitt yttrande om lagförslaget.
+hammare|NOUN	B1	A1	SV_425	Jag har en hammare.
+hammare|NOUN	B1	A2	SV_426	Jag har en hammare.
+hammare|NOUN	B1	B1	SV_427	Jag kan inte hitta hammaren.
+hammare|NOUN	B1	B2	SV_428	Jag behöver en hammare för att slå in spiken.
+hammare|NOUN	B1	C1	SV_429	Även om en hammare primärt används för att slå in spik, kan den också vara användbar för att demontera strukturer.
+kokpunkt|NOUN	B1	A1	SV_430	N/A
+kokpunkt|NOUN	B1	A2	SV_431	N/A
+kokpunkt|NOUN	B1	B1	SV_432	Vatten har en kokpunkt på hundra grader Celsius.
+kokpunkt|NOUN	B1	B2	SV_433	Vatten når sin kokpunkt vid hundra grader Celsius.
+kokpunkt|NOUN	B1	C1	SV_434	Vattnets kokpunkt är 100 grader Celsius.
+mjöl|NOUN	B1	A1	SV_435	Jag köper mjöl.
+mjöl|NOUN	B1	A2	SV_436	Vi bakar bröd med mjöl.
+mjöl|NOUN	B1	B1	SV_437	Jag behöver mjöl för att baka en kaka.
+mjöl|NOUN	B1	B2	SV_438	Jag behöver mer mjöl för att baka brödet.
+mjöl|NOUN	B1	C1	SV_439	Många bagare föredrar ekologiskt mjöl för dess smak och konsistens.
+hantverkare|NOUN	B1	A1	SV_440	Min pappa är hantverkare.
+hantverkare|NOUN	B1	A2	SV_441	En hantverkare kommer hit imorgon.
+hantverkare|NOUN	B1	B1	SV_442	Vi behöver en hantverkare som kan reparera fönstret.
+hantverkare|NOUN	B1	B2	SV_443	Vi behövde en hantverkare för att fixa taket.
+hantverkare|NOUN	B1	C1	SV_444	Vi anlitade en erfaren hantverkare för att renovera köket.
+nackdel|NOUN	B1	A1	SV_445	N/A
+nackdel|NOUN	B1	A2	SV_446	Huset är fint, men priset är en nackdel.
+nackdel|NOUN	B1	B1	SV_447	En nackdel med att bo på landet är att det är långt till affären.
+nackdel|NOUN	B1	B2	SV_448	En stor nackdel med det nya systemet är kostnaden.
+nackdel|NOUN	B1	C1	SV_449	En stor nackdel med det nya systemet är dess komplexitet.
+varelse|NOUN	B1	A1	SV_450	N/A
+varelse|NOUN	B1	A2	SV_451	En liten varelse sprang över golvet.
+varelse|NOUN	B1	B1	SV_452	Det finns många olika varelser i havet.
+varelse|NOUN	B1	B2	SV_453	En människa är en komplex varelse.
+varelse|NOUN	B1	C1	SV_454	Människan är en komplex varelse med många känslor.
+bilradio|NOUN	B1	A1	SV_455	Min bil har en bilradio.
+bilradio|NOUN	B1	A2	SV_456	Min bil har en bilradio.
+bilradio|NOUN	B1	B1	SV_457	Jag lyssnade på bilradion under körningen.
+bilradio|NOUN	B1	B2	SV_458	Min nya bilradio har bra ljud.
+bilradio|NOUN	B1	C1	SV_459	Hon lyssnade på nyheterna via bilradion under den långa körningen.
+polisstation|NOUN	B1	A1	SV_460	Jag går till polisstationen.
+polisstation|NOUN	B1	A2	SV_461	Polisstationen ligger nära torget.
+polisstation|NOUN	B1	B1	SV_462	Min vän jobbar på en polisstation i centrum.
+polisstation|NOUN	B1	B2	SV_463	Den nya polisstationen ligger nära centrum.
+polisstation|NOUN	B1	C1	SV_464	Vi rapporterade händelsen på den lokala polisstationen.
+uttalande|NOUN	B1	A1	SV_465	N/A
+uttalande|NOUN	B1	A2	SV_466	Hon gjorde ett uttalande.
+uttalande|NOUN	B1	B1	SV_467	Regeringen gjorde ett viktigt uttalande.
+uttalande|NOUN	B1	B2	SV_468	Ministern gjorde ett viktigt uttalande.
+uttalande|NOUN	B1	C1	SV_469	Debatten avslutades med ett gemensamt uttalande från båda sidor.
+snobb|NOUN	B1	A1	SV_470	N/A
+snobb|NOUN	B1	A2	SV_471	N/A
+snobb|NOUN	B1	B1	SV_472	Han uppför sig ibland som en snobb.
+snobb|NOUN	B1	B2	SV_473	Han klär sig dyrt och uppför sig som en snobb.
+snobb|NOUN	B1	C1	SV_474	Med sin överlägsna attityd framstod han ofta som en riktig snobb.
+bygge|NOUN	B1	A1	SV_475	Det är ett stort bygge här.
+bygge|NOUN	B1	A2	SV_476	Vi ser ett nytt bygge vid vägen.
+bygge|NOUN	B1	B1	SV_477	Det nya bygget är nästan klart.
+bygge|NOUN	B1	B2	SV_478	Bygget av den nya bron är nästan klart.
+bygge|NOUN	B1	C1	SV_479	Det nya bygget på torget har blivit en stor snackis i stan.
+varukorg|NOUN	B1	A1	SV_480	Jag lägger äpplen i varukorgen.
+varukorg|NOUN	B1	A2	SV_481	Jag har tre äpplen i min varukorg.
+varukorg|NOUN	B1	B1	SV_482	Min varukorg är full.
+varukorg|NOUN	B1	B2	SV_483	Jag lade tre äpplen i varukorgen.
+varukorg|NOUN	B1	C1	SV_484	Kunden lade de sista varorna i sin varukorg innan han gick till kassan.
+förekomst|NOUN	B1	A1	SV_485	N/A
+förekomst|NOUN	B1	A2	SV_486	N/A
+förekomst|NOUN	B1	B1	SV_487	N/A
+förekomst|NOUN	B1	B2	SV_488	Man har noterat en ökad förekomst av rådjur i området.
+förekomst|NOUN	B1	C1	SV_489	Man har noterat en ökad förekomst av allergier hos barn.
+försäkran|NOUN	B1	A1	SV_490	N/A
+försäkran|NOUN	B1	A2	SV_491	N/A
+försäkran|NOUN	B1	B1	SV_492	Jag fick en försäkran om att allt skulle ordna sig.
+försäkran|NOUN	B1	B2	SV_493	Jag gav honom min försäkran om att allt skulle lösa sig.
+försäkran|NOUN	B1	C1	SV_494	Han gav oss sin försäkran om att arbetet skulle bli klart.
+måltidssång|NOUN	B1	A1	SV_495	N/A
+måltidssång|NOUN	B1	A2	SV_496	De sjöng en måltidssång.
+måltidssång|NOUN	B1	B1	SV_497	Barnen sjöng en glad måltidssång före middagen.
+måltidssång|NOUN	B1	B2	SV_498	Barnen sjöng en glad måltidssång innan vi åt middag.
+måltidssång|NOUN	B1	C1	SV_499	Barnen sjöng en glad måltidssång innan de började äta.
+översätta|VERB	B1	A1	SV_500	Kan du översätta ordet?
+översätta|VERB	B1	A2	SV_501	Kan du översätta den här meningen?
+översätta|VERB	B1	B1	SV_502	Jag måste översätta texten till svenska.
+översätta|VERB	B1	B2	SV_503	Jag måste översätta e-postmeddelandet före mötet.
+översätta|VERB	B1	C1	SV_504	Det är svårt att översätta poesi utan att förlora dess ursprungliga känsla.
+sprida|VERB	B1	A1	SV_505	N/A
+sprida|VERB	B1	A2	SV_506	Jag sprider smör på brödet.
+sprida|VERB	B1	B1	SV_507	Blommorna sprider en god doft i rummet.
+sprida|VERB	B1	B2	SV_508	Vattnet kan sprida frön till nya platser.
+sprida|VERB	B1	C1	SV_509	Att sprida kunskap är viktigt för utvecklingen av samhället.
+uppskatta|VERB	B1	A1	SV_510	N/A
+uppskatta|VERB	B1	A2	SV_511	Jag uppskattar din hjälp.
+uppskatta|VERB	B1	B1	SV_512	Jag uppskattar din hjälp mycket.
+uppskatta|VERB	B1	B2	SV_513	Jag uppskattar verkligen din ärlighet.
+uppskatta|VERB	B1	C1	SV_514	Vi uppskattar din feedback för att förbättra vår tjänst.
+fly|VERB	B1	A1	SV_515	Fågeln kan flyga.
+fly|VERB	B1	A2	SV_516	De flyr från huset.
+fly|VERB	B1	B1	SV_517	De var tvungna att fly landet snabbt.
+fly|VERB	B1	B2	SV_518	De var tvungna att fly från kriget.
+fly|VERB	B1	C1	SV_519	Många människor tvingades fly från sina hem under kriget.
+forma|VERB	B1	A1	SV_520	N/A
+forma|VERB	B1	A2	SV_521	Jag formar leran.
+forma|VERB	B1	B1	SV_522	Barnen gillar att forma figurer av lera.
+forma|VERB	B1	B2	SV_523	Hon ville forma sin framtid på sitt eget sätt.
+forma|VERB	B1	C1	SV_524	Samhället har en stor roll i att forma individernas värderingar.
+markera|VERB	B1	A1	SV_525	Markera rätt svar.
+markera|VERB	B1	A2	SV_526	Kan du markera rätt svar?
+markera|VERB	B1	B1	SV_527	Kan du markera de viktigaste delarna?
+markera|VERB	B1	B2	SV_528	Hon ville markera vikten av att vara i tid.
+markera|VERB	B1	C1	SV_529	Hans tonfall markerade tydligt hans irritation.
+skala|VERB	B1	A1	SV_530	Jag skalar ett äpple.
+skala|VERB	B1	A2	SV_531	Jag ska skala potatisen till middagen.
+skala|VERB	B1	B1	SV_532	Jag måste skala potatisen.
+skala|VERB	B1	B2	SV_533	Man måste skala löken innan man hackar den.
+skala|VERB	B1	C1	SV_534	De tvingades skala ner verksamheten på grund av lågkonjunkturen.
+förvirra|VERB	B1	A1	SV_535	N/A
+förvirra|VERB	B1	A2	SV_536	Det förvirrar mig.
+förvirra|VERB	B1	B1	SV_537	Jag vill inte förvirra dig.
+förvirra|VERB	B1	B2	SV_538	Hans snabba tal kan förvirra nya elever.
+förvirra|VERB	B1	C1	SV_539	Hans oväntade fråga lyckades förvirra mig totalt.
+värma|VERB	B1	A1	SV_540	Jag värmer maten.
+värma|VERB	B1	A2	SV_541	Jag värmer maten.
+värma|VERB	B1	B1	SV_542	Jag ska värma vattnet till teet.
+värma|VERB	B1	B2	SV_543	Jag ska värma vattnet till teet.
+värma|VERB	B1	C1	SV_544	Att värma sig vid elden var en välkommen lättnad efter den kalla dagen.
+stöta|VERB	B1	A1	SV_545	Jag stöter bollen.
+stöta|VERB	B1	A2	SV_546	Jag stötte på min lärare i affären.
+stöta|VERB	B1	B1	SV_547	Jag stötte emot en stol i mörkret.
+stöta|VERB	B1	B2	SV_548	Vi stötte på några problem under mötet.
+stöta|VERB	B1	C1	SV_549	Vi stötte på oväntade hinder i processen som fördröjde resultatet.
+rita|VERB	B1	A1	SV_550	Jag ritar en bild.
+rita|VERB	B1	A2	SV_551	Jag ritar en blomma.
+rita|VERB	B1	B1	SV_552	Hon gillar att rita bilder.
+rita|VERB	B1	B2	SV_553	Han gillar att rita landskap med ljusa färger.
+rita|VERB	B1	C1	SV_554	För att förstå komplexiteten i systemet bad vi ingenjören att rita upp en schematisk bild.
+viska|VERB	B1	A1	SV_555	Hon viskar.
+viska|VERB	B1	A2	SV_556	Han viskade en hemlighet till sin vän.
+viska|VERB	B1	B1	SV_557	Hon viskade något i mitt öra.
+viska|VERB	B1	B2	SV_558	Hon började viska om sin hemlighet.
+viska|VERB	B1	C1	SV_559	Han viskade oroligt till sin kollega om det oväntade beskedet.
+begrava|VERB	B1	A1	SV_560	N/A
+begrava|VERB	B1	A2	SV_561	De ska begrava sin far.
+begrava|VERB	B1	B1	SV_562	De kommer att begrava hunden imorgon.
+begrava|VERB	B1	B2	SV_563	De valde att begrava hunden i trädgården.
+begrava|VERB	B1	C1	SV_564	Han försökte begrava sina känslor istället för att prata om dem.
+bota|VERB	B1	A1	SV_565	Doktorn kan bota mig.
+bota|VERB	B1	A2	SV_566	Läkaren kan bota sjukdomen.
+bota|VERB	B1	B1	SV_567	Läkaren kan bota många sjukdomar.
+bota|VERB	B1	B2	SV_568	Han hoppas att den nya medicinen kan bota hans sjukdom.
+bota|VERB	B1	C1	SV_569	Nya mediciner kan bota många svåra sjukdomar.
+attackera|VERB	B1	A1	SV_570	N/A
+attackera|VERB	B1	A2	SV_571	Hunden attackerade bollen.
+attackera|VERB	B1	B1	SV_572	Hunden började attackera katten.
+attackera|VERB	B1	B2	SV_573	Vargen började attackera sitt byte.
+attackera|VERB	B1	C1	SV_574	Hon valde att attackera problemet från en ny vinkel.
+knäppa|VERB	B1	A1	SV_575	Jag knäpper min jacka.
+knäppa|VERB	B1	A2	SV_576	Hon kan knäppa sin jacka.
+knäppa|VERB	B1	B1	SV_577	Kan du knäppa ett foto av mig?
+knäppa|VERB	B1	B2	SV_578	Glöm inte att knäppa jackan innan du går ut.
+knäppa|VERB	B1	C1	SV_579	Det knäppte till i hans huvud när han förstod sambandet.
+anfalla|VERB	B1	A1	SV_580	N/A
+anfalla|VERB	B1	A2	SV_581	N/A
+anfalla|VERB	B1	B1	SV_582	Hunden anföll mannen på gatan.
+anfalla|VERB	B1	B2	SV_583	Soldaterna anföll fienden.
+anfalla|VERB	B1	C1	SV_584	Tjuvarna valde att anfalla banken tidigt på morgonen.
+invandra|VERB	B1	A1	SV_585	N/A
+invandra|VERB	B1	A2	SV_586	Många människor invandrar till Sverige.
+invandra|VERB	B1	B1	SV_587	Många människor invandrar till Sverige varje år.
+invandra|VERB	B1	B2	SV_588	Många människor invandrar till Sverige varje år.
+invandra|VERB	B1	C1	SV_589	Många människor väljer att invandra till Sverige för att söka ett bättre liv.
+svida|VERB	B1	A1	SV_590	N/A
+svida|VERB	B1	A2	SV_591	Mitt sår svider lite.
+svida|VERB	B1	B1	SV_592	Det svider i ögonen.
+svida|VERB	B1	B2	SV_593	Det sved i ögat när jag fick schampo i det.
+svida|VERB	B1	C1	SV_594	Misslyckandet sved, men han var fast besluten att inte ge upp.
+filma|VERB	B1	A1	SV_595	Jag filmar med min telefon.
+filma|VERB	B1	A2	SV_596	De ska filma filmen i sommar.
+filma|VERB	B1	B1	SV_597	Vi ska filma en kort dokumentär till projektet.
+filma|VERB	B1	B2	SV_598	Vi ska filma en kort dokumentär om staden.
+filma|VERB	B1	C1	SV_599	De beslutade att filma dokumentären i sju olika länder för att få variation.
+övergång|NOUN	B2	A1	SV_600	N/A
+övergång|NOUN	B2	A2	SV_601	Vi går över gatan vid övergången.
+övergång|NOUN	B2	B1	SV_602	Vi måste använda övergången för att komma till andra sidan.
+övergång|NOUN	B2	B2	SV_603	Övergången från sommar till höst är vacker.
+övergång|NOUN	B2	C1	SV_604	Övergången från gymnasiet till universitetet kan vara utmanande för många studenter.
+analys|NOUN	B2	A1	SV_605	N/A
+analys|NOUN	B2	A2	SV_606	N/A
+analys|NOUN	B2	B1	SV_607	Lärarna gjorde en analys av elevernas resultat.
+analys|NOUN	B2	B2	SV_608	Vi behöver en grundlig analys av resultaten.
+analys|NOUN	B2	C1	SV_609	De presenterade en djupgående analys av data.
+lektor|NOUN	B2	A1	SV_610	N/A
+lektor|NOUN	B2	A2	SV_611	N/A
+lektor|NOUN	B2	B1	SV_612	Min kusin är lektor på universitetet.
+lektor|NOUN	B2	B2	SV_613	Lektorn håller en föreläsning idag.
+lektor|NOUN	B2	C1	SV_614	Den nya lektorn har börjat undervisa i litteraturvetenskap.
+debattinlägg|NOUN	B2	A1	SV_615	N/A
+debattinlägg|NOUN	B2	A2	SV_616	N/A
+debattinlägg|NOUN	B2	B1	SV_617	Vi läste ett intressant debattinlägg i tidningen.
+debattinlägg|NOUN	B2	B2	SV_618	Hon skrev ett debattinlägg i den lokala tidningen.
+debattinlägg|NOUN	B2	C1	SV_619	Hon publicerade ett skarpt debattinlägg om regeringens nya politik.
+mikrofon|NOUN	B2	A1	SV_620	Jag har en mikrofon.
+mikrofon|NOUN	B2	A2	SV_621	Jag sjunger i mikrofonen.
+mikrofon|NOUN	B2	B1	SV_622	Sångaren håller en mikrofon när han sjunger.
+mikrofon|NOUN	B2	B2	SV_623	Sångaren höll mikrofonen nära munnen.
+mikrofon|NOUN	B2	C1	SV_624	Ljudteknikern justerade mikrofonen före konserten.
+vintermörker|NOUN	B2	A1	SV_625	N/A
+vintermörker|NOUN	B2	A2	SV_626	Vintermörkret är långt i Sverige.
+vintermörker|NOUN	B2	B1	SV_627	Jag gillar inte vintermörkret.
+vintermörker|NOUN	B2	B2	SV_628	Många svenskar längtar efter ljus under vintermörkret.
+vintermörker|NOUN	B2	C1	SV_629	Det är lätt att känna sig nedstämd under det djupa vintermörkret.
+växthusgas|NOUN	B2	A1	SV_630	N/A
+växthusgas|NOUN	B2	A2	SV_631	N/A
+växthusgas|NOUN	B2	B1	SV_632	Bilar släpper ut växthusgaser.
+växthusgas|NOUN	B2	B2	SV_633	Koldioxid är en viktig växthusgas.
+växthusgas|NOUN	B2	C1	SV_634	Utsläppen av växthusgaser har en stor påverkan på klimatet.
+bransch|NOUN	B2	A1	SV_635	N/A
+bransch|NOUN	B2	A2	SV_636	Min syster jobbar i byggbranschen.
+bransch|NOUN	B2	B1	SV_637	Han jobbar inom hotellbranschen.
+bransch|NOUN	B2	B2	SV_638	Hon har lång erfarenhet inom restaurangbranschen.
+bransch|NOUN	B2	C1	SV_639	Han har arbetat inom IT-branschen i över tio år.
+utmärkelse|NOUN	B2	A1	SV_640	N/A
+utmärkelse|NOUN	B2	A2	SV_641	Hon fick en fin utmärkelse.
+utmärkelse|NOUN	B2	B1	SV_642	Hon fick en utmärkelse för sitt arbete.
+utmärkelse|NOUN	B2	B2	SV_643	Hon fick en utmärkelse för sitt arbete.
+utmärkelse|NOUN	B2	C1	SV_644	En känd författare mottog en litterär utmärkelse för sin senaste roman.
+herravälde|NOUN	B2	A1	SV_645	N/A
+herravälde|NOUN	B2	A2	SV_646	N/A
+herravälde|NOUN	B2	B1	SV_647	N/A
+herravälde|NOUN	B2	B2	SV_648	Landet var under främmande herravälde i många år.
+herravälde|NOUN	B2	C1	SV_649	Det gamla imperiet hade länge haft herravälde över den regionen.
+satellitnavigering|NOUN	B2	A1	SV_650	N/A
+satellitnavigering|NOUN	B2	A2	SV_651	Vi använder satellitnavigering för att hitta vägen.
+satellitnavigering|NOUN	B2	B1	SV_652	Vi använde satellitnavigering för att hitta vägen.
+satellitnavigering|NOUN	B2	B2	SV_653	Vi använde satellitnavigering för att hitta hotellet.
+satellitnavigering|NOUN	B2	C1	SV_654	Föraren förlitade sig helt på satellitnavigering för att nå destinationen i tid.
+samlingslokal|NOUN	B2	A1	SV_655	N/A
+samlingslokal|NOUN	B2	A2	SV_656	Mötet är i samlingslokalen.
+samlingslokal|NOUN	B2	B1	SV_657	Vi hyrde samlingslokalen för festen.
+samlingslokal|NOUN	B2	B2	SV_658	Vi hyrde samlingslokalen för att hålla mötet.
+samlingslokal|NOUN	B2	C1	SV_659	Föreningen hade sitt möte i en rymlig samlingslokal.
+buljongtärning|NOUN	B2	A1	SV_660	N/A
+buljongtärning|NOUN	B2	A2	SV_661	Jag lägger en buljongtärning i vattnet.
+buljongtärning|NOUN	B2	B1	SV_662	Jag lägger en buljongtärning i vattnet.
+buljongtärning|NOUN	B2	B2	SV_663	Hon smulade en buljongtärning i grytan.
+buljongtärning|NOUN	B2	C1	SV_664	Receptet föreslog att man skulle lösa upp en buljongtärning i kokande vatten för att skapa en snabb buljong.
+drivmedel|NOUN	B2	A1	SV_665	N/A
+drivmedel|NOUN	B2	A2	SV_666	Vi behöver mer drivmedel till bilen.
+drivmedel|NOUN	B2	B1	SV_667	Vi behöver mer drivmedel till bilen.
+drivmedel|NOUN	B2	B2	SV_668	Bilen behöver mer drivmedel för att köra långt.
+drivmedel|NOUN	B2	C1	SV_669	Den nya bilmodellen kan köras på flera olika typer av drivmedel.
+filmföreställning|NOUN	B2	A1	SV_670	N/A
+filmföreställning|NOUN	B2	A2	SV_671	Vi ska gå på en filmföreställning ikväll.
+filmföreställning|NOUN	B2	B1	SV_672	Vi gick på en filmföreställning igår kväll.
+filmföreställning|NOUN	B2	B2	SV_673	Filmföreställningen börjar om tio minuter.
+filmföreställning|NOUN	B2	C1	SV_674	Vi diskuterade filmföreställningen efteråt och delade våra intryck.
+djup|NOUN	B2	A1	SV_675	N/A
+djup|NOUN	B2	A2	SV_676	Havet har ett stort djup.
+djup|NOUN	B2	B1	SV_677	Hon mätte djupet i poolen.
+djup|NOUN	B2	B2	SV_678	Simhallen har ett djup på tre meter.
+djup|NOUN	B2	C1	SV_679	Den filosofiska avhandlingen utforskade livets djup.
+havsvik|NOUN	B2	A1	SV_680	N/A
+havsvik|NOUN	B2	A2	SV_681	Vi simmade i en vacker havsvik.
+havsvik|NOUN	B2	B1	SV_682	Vi simmade i havsviken.
+havsvik|NOUN	B2	B2	SV_683	Vi simmade i en liten havsvik.
+havsvik|NOUN	B2	C1	SV_684	Byn ligger vackert vid en liten havsvik som skyddas av höga klippor.
+kavajtyg|NOUN	B2	A1	SV_685	N/A
+kavajtyg|NOUN	B2	A2	SV_686	Jag köpte blått kavajtyg till min nya kavaj.
+kavajtyg|NOUN	B2	B1	SV_687	Hon valde ett mörkt kavajtyg till sin nya jacka.
+kavajtyg|NOUN	B2	B2	SV_688	Hon valde ett fint kavajtyg till sin nya kavaj.
+kavajtyg|NOUN	B2	C1	SV_689	Hon valde ett fint kavajtyg för den nya kavajen.
+misströstan|NOUN	B2	A1	SV_690	N/A
+misströstan|NOUN	B2	A2	SV_691	N/A
+misströstan|NOUN	B2	B1	SV_692	N/A
+misströstan|NOUN	B2	B2	SV_693	Han kände en djup misströstan när han förlorade jobbet.
+misströstan|NOUN	B2	C1	SV_694	Trots misströstan fortsatte hon att kämpa för sina ideal.
+läderhandel|NOUN	B2	A1	SV_695	N/A
+läderhandel|NOUN	B2	A2	SV_696	Jag köpte nya skor i läderhandeln.
+läderhandel|NOUN	B2	B1	SV_697	Vi gick till läderhandeln för att köpa ett nytt bälte.
+läderhandel|NOUN	B2	B2	SV_698	Min morfar arbetade i en läderhandel i många år.
+läderhandel|NOUN	B2	C1	SV_699	Min farfar drev en framgångsrik läderhandel i centrum.
+avgöra|VERB	B2	A1	SV_700	N/A
+avgöra|VERB	B2	A2	SV_701	Jag kan inte avgöra vilken väg vi ska ta.
+avgöra|VERB	B2	B1	SV_702	Vi måste avgöra vilket alternativ som är bäst.
+avgöra|VERB	B2	B2	SV_703	Det är svårt att avgöra vem som har rätt.
+avgöra|VERB	B2	C1	SV_704	Resultatet av utredningen kommer att avgöra hur vi går vidare.
+blomma|VERB	B2	A1	SV_705	Rosorna blommar på sommaren.
+blomma|VERB	B2	A2	SV_706	Rosorna kommer snart att blomma.
+blomma|VERB	B2	B1	SV_707	Träden blomma vackert på våren.
+blomma|VERB	B2	B2	SV_708	Rosorna kommer att blomma tidigt i år.
+blomma|VERB	B2	C1	SV_709	Alla träd i parken kommer att blomma vackert i maj.
+darra|VERB	B2	A1	SV_710	Jag darrar.
+darra|VERB	B2	A2	SV_711	Mina händer darrar lite.
+darra|VERB	B2	B1	SV_712	Han började darra när han kände kylan.
+darra|VERB	B2	B2	SV_713	Han började darra av kyla.
+darra|VERB	B2	C1	SV_714	Hon kunde inte undgå att darra när hon fick beskedet om olyckan.
+inrätta|VERB	B2	A1	SV_715	N/A
+inrätta|VERB	B2	A2	SV_716	N/A
+inrätta|VERB	B2	B1	SV_717	Staden planerar att inrätta en ny busslinje.
+inrätta|VERB	B2	B2	SV_718	Kommunen beslutade att inrätta en ny ungdomsgård.
+inrätta|VERB	B2	C1	SV_719	Företaget planerade att inrätta en ny avdelning nästa år.
+besvara|VERB	B2	A1	SV_720	N/A
+besvara|VERB	B2	A2	SV_721	Jag måste besvara det här mejlet.
+besvara|VERB	B2	B1	SV_722	Hon måste besvara e-postmeddelandet före lunch.
+besvara|VERB	B2	B2	SV_723	Lärarna kommer att besvara era frågor efter presentationen.
+besvara|VERB	B2	C1	SV_724	Ministern lovade att besvara alla frågor från pressen efter mötet.
+reflektera|VERB	B2	A1	SV_725	N/A
+reflektera|VERB	B2	A2	SV_726	N/A
+reflektera|VERB	B2	B1	SV_727	Jag behöver tid att reflektera över ditt förslag.
+reflektera|VERB	B2	B2	SV_728	Jag behöver lite tid för att reflektera över förslaget.
+reflektera|VERB	B2	C1	SV_729	Det är bra att reflektera över sina beslut innan man agerar.
+lugna|VERB	B2	A1	SV_730	Han lugnar barnet.
+lugna|VERB	B2	A2	SV_731	Hon försökte lugna barnet.
+lugna|VERB	B2	B1	SV_732	Hon försökte lugna barnet.
+lugna|VERB	B2	B2	SV_733	Hon försökte lugna den oroliga hunden.
+lugna|VERB	B2	C1	SV_734	Hon lyckades lugna situationen med några väl valda ord.
+vänja|VERB	B2	A1	SV_735	Jag vänjer mig vid det.
+vänja|VERB	B2	A2	SV_736	Jag måste vänja mig vid det.
+vänja|VERB	B2	B1	SV_737	Det tar tid att vänja sig vid det nya jobbet.
+vänja|VERB	B2	B2	SV_738	Det tar tid att vänja sig vid ett nytt land.
+vänja|VERB	B2	C1	SV_739	Det tar tid att vänja sig vid en ny stad.
+förvalta|VERB	B2	A1	SV_740	N/A
+förvalta|VERB	B2	A2	SV_741	N/A
+förvalta|VERB	B2	B1	SV_742	Hon måste lära sig att förvalta sina pengar klokt.
+förvalta|VERB	B2	B2	SV_743	Det är viktigt att förvalta sina pengar väl.
+förvalta|VERB	B2	C1	SV_744	Det är viktigt att förvalta sina resurser väl för att uppnå långsiktig framgång.
+förödmjuka|VERB	B2	A1	SV_745	N/A
+förödmjuka|VERB	B2	A2	SV_746	N/A
+förödmjuka|VERB	B2	B1	SV_747	N/A
+förödmjuka|VERB	B2	B2	SV_748	Man ska aldrig förödmjuka andra människor.
+förödmjuka|VERB	B2	C1	SV_749	Han försökte förödmjuka sin motståndare under debatten.
+förebygga|VERB	B2	A1	SV_750	N/A
+förebygga|VERB	B2	A2	SV_751	Att äta bra kan förebygga sjukdomar.
+förebygga|VERB	B2	B1	SV_752	Vi måste förebygga spridningen av viruset.
+förebygga|VERB	B2	B2	SV_753	Motion kan förebygga många sjukdomar.
+förebygga|VERB	B2	C1	SV_754	Att motionera regelbundet kan hjälpa till att förebygga många sjukdomar.
+fördöma|VERB	B2	A1	SV_755	N/A
+fördöma|VERB	B2	A2	SV_756	N/A
+fördöma|VERB	B2	B1	SV_757	N/A
+fördöma|VERB	B2	B2	SV_758	Många fördömer våld i samhället.
+fördöma|VERB	B2	C1	SV_759	Många länder fördömer starkt agerandet.
+uppsluka|VERB	B2	A1	SV_760	N/A
+uppsluka|VERB	B2	A2	SV_761	N/A
+uppsluka|VERB	B2	B1	SV_762	Elden uppslukade snabbt hela skogen.
+uppsluka|VERB	B2	B2	SV_763	Arbetet uppslukar all min tid.
+uppsluka|VERB	B2	C1	SV_764	Romanen var så spännande att den uppslukade mig helt.
+rykta|VERB	B2	A1	SV_765	N/A
+rykta|VERB	B2	A2	SV_766	Jag måste rykta hästen.
+rykta|VERB	B2	B1	SV_767	Jag ryktar hästen varje morgon.
+rykta|VERB	B2	B2	SV_768	Hon brukar rykta sin häst på kvällen.
+rykta|VERB	B2	C1	SV_769	Han ryktar sin häst varje morgon.
+inträda|VERB	B2	A1	SV_770	N/A
+inträda|VERB	B2	A2	SV_771	N/A
+inträda|VERB	B2	B1	SV_772	Den nya regeln inträder nästa vecka.
+inträda|VERB	B2	B2	SV_773	När mörkret inträdde tände vi lamporna.
+inträda|VERB	B2	C1	SV_774	Den nya lagen kommer att inträda i kraft den första maj.
+misslyckas|VERB	B2	A1	SV_775	N/A
+misslyckas|VERB	B2	A2	SV_776	Han misslyckades med att hitta nycklarna.
+misslyckas|VERB	B2	B1	SV_777	Jag vill inte misslyckas med provet.
+misslyckas|VERB	B2	B2	SV_778	Vi kan inte misslyckas med detta viktiga projekt.
+misslyckas|VERB	B2	C1	SV_779	Projektet riskerade att misslyckas om inte alla medlemmar bidrog med sina idéer.
+förfära|VERB	B2	A1	SV_780	N/A
+förfära|VERB	B2	A2	SV_781	N/A
+förfära|VERB	B2	B1	SV_782	N/A
+förfära|VERB	B2	B2	SV_783	Nyheterna förfärade mig.
+förfära|VERB	B2	C1	SV_784	Nyheten om olyckan förfärade alla som hörde den.
+avstyra|VERB	B2	A1	SV_785	N/A
+avstyra|VERB	B2	A2	SV_786	N/A
+avstyra|VERB	B2	B1	SV_787	De försökte avstyra bråket.
+avstyra|VERB	B2	B2	SV_788	Vi kunde avstyra en olycka i sista stund.
+avstyra|VERB	B2	C1	SV_789	Polisen lyckades avstyra ett planerat inbrott tack vare tips från allmänheten.
+arkivera|VERB	B2	A1	SV_790	N/A
+arkivera|VERB	B2	A2	SV_791	N/A
+arkivera|VERB	B2	B1	SV_792	Vi måste arkivera alla gamla papper.
+arkivera|VERB	B2	B2	SV_793	Du bör arkivera viktiga dokument på ett säkert ställe.
+arkivera|VERB	B2	C1	SV_794	Det är viktigt att regelbundet arkivera digitala filer för att undvika förlust.
+avleda|VERB	B2	A1	SV_795	N/A
+avleda|VERB	B2	A2	SV_796	N/A
+avleda|VERB	B2	B1	SV_797	Ljudet avledde mig från mitt arbete.
+avleda|VERB	B2	B2	SV_798	Han försökte avleda diskussionen till ett annat ämne.
+avleda|VERB	B2	C1	SV_799	Man försökte avleda barnens uppmärksamhet med en leksak.
+läger|NOUN	C1	A1	SV_800	Barnen är på läger.
+läger|NOUN	C1	A2	SV_801	Barnen ska åka till ett läger i sommar.
+läger|NOUN	C1	B1	SV_802	Barnen åkte på sommar**läger** i juli.
+läger|NOUN	C1	B2	SV_803	Föreningen anordnar ett idrottsläger varje sommar.
+läger|NOUN	C1	C1	SV_804	Partiet splittrades i två olika läger efter debatten om den nya lagen.
+tyngd|NOUN	C1	A1	SV_805	N/A
+tyngd|NOUN	C1	A2	SV_806	Stenen har stor tyngd.
+tyngd|NOUN	C1	B1	SV_807	Väskans tyngd gjorde den svår att bära.
+tyngd|NOUN	C1	B2	SV_808	Lyftaren kände tyngden av stången på sina axlar.
+tyngd|NOUN	C1	C1	SV_809	Tyngden i hennes ord var obestridlig.
+avbön|NOUN	C1	A1	SV_810	N/A
+avbön|NOUN	C1	A2	SV_811	N/A
+avbön|NOUN	C1	B1	SV_812	N/A
+avbön|NOUN	C1	B2	SV_813	Han gjorde en offentlig avbön för sina tidigare uttalanden.
+avbön|NOUN	C1	C1	SV_814	Han gjorde offentlig avbön för sina tidigare uttalanden.
+gryning|NOUN	C1	A1	SV_815	N/A
+gryning|NOUN	C1	A2	SV_816	Jag vaknar alltid tidigt i gryningen.
+gryning|NOUN	C1	B1	SV_817	Fåglarna börjar sjunga tidigt i gryningen.
+gryning|NOUN	C1	B2	SV_818	Vi vaknade tidigt i gryningen för att se solen gå upp.
+gryning|NOUN	C1	C1	SV_819	Vi vandrade genom skogen i gryningen när fåglarna började sjunga.
+trafikant|NOUN	C1	A1	SV_820	N/A
+trafikant|NOUN	C1	A2	SV_821	En trafikant ska vara försiktig.
+trafikant|NOUN	C1	B1	SV_822	Alla trafikanter måste följa reglerna i trafiken.
+trafikant|NOUN	C1	B2	SV_823	Alla trafikanter måste följa trafikreglerna.
+trafikant|NOUN	C1	C1	SV_824	En uppmärksam trafikant bidrar till säkrare vägar för alla.
+vits|NOUN	C1	A1	SV_825	N/A
+vits|NOUN	C1	A2	SV_826	N/A
+vits|NOUN	C1	B1	SV_827	Han berättade en rolig vits.
+vits|NOUN	C1	B2	SV_828	Jag ser ingen vits med att diskutera det längre.
+vits|NOUN	C1	C1	SV_829	Vad är vitsen med att alltid skjuta upp saker till sista minuten?
+barnkammare|NOUN	C1	A1	SV_830	Vi har en barnkammare i vårt hus.
+barnkammare|NOUN	C1	A2	SV_831	Barnkammaren är ljus och fin.
+barnkammare|NOUN	C1	B1	SV_832	Vi ska måla barnkammaren grön.
+barnkammare|NOUN	C1	B2	SV_833	De målade barnkammaren i en ljusgrön färg.
+barnkammare|NOUN	C1	C1	SV_834	De målade barnkammaren i en ljusblå färg.
+barnpiga|NOUN	C1	A1	SV_835	N/A
+barnpiga|NOUN	C1	A2	SV_836	Barnpigan leker med barnen.
+barnpiga|NOUN	C1	B1	SV_837	Vår nya barnpiga är mycket snäll mot barnen.
+barnpiga|NOUN	C1	B2	SV_838	Vi anlitade en barnpiga för att ta hand om barnen på kvällen.
+barnpiga|NOUN	C1	C1	SV_839	De anlitade en barnpiga för att hjälpa dem med barnen under sommaren.
+bussförare|NOUN	C1	A1	SV_840	Han är bussförare.
+bussförare|NOUN	C1	A2	SV_841	Bussföraren kör bussen till staden.
+bussförare|NOUN	C1	B1	SV_842	Bussföraren stannade vid hållplatsen.
+bussförare|NOUN	C1	B2	SV_843	Bussföraren meddelade att bussen var försenad på grund av trafik.
+bussförare|NOUN	C1	C1	SV_844	Min granne är bussförare och kör stadens linjer varje dag.
+cykeltur|NOUN	C1	A1	SV_845	En cykeltur är rolig.
+cykeltur|NOUN	C1	A2	SV_846	Vi gjorde en cykeltur igår.
+cykeltur|NOUN	C1	B1	SV_847	Vi tog en cykeltur i parken igår.
+cykeltur|NOUN	C1	B2	SV_848	Vi planerar en cykeltur till sjön på lördag.
+cykeltur|NOUN	C1	C1	SV_849	Den långa cykelturen längs kusten erbjöd fantastiska vyer.
+drömmeri|NOUN	C1	A1	SV_850	N/A
+drömmeri|NOUN	C1	A2	SV_851	Lite drömmeri kan vara skönt ibland.
+drömmeri|NOUN	C1	B1	SV_852	Hon satt tyst i sitt drömmeri.
+drömmeri|NOUN	C1	B2	SV_853	Hennes drömmeri tog henne långt bort från verkligheten.
+drömmeri|NOUN	C1	C1	SV_854	Hon sjönk in i ett tyst drömmeri.
+eftersmak|NOUN	C1	A1	SV_855	N/A
+eftersmak|NOUN	C1	A2	SV_856	Kaffet har en stark eftersmak.
+eftersmak|NOUN	C1	B1	SV_857	Kaffet hade en god eftersmak.
+eftersmak|NOUN	C1	B2	SV_858	Kaffet hade en bitter eftersmak.
+eftersmak|NOUN	C1	C1	SV_859	Den bittra eftersmaken av beslutet dröjde sig kvar.
+gevärspipa|NOUN	C1	A1	SV_860	N/A
+gevärspipa|NOUN	C1	A2	SV_861	N/A
+gevärspipa|NOUN	C1	B1	SV_862	N/A
+gevärspipa|NOUN	C1	B2	SV_863	N/A
+gevärspipa|NOUN	C1	C1	SV_864	Skytten kontrollerade att gevärspipan var ren före tävlingen.
+gathörn|NOUN	C1	A1	SV_865	Huset är på gathörnet.
+gathörn|NOUN	C1	A2	SV_866	Butiken ligger vid gathörnet.
+gathörn|NOUN	C1	B1	SV_867	Vi möttes vid gathörnet.
+gathörn|NOUN	C1	B2	SV_868	Vi möttes vid gathörnet klockan sju.
+gathörn|NOUN	C1	C1	SV_869	Ett gammalt hus med vackra detaljer stod ensamt vid gathörnet.
+imperialism|NOUN	C1	A1	SV_870	N/A
+imperialism|NOUN	C1	A2	SV_871	N/A
+imperialism|NOUN	C1	B1	SV_872	N/A
+imperialism|NOUN	C1	B2	SV_873	Imperialism var en viktig del av 1800-talets politik.
+imperialism|NOUN	C1	C1	SV_874	Begreppet imperialism är centralt för att förstå 1800-talets politik.
+husesyn|NOUN	C1	A1	SV_875	N/A
+husesyn|NOUN	C1	A2	SV_876	N/A
+husesyn|NOUN	C1	B1	SV_877	N/A
+husesyn|NOUN	C1	B2	SV_878	Hyresvärden gjorde en husesyn innan den nya hyresgästen flyttade in.
+husesyn|NOUN	C1	C1	SV_879	Hyresvärden gjorde en husesyn innan de nya hyresgästerna flyttade in.
+kulturmöte|NOUN	C1	A1	SV_880	N/A
+kulturmöte|NOUN	C1	A2	SV_881	Vi hade ett intressant kulturmöte.
+kulturmöte|NOUN	C1	B1	SV_882	Resan var ett intressant kulturmöte.
+kulturmöte|NOUN	C1	B2	SV_883	Utbytesstudenterna upplever ofta intressanta kulturmöten.
+kulturmöte|NOUN	C1	C1	SV_884	Det blev ett intressant kulturmöte när konstnärer från olika länder samarbetade.
+lins|NOUN	C1	A1	SV_885	Jag äter linssoppa.
+lins|NOUN	C1	A2	SV_886	Jag har en lins i mitt öga.
+lins|NOUN	C1	B1	SV_887	Den här kameran har en bra lins.
+lins|NOUN	C1	B2	SV_888	Hon använder linser istället för glasögon.
+lins|NOUN	C1	C1	SV_889	En näringsrik linssoppa är perfekt en kall vinterdag.
+maxim|NOUN	C1	A1	SV_890	N/A
+maxim|NOUN	C1	A2	SV_891	N/A
+maxim|NOUN	C1	B1	SV_892	N/A
+maxim|NOUN	C1	B2	SV_893	Hon hade en enkel maxim: alltid göra sitt bästa.
+maxim|NOUN	C1	C1	SV_894	Hennes maxim var att alltid sträva efter kunskap.
+multikultur|NOUN	C1	A1	SV_895	N/A
+multikultur|NOUN	C1	A2	SV_896	N/A
+multikultur|NOUN	C1	B1	SV_897	Sverige är känt för sin multikultur.
+multikultur|NOUN	C1	B2	SV_898	Multikultur är en viktig del av stadens identitet.
+multikultur|NOUN	C1	C1	SV_899	Multikultur kan berika ett samhälle på många sätt, från mat till konst och musik.
+förutspå|VERB	C1	A1	SV_900	N/A
+förutspå|VERB	C1	A2	SV_901	N/A
+förutspå|VERB	C1	B1	SV_902	Väderexperten kan förutspå vädret för nästa vecka.
+förutspå|VERB	C1	B2	SV_903	Experterna kan inte alltid förutspå framtiden.
+förutspå|VERB	C1	C1	SV_904	Experterna kunde inte förutspå de ekonomiska konsekvenserna av krisen.
+inlåna|VERB	C1	A1	SV_905	N/A
+inlåna|VERB	C1	A2	SV_906	N/A
+inlåna|VERB	C1	B1	SV_907	N/A
+inlåna|VERB	C1	B2	SV_908	Banken måste inlåna pengar för att kunna ge ut nya lån.
+inlåna|VERB	C1	C1	SV_909	Banken beslutade att inlåna mer kapital från sina sparare.
+åtskilja|VERB	C1	A1	SV_910	N/A
+åtskilja|VERB	C1	A2	SV_911	N/A
+åtskilja|VERB	C1	B1	SV_912	Väggen åtskiljer köket från vardagsrummet.
+åtskilja|VERB	C1	B2	SV_913	Vi måste åtskilja soporna i olika behållare.
+åtskilja|VERB	C1	C1	SV_914	Det är viktigt att kunna åtskilja fakta från rykten.
+styrka|VERB	C1	A1	SV_915	Vatten styrker blomman.
+styrka|VERB	C1	A2	SV_916	Äta bra mat kan styrka din kropp.
+styrka|VERB	C1	B1	SV_917	Regelbunden träning kan styrka musklerna.
+styrka|VERB	C1	B2	SV_918	Hon tränade för att styrka sina muskler.
+styrka|VERB	C1	C1	SV_919	Han bad mig styrka hans identitet.
+inlemma|VERB	C1	A1	SV_920	N/A
+inlemma|VERB	C1	A2	SV_921	N/A
+inlemma|VERB	C1	B1	SV_922	Hon ville inlemma alla sina nya idéer i planen.
+inlemma|VERB	C1	B2	SV_923	Det är viktigt att inlemma nya medarbetare i teamet.
+inlemma|VERB	C1	C1	SV_924	Man beslutade att inlemma den lilla byn i den större kommunen.
+klassa|VERB	C1	A1	SV_925	N/A
+klassa|VERB	C1	A2	SV_926	N/A
+klassa|VERB	C1	B1	SV_927	De klassade den gamla byggnaden som farlig.
+klassa|VERB	C1	B2	SV_928	Många klassar den som den bästa filmen.
+klassa|VERB	C1	C1	SV_929	Experterna klassade renoveringen som mycket lyckad.
+separera|VERB	C1	A1	SV_930	N/A
+separera|VERB	C1	A2	SV_931	Vi måste separera plast från papper.
+separera|VERB	C1	B1	SV_932	De bestämde sig för att separera efter många år.
+separera|VERB	C1	B2	SV_933	De bestämde sig för att separera efter tio år.
+separera|VERB	C1	C1	SV_934	De bestämde sig för att separera efter tjugo års äktenskap.
+svepa|VERB	C1	A1	SV_935	N/A
+svepa|VERB	C1	A2	SV_936	Hon svepte in presenten.
+svepa|VERB	C1	B1	SV_937	Hon svepte in sig i en varm filt.
+svepa|VERB	C1	B2	SV_938	Hon svepte in sig i filten.
+svepa|VERB	C1	C1	SV_939	Hon svepte blicken över den stora folkmassan.
+avbeställa|VERB	C1	A1	SV_940	Jag vill avbeställa min tid.
+avbeställa|VERB	C1	A2	SV_941	Jag måste avbeställa biljetterna.
+avbeställa|VERB	C1	B1	SV_942	Jag måste avbeställa hotellrummet.
+avbeställa|VERB	C1	B2	SV_943	Jag måste avbeställa min tid hos frisören.
+avbeställa|VERB	C1	C1	SV_944	Vi var tvungna att avbeställa flyget i sista minuten på grund av en nödsituation.
+avläsa|VERB	C1	A1	SV_945	N/A
+avläsa|VERB	C1	A2	SV_946	Vi kan avläsa temperaturen här.
+avläsa|VERB	C1	B1	SV_947	Han kunde avläsa siffrorna på mätaren.
+avläsa|VERB	C1	B2	SV_948	Han försökte avläsa hennes ansiktsuttryck.
+avläsa|VERB	C1	C1	SV_949	Forskaren kunde avläsa de komplexa mönstren i datan.
+benämna|VERB	C1	A1	SV_950	N/A
+benämna|VERB	C1	A2	SV_951	N/A
+benämna|VERB	C1	B1	SV_952	Hur ska vi benämna vår nya kollega?
+benämna|VERB	C1	B2	SV_953	Vi måste hitta ett bra ord för att benämna den här nya tekniken.
+benämna|VERB	C1	C1	SV_954	Man kan benämna denna strategi som framgångsrik.
+bevilja|VERB	C1	A1	SV_955	N/A
+bevilja|VERB	C1	A2	SV_956	N/A
+bevilja|VERB	C1	B1	SV_957	Banken beviljade mig ett lån.
+bevilja|VERB	C1	B2	SV_958	De beviljade henne ett stipendium för studierna.
+bevilja|VERB	C1	C1	SV_959	Regeringen har beviljat medel för det nya forskningsprojektet.
+dingla|VERB	C1	A1	SV_960	N/A
+dingla|VERB	C1	A2	SV_961	Benen dinglar från stolen.
+dingla|VERB	C1	B1	SV_962	Barnets ben dinglade från stolen.
+dingla|VERB	C1	B2	SV_963	Nycklarna dinglade från hennes handväska.
+dingla|VERB	C1	C1	SV_964	Barnens ben fick dingla fritt från bryggan.
+duga|VERB	C1	A1	SV_965	Maten duger.
+duga|VERB	C1	A2	SV_966	Det duger.
+duga|VERB	C1	B1	SV_967	Det här duger bra.
+duga|VERB	C1	B2	SV_968	Jag tror inte att den här lösningen duger i längden.
+duga|VERB	C1	C1	SV_969	En enkel förklaring duger inte i det här sammanhanget.
+förhöja|VERB	C1	A1	SV_970	N/A
+förhöja|VERB	C1	A2	SV_971	N/A
+förhöja|VERB	C1	B1	SV_972	God mat och musik kan förhöja festens stämning.
+förhöja|VERB	C1	B2	SV_973	De vill förhöja kvaliteten på servicen.
+förhöja|VERB	C1	C1	SV_974	Evenemanget syftar till att förhöja stadens kulturella profil.
+förgäta|VERB	C1	A1	SV_975	N/A
+förgäta|VERB	C1	A2	SV_976	N/A
+förgäta|VERB	C1	B1	SV_977	N/A
+förgäta|VERB	C1	B2	SV_978	N/A
+förgäta|VERB	C1	C1	SV_979	Man får aldrig förgäta sin historia.
+förslå|VERB	C1	A1	SV_980	N/A
+förslå|VERB	C1	A2	SV_981	Maten förslår till alla barn.
+förslå|VERB	C1	B1	SV_982	N/A
+förslå|VERB	C1	B2	SV_983	Jag kan förslå en lösning på problemet.
+förslå|VERB	C1	C1	SV_984	Maträtterna förslår inte för alla gäster.
+gnugga|VERB	C1	A1	SV_985	Jag gnuggar mina händer.
+gnugga|VERB	C1	A2	SV_986	Jag gnuggar mina ögon när jag är trött.
+gnugga|VERB	C1	B1	SV_987	Hon gnuggade ögonen när hon vaknade.
+gnugga|VERB	C1	B2	SV_988	Hon gnuggade sig i ögonen när hon vaknade.
+gnugga|VERB	C1	C1	SV_989	Han fick gnugga sina kunskaper ordentligt inför den svåra tentan.
+inkarnera|VERB	C1	A1	SV_990	N/A
+inkarnera|VERB	C1	A2	SV_991	N/A
+inkarnera|VERB	C1	B1	SV_992	N/A
+inkarnera|VERB	C1	B2	SV_993	Många menar att kungen inkarnerade nationens själ.
+inkarnera|VERB	C1	C1	SV_994	Den nya ledaren verkar inkarnera partiets framtidsvision.
+gästa|VERB	C1	A1	SV_995	N/A
+gästa|VERB	C1	A2	SV_996	N/A
+gästa|VERB	C1	B1	SV_997	En känd artist ska gästa vår stad nästa månad.
+gästa|VERB	C1	B2	SV_998	Artisten kommer att gästa staden i sommar.
+gästa|VERB	C1	C1	SV_999	Artisten kommer att gästa programmet ikväll.

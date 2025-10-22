@@ -1,0 +1,1001 @@
+word_entry	word_level_CEFRLex	sentence_level_generated	sentence_ID	sentence_text
+water|NOUN	A1	A1	EN_0	I drink water.
+water|NOUN	A1	A2	EN_1	I drink water every day.
+water|NOUN	A1	B1	EN_2	The plant needs water every day.
+water|NOUN	A1	B2	EN_3	The water in the lake was very clear today.
+water|NOUN	A1	C1	EN_4	The city council debated the new regulations concerning the quality of the public water supply.
+house|NOUN	A1	A1	EN_5	This is my house.
+house|NOUN	A1	A2	EN_6	I live in a big house.
+house|NOUN	A1	B1	EN_7	They bought a new house last year.
+house|NOUN	A1	B2	EN_8	We bought a new house last year with a big garden.
+house|NOUN	A1	C1	EN_9	The old house at the end of the street had been vacant for years, its windows boarded up.
+table|NOUN	A1	A1	EN_10	The book is on the table.
+table|NOUN	A1	A2	EN_11	The book is on the table.
+table|NOUN	A1	B1	EN_12	Please put the plates on the table.
+table|NOUN	A1	B2	EN_13	Please put the books on the table.
+table|NOUN	A1	C1	EN_14	The researcher included an extensive table of results in her final presentation.
+building|NOUN	A1	A1	EN_15	It is a big building.
+building|NOUN	A1	A2	EN_16	The building is tall.
+building|NOUN	A1	B1	EN_17	The tall building has many windows.
+building|NOUN	A1	B2	EN_18	The old building will be renovated next year.
+building|NOUN	A1	C1	EN_19	The historic building on the corner of the street is undergoing extensive renovations to preserve its original architecture.
+holiday|NOUN	A1	A1	EN_20	I like my holiday.
+holiday|NOUN	A1	A2	EN_21	I go on holiday in July.
+holiday|NOUN	A1	B1	EN_22	We are going on holiday next week.
+holiday|NOUN	A1	B2	EN_23	We are planning our summer holiday to the beach.
+holiday|NOUN	A1	C1	EN_24	We spent our summer holiday traveling through Scandinavia.
+back|NOUN	A1	A1	EN_25	My back hurts a little.
+back|NOUN	A1	A2	EN_26	My back hurts after the long walk.
+back|NOUN	A1	B1	EN_27	My back hurts after I carried those heavy bags.
+back|NOUN	A1	B2	EN_28	My back started to hurt after sitting at the computer all day.
+back|NOUN	A1	C1	EN_29	He always had the back of his older brother, no matter the trouble he got into.
+order|NOUN	A1	A1	EN_30	This is my order.
+order|NOUN	A1	A2	EN_31	The waiter took our order.
+order|NOUN	A1	B1	EN_32	My food order is ready.
+order|NOUN	A1	B2	EN_33	I placed an order for a new book online.
+order|NOUN	A1	C1	EN_34	The committee was established to bring order to the often confusing bureaucratic process.
+thanks|NOUN	A1	A1	EN_35	She got a lot of thanks.
+thanks|NOUN	A1	A2	EN_36	Many thanks for your help.
+thanks|NOUN	A1	B1	EN_37	Many thanks for your help.
+thanks|NOUN	A1	B2	EN_38	Please accept my thanks for your help.
+thanks|NOUN	A1	C1	EN_39	Our sincere thanks go to everyone who volunteered.
+difference|NOUN	A1	A1	EN_40	There is a big difference.
+difference|NOUN	A1	A2	EN_41	There is a big difference between the two shirts.
+difference|NOUN	A1	B1	EN_42	What is the difference between these two shirts?
+difference|NOUN	A1	B2	EN_43	There is a big difference between the two proposals.
+difference|NOUN	A1	C1	EN_44	The profound difference in their perspectives made a genuine reconciliation unlikely.
+tonight|NOUN	A1	A1	EN_45	Tonight will be fun.
+tonight|NOUN	A1	A2	EN_46	We will watch a movie tonight.
+tonight|NOUN	A1	B1	EN_47	What are your plans for tonight?
+tonight|NOUN	A1	B2	EN_48	Tonight is going to be a fun evening.
+tonight|NOUN	A1	C1	EN_49	Tonight promises to be a memorable occasion for everyone involved.
+neck|NOUN	A1	A1	EN_50	He has a long neck.
+neck|NOUN	A1	A2	EN_51	She wears a scarf around her neck.
+neck|NOUN	A1	B1	EN_52	She tied a scarf around her neck because it was cold.
+neck|NOUN	A1	B2	EN_53	She wore a beautiful necklace around her neck.
+neck|NOUN	A1	C1	EN_54	She had to really stick her neck out to challenge the long-standing company policy.
+owner|NOUN	A1	A1	EN_55	He is the owner of the car.
+owner|NOUN	A1	A2	EN_56	The owner of the cat came to take it home.
+owner|NOUN	A1	B1	EN_57	The owner of the restaurant greeted us at the door.
+owner|NOUN	A1	B2	EN_58	The owner of the shop helped me find what I needed.
+owner|NOUN	A1	C1	EN_59	The new owner of the company implemented several progressive policies.
+smoke|NOUN	A1	A1	EN_60	I see smoke from the fire.
+smoke|NOUN	A1	A2	EN_61	I see smoke coming from the chimney.
+smoke|NOUN	A1	B1	EN_62	There was a lot of smoke from the fire.
+smoke|NOUN	A1	B2	EN_63	I could smell the smoke from the fireplace.
+smoke|NOUN	A1	C1	EN_64	The smell of smoke lingered in her clothes long after the bonfire.
+history|NOUN	A1	A1	EN_65	I like history class.
+history|NOUN	A1	A2	EN_66	We learn about history at school.
+history|NOUN	A1	B1	EN_67	I like to read books about history.
+history|NOUN	A1	B2	EN_68	She loves to read books about ancient history.
+history|NOUN	A1	C1	EN_69	The country's turbulent political history has shaped its current social landscape.
+bathroom|NOUN	A1	A1	EN_70	The bathroom is clean.
+bathroom|NOUN	A1	A2	EN_71	The bathroom is small.
+bathroom|NOUN	A1	B1	EN_72	She went to the bathroom to wash her hands.
+bathroom|NOUN	A1	B2	EN_73	She went to the bathroom to wash her hands.
+bathroom|NOUN	A1	C1	EN_74	They decided to renovate the outdated bathroom, opting for a modern, minimalist design.
+plant|NOUN	A1	A1	EN_75	I have a small plant.
+plant|NOUN	A1	A2	EN_76	I water the plant every day.
+plant|NOUN	A1	B1	EN_77	I bought a new plant for my living room.
+plant|NOUN	A1	B2	EN_78	She bought a new plant for her kitchen.
+plant|NOUN	A1	C1	EN_79	The new car manufacturing plant is expected to boost the local economy.
+novel|NOUN	A1	A1	EN_80	N/A
+novel|NOUN	A1	A2	EN_81	My favorite novel is about a detective.
+novel|NOUN	A1	B1	EN_82	She is reading a new novel by her favorite author.
+novel|NOUN	A1	B2	EN_83	She finished reading a fascinating novel last night.
+novel|NOUN	A1	C1	EN_84	Her latest novel delves deep into the psychological complexities of its protagonist.
+chocolate|NOUN	A1	A1	EN_85	I like chocolate.
+chocolate|NOUN	A1	A2	EN_86	I like chocolate.
+chocolate|NOUN	A1	B1	EN_87	I like to eat chocolate after dinner.
+chocolate|NOUN	A1	B2	EN_88	Many people enjoy a piece of chocolate after dinner.
+chocolate|NOUN	A1	C1	EN_89	The rich aroma of dark chocolate filled the air, inviting everyone to indulge.
+café|NOUN	A1	A1	EN_90	We go to the café.
+café|NOUN	A1	A2	EN_91	I go to the café for coffee.
+café|NOUN	A1	B1	EN_92	Let's meet at the new café near the park.
+café|NOUN	A1	B2	EN_93	We met at the new café downtown for coffee.
+café|NOUN	A1	C1	EN_94	She found solace in the quiet hum of the old-fashioned café, where she often went to read.
+boyfriend|NOUN	A1	A1	EN_95	She has a boyfriend.
+boyfriend|NOUN	A1	A2	EN_96	She has a new boyfriend.
+boyfriend|NOUN	A1	B1	EN_97	She went to the cinema with her boyfriend.
+boyfriend|NOUN	A1	B2	EN_98	She introduced her new boyfriend to her parents last night.
+boyfriend|NOUN	A1	C1	EN_99	She brought her boyfriend to the company picnic last weekend.
+know|VERB	A1	A1	EN_100	I know your name.
+know|VERB	A1	A2	EN_101	I know his name.
+know|VERB	A1	B1	EN_102	I know the answer.
+know|VERB	A1	B2	EN_103	I know the answer to this question.
+know|VERB	A1	C1	EN_104	The manager hoped his team would know how to adapt to the unexpected changes.
+find|VERB	A1	A1	EN_105	I can find my book.
+find|VERB	A1	A2	EN_106	I can't find my keys.
+find|VERB	A1	B1	EN_107	I need to find my phone.
+find|VERB	A1	B2	EN_108	She hopes to find a good job after graduation.
+find|VERB	A1	C1	EN_109	It's often challenging to find common ground when negotiating with opposing factions.
+give|VERB	A1	A1	EN_110	I give you a present.
+give|VERB	A1	A2	EN_111	Please give me the book.Too Difficult
+give|VERB	A1	B1	EN_112	Please give me the book.
+give|VERB	A1	B2	EN_113	Please give me a call when you arrive.
+give|VERB	A1	C1	EN_114	The board will give careful consideration to the new proposal before making a final decision.
+feel|VERB	A1	A1	EN_115	I feel happy.
+feel|VERB	A1	A2	EN_116	I feel happy today.
+feel|VERB	A1	B1	EN_117	She feels tired after work.
+feel|VERB	A1	B2	EN_118	I feel like going to the cinema tonight.
+feel|VERB	A1	C1	EN_119	Despite the challenges, he continued to feel optimistic about the project's success.
+let|VERB	A1	A1	EN_120	Let's go to the park.
+let|VERB	A1	A2	EN_121	Let me help you.
+let|VERB	A1	B1	EN_122	She let her dog play in the park.
+let|VERB	A1	B2	EN_123	She let her children play outside for an hour.
+let|VERB	A1	C1	EN_124	They decided to let bygones be bygones and focus on their future together.
+read|VERB	A1	A1	EN_125	I read a book.
+read|VERB	A1	A2	EN_126	I like to read books.
+read|VERB	A1	B1	EN_127	I like to read books before I go to sleep.
+read|VERB	A1	B2	EN_128	I often read books before I go to sleep.
+read|VERB	A1	C1	EN_129	Having read extensively on the subject, he felt confident challenging the professor's assertion.
+cry|VERB	A1	A1	EN_130	The baby cries.
+cry|VERB	A1	A2	EN_131	The baby will cry if it is hungry.
+cry|VERB	A1	B1	EN_132	She started to cry when the movie ended.
+cry|VERB	A1	B2	EN_133	She started to cry when she heard the sad news.
+cry|VERB	A1	C1	EN_134	She found herself unable to cry, despite the overwhelming sadness she felt.
+listen|VERB	A1	A1	EN_135	I listen to music.
+listen|VERB	A1	A2	EN_136	I like to listen to music.
+listen|VERB	A1	B1	EN_137	Please listen to what I am saying.
+listen|VERB	A1	B2	EN_138	Please listen carefully to the instructions.
+listen|VERB	A1	C1	EN_139	She had to listen carefully to the intricate details of the presentation.
+answer|VERB	A1	A1	EN_140	Please answer the question.
+answer|VERB	A1	A2	EN_141	Please answer the question.
+answer|VERB	A1	B1	EN_142	He couldn't answer all the questions on the test.
+answer|VERB	A1	B2	EN_143	She didn't answer his email until the next day.
+answer|VERB	A1	C1	EN_144	She decided to answer all the difficult questions with complete honesty, even if it meant admitting some mistakes.
+learn|VERB	A1	A1	EN_145	I learn English.
+learn|VERB	A1	A2	EN_146	I want to learn English.
+learn|VERB	A1	B1	EN_147	They learn new words in class every day.
+learn|VERB	A1	B2	EN_148	It's important to learn from our mistakes.
+learn|VERB	A1	C1	EN_149	One must learn to discern reliable sources from misinformation in the digital age.
+drink|VERB	A1	A1	EN_150	I drink water.
+drink|VERB	A1	A2	EN_151	I drink a lot of water every day.
+drink|VERB	A1	B1	EN_152	I drink water every day.
+drink|VERB	A1	B2	EN_153	She decided to drink less coffee every morning.
+drink|VERB	A1	C1	EN_154	He found himself trying to drink in every detail of the elaborate fresco.
+enjoy|VERB	A1	A1	EN_155	I enjoy pizza.
+enjoy|VERB	A1	A2	EN_156	I enjoy eating pizza.
+enjoy|VERB	A1	B1	EN_157	I enjoy reading books in my free time.
+enjoy|VERB	A1	B2	EN_158	I enjoy spending time with my friends on the weekend.
+enjoy|VERB	A1	C1	EN_159	They thoroughly enjoyed the captivating performance at the theater.
+travel|VERB	A1	A1	EN_160	I travel by bus.
+travel|VERB	A1	A2	EN_161	I like to travel to new places.
+travel|VERB	A1	B1	EN_162	I like to travel to new countries.
+travel|VERB	A1	B2	EN_163	We plan to travel to Italy next summer.
+travel|VERB	A1	C1	EN_164	Many young professionals now travel extensively for career advancement and personal growth.
+reach|VERB	A1	A1	EN_165	I can reach the book.
+reach|VERB	A1	A2	EN_166	We will reach the park in ten minutes.
+reach|VERB	A1	B1	EN_167	I hope we reach the hotel before it gets dark.
+reach|VERB	A1	B2	EN_168	They will reach the station in ten minutes.
+reach|VERB	A1	C1	EN_169	The negotiators worked late into the night hoping to reach a viable compromise.
+offer|VERB	A1	A1	EN_170	I offer you a drink.
+offer|VERB	A1	A2	EN_171	I can offer you some tea.
+offer|VERB	A1	B1	EN_172	They will offer us a good price for the car.
+offer|VERB	A1	B2	EN_173	They offered her a good price for the old car.
+offer|VERB	A1	C1	EN_174	The organization continues to offer invaluable support to those affected by the crisis.
+include|VERB	A1	A1	EN_175	The price includes breakfast.
+include|VERB	A1	A2	EN_176	The price includes breakfast.
+include|VERB	A1	B1	EN_177	The price includes breakfast.
+include|VERB	A1	B2	EN_178	The price does not include breakfast.
+include|VERB	A1	C1	EN_179	The new policy will include several measures to support small businesses.
+fill|VERB	A1	A1	EN_180	Please fill the cup.
+fill|VERB	A1	A2	EN_181	Please fill the glass with water.
+fill|VERB	A1	B1	EN_182	Please fill the form before you leave.
+fill|VERB	A1	B2	EN_183	The new paintings helped fill the empty wall space.
+fill|VERB	A1	C1	EN_184	The company decided to fill the newly created executive position internally.
+add|VERB	A1	A1	EN_185	Please add water.
+add|VERB	A1	A2	EN_186	Please add sugar to my coffee.
+add|VERB	A1	B1	EN_187	Please add some sugar to my tea.
+add|VERB	A1	B2	EN_188	You should add more details to your report.
+add|VERB	A1	C1	EN_189	The latest data adds a new dimension to our understanding of the problem.
+protect|VERB	A1	A1	EN_190	My dog protects my house.
+protect|VERB	A1	A2	EN_191	A helmet can protect your head.
+protect|VERB	A1	B1	EN_192	Wear a helmet to protect your head.
+protect|VERB	A1	B2	EN_193	It's important to protect your skin from the sun's harmful rays.
+protect|VERB	A1	C1	EN_194	The new legislation aims to protect vulnerable species from extinction.
+describe|VERB	A1	A1	EN_195	N/A
+describe|VERB	A1	A2	EN_196	Can you describe your house?
+describe|VERB	A1	B1	EN_197	Can you describe the person you saw at the park?
+describe|VERB	A1	B2	EN_198	Can you describe the book you are reading?
+describe|VERB	A1	C1	EN_199	She tried to describe the intricate design of the ancient artifact.
+sense|NOUN	A2	A1	EN_200	Dogs have a good sense of smell.
+sense|NOUN	A2	A2	EN_201	That makes no sense.
+sense|NOUN	A2	B1	EN_202	That idea makes no sense.
+sense|NOUN	A2	B2	EN_203	It makes good sense to save money for the future.
+sense|NOUN	A2	C1	EN_204	The team's success instilled a strong sense of purpose among its members.
+need|NOUN	A2	A1	EN_205	Water is a basic need.
+need|NOUN	A2	A2	EN_206	There is no need to worry.
+need|NOUN	A2	B1	EN_207	My biggest need right now is a good cup of coffee.
+need|NOUN	A2	B2	EN_208	There is a great need for more affordable housing in the city.
+need|NOUN	A2	C1	EN_209	The city has a pressing need for better public transportation.
+fall|NOUN	A2	A1	EN_210	I like the fall.
+fall|NOUN	A2	A2	EN_211	She had a small fall on the ice.
+fall|NOUN	A2	B1	EN_212	He took a fall and hurt his leg.
+fall|NOUN	A2	B2	EN_213	The leaves turn beautiful colors in the fall.
+fall|NOUN	A2	C1	EN_214	We always enjoy the vibrant colors of the leaves in the fall.
+contact|NOUN	A2	A1	EN_215	N/A
+contact|NOUN	A2	A2	EN_216	I need your contact number.
+contact|NOUN	A2	B1	EN_217	Please leave your contact information.
+contact|NOUN	A2	B2	EN_218	We lost contact after she moved away.
+contact|NOUN	A2	C1	EN_219	He has many useful contacts in the industry.
+van|NOUN	A2	A1	EN_220	The van is red.
+van|NOUN	A2	A2	EN_221	The blue van is big.
+van|NOUN	A2	B1	EN_222	My friend bought a new van.
+van|NOUN	A2	B2	EN_223	The delivery van arrived early this morning with our packages.
+van|NOUN	A2	C1	EN_224	The delivery van arrived late due to heavy traffic.
+fight|NOUN	A2	A1	EN_225	They had a fight.
+fight|NOUN	A2	A2	EN_226	There was a fight in the park.
+fight|NOUN	A2	B1	EN_227	The children had a small fight over the toy.
+fight|NOUN	A2	B2	EN_228	There was a big fight at the football game.
+fight|NOUN	A2	C1	EN_229	The environmental group is leading a fight against pollution.
+journalist|NOUN	A2	A1	EN_230	My brother is a journalist.
+journalist|NOUN	A2	A2	EN_231	My friend is a journalist for a newspaper.
+journalist|NOUN	A2	B1	EN_232	My friend wants to be a journalist.
+journalist|NOUN	A2	B2	EN_233	The journalist wrote an article about the new park.
+journalist|NOUN	A2	C1	EN_234	The skilled journalist uncovered new details about the local scandal.
+torch|NOUN	A2	A1	EN_235	We use a torch to see in the dark.
+torch|NOUN	A2	A2	EN_236	We need a torch to see in the dark.
+torch|NOUN	A2	B1	EN_237	She used a torch to find her way in the dark.
+torch|NOUN	A2	B2	EN_238	She turned on her torch to see the path.
+torch|NOUN	A2	C1	EN_239	We used a powerful torch to navigate the dark cave.
+capital|NOUN	A2	A1	EN_240	Paris is the capital of France.
+capital|NOUN	A2	A2	EN_241	London is the capital of England.
+capital|NOUN	A2	B1	EN_242	London is the capital of England.
+capital|NOUN	A2	B2	EN_243	The company raised enough capital to start its new project.
+capital|NOUN	A2	C1	EN_244	The firm struggled to raise sufficient capital for its ambitious new project.
+request|NOUN	A2	A1	EN_245	N/A
+request|NOUN	A2	A2	EN_246	His request was for a glass of water.
+request|NOUN	A2	B1	EN_247	The student made a request to leave early.
+request|NOUN	A2	B2	EN_248	Her request for more information was sent to the department.
+request|NOUN	A2	C1	EN_249	Her urgent request for more information was immediately addressed by the department.
+balance|NOUN	A2	A1	EN_250	I lost my balance and fell.
+balance|NOUN	A2	A2	EN_251	The gymnast has good balance.
+balance|NOUN	A2	B1	EN_252	It's important to find a good balance between work and play.
+balance|NOUN	A2	B2	EN_253	It's important to find a good balance between work and rest.
+balance|NOUN	A2	C1	EN_254	Achieving a healthy work-life balance is crucial for overall well-being.
+master|NOUN	A2	A1	EN_255	The dog loves its master.
+master|NOUN	A2	A2	EN_256	The dog loves its master.
+master|NOUN	A2	B1	EN_257	He is a master of the piano.
+master|NOUN	A2	B2	EN_258	He is a master of the guitar.
+master|NOUN	A2	C1	EN_259	The chef was a true master of French cuisine.
+outside|NOUN	A2	A1	EN_260	The outside of the house is white.
+outside|NOUN	A2	A2	EN_261	The outside of the house is white.
+outside|NOUN	A2	B1	EN_262	The outside of the building looks very modern.
+outside|NOUN	A2	B2	EN_263	The outside of the building was covered in ivy.
+outside|NOUN	A2	C1	EN_264	He preferred the outside to the stuffy atmosphere within.
+robber|NOUN	A2	A1	EN_265	A robber took money.
+robber|NOUN	A2	A2	EN_266	The robber ran away with the money.
+robber|NOUN	A2	B1	EN_267	The police caught the robber after the bank robbery.
+robber|NOUN	A2	B2	EN_268	The police caught the robber near the bank.
+robber|NOUN	A2	C1	EN_269	The police caught the robber as he tried to escape.
+exit|NOUN	A2	A1	EN_270	Where is the exit?
+exit|NOUN	A2	A2	EN_271	The exit is on the left.
+exit|NOUN	A2	B1	EN_272	Please use the exit on the right.
+exit|NOUN	A2	B2	EN_273	Please use the emergency exit if there is a fire.
+exit|NOUN	A2	C1	EN_274	The emergency exit was clearly marked with a glowing sign.
+column|NOUN	A2	A1	EN_275	N/A
+column|NOUN	A2	A2	EN_276	The old building has many tall columns.
+column|NOUN	A2	B1	EN_277	Please read the first column of the newspaper.
+column|NOUN	A2	B2	EN_278	She writes a weekly column for the local newspaper.
+column|NOUN	A2	C1	EN_279	She writes a weekly column for the local newspaper.
+make-up|NOUN	A2	A1	EN_280	She likes to wear make-up.
+make-up|NOUN	A2	A2	EN_281	She wears make-up for the party.
+make-up|NOUN	A2	B1	EN_282	She put on some make-up before the party.
+make-up|NOUN	A2	B2	EN_283	She bought some new make-up for the special event.
+make-up|NOUN	A2	C1	EN_284	She decided to wear minimal make-up for her casual evening out.
+tray|NOUN	A2	A1	EN_285	Put the cups on the tray.
+tray|NOUN	A2	A2	EN_286	She put the empty cups on the tray.
+tray|NOUN	A2	B1	EN_287	She put the dirty dishes on the tray.
+tray|NOUN	A2	B2	EN_288	She put the empty glasses on the tray.
+tray|NOUN	A2	C1	EN_289	The waiter carefully balanced the tray of drinks as he navigated through the crowded restaurant.The new intern was tasked with organizing the incoming mail into separate trays for each department.
+decoration|NOUN	A2	A1	EN_290	This is a nice decoration.
+decoration|NOUN	A2	A2	EN_291	The Christmas tree has many beautiful decorations.
+decoration|NOUN	A2	B1	EN_292	The Christmas decoration on the tree looked pretty.
+decoration|NOUN	A2	B2	EN_293	The red ribbon was a simple decoration for the gift.
+decoration|NOUN	A2	C1	EN_294	The minimalist decoration of their new office created a calm atmosphere.
+flu|NOUN	A2	A1	EN_295	I have the flu.
+flu|NOUN	A2	A2	EN_296	I have the flu and need to rest.
+flu|NOUN	A2	B1	EN_297	I had the flu last week and stayed home from work.
+flu|NOUN	A2	B2	EN_298	I couldn't go to school because I caught the flu.
+flu|NOUN	A2	C1	EN_299	The annual flu season always brings a wave of new infections to the community.
+create|VERB	A2	A1	EN_300	N/A
+create|VERB	A2	A2	EN_301	She likes to create art.
+create|VERB	A2	B1	EN_302	She wants to create a new design for the company.
+create|VERB	A2	B2	EN_303	We need to create a plan for the weekend trip.
+create|VERB	A2	C1	EN_304	The company aims to create new opportunities for its employees.
+realize|VERB	A2	A1	EN_305	N/A
+realize|VERB	A2	A2	EN_306	I realize it is late.
+realize|VERB	A2	B1	EN_307	I realized I was late for the meeting.
+realize|VERB	A2	B2	EN_308	She realized that she had left her keys at home.
+realize|VERB	A2	C1	EN_309	After a long discussion, they finally realized the full implications of their decision.
+promise|VERB	A2	A1	EN_310	I promise to be on time.I promise to be on time.
+promise|VERB	A2	A2	EN_311	I promise to help you.
+promise|VERB	A2	B1	EN_312	I promise to call you when I arrive.
+promise|VERB	A2	B2	EN_313	I promise to call you tomorrow.
+promise|VERB	A2	C1	EN_314	The board promised to address the shareholders' concerns at the next meeting.
+mind|VERB	A2	A1	EN_315	I don't mind the rain.
+mind|VERB	A2	A2	EN_316	I don't mind the rain.
+mind|VERB	A2	B1	EN_317	Do you mind if I open the window?
+mind|VERB	A2	B2	EN_318	Do you mind if I close the window?
+mind|VERB	A2	C1	EN_319	You should mind the company's policies regarding data privacy.
+place|VERB	A2	A1	EN_320	Please place your books on the desk.
+place|VERB	A2	A2	EN_321	Please place the book on the shelf.
+place|VERB	A2	B1	EN_322	Please place your keys on the shelf.
+place|VERB	A2	B2	EN_323	Please place your dirty dishes in the sink.
+place|VERB	A2	C1	EN_324	The manager decided to place the new intern under the supervision of the senior engineer.
+trust|VERB	A2	A1	EN_325	I trust you.
+trust|VERB	A2	A2	EN_326	I trust my friend.
+trust|VERB	A2	B1	EN_327	I trust my friends to tell me the truth.
+trust|VERB	A2	B2	EN_328	I trust my friend to keep my secret.
+trust|VERB	A2	C1	EN_329	The committee decided to trust the expert's assessment of the complex situation.
+name|VERB	A2	A1	EN_330	Can you name three colors?
+name|VERB	A2	A2	EN_331	We will name our new dog Max.
+name|VERB	A2	B1	EN_332	They decided to name their new pet Max.
+name|VERB	A2	B2	EN_333	They decided to name the new park 'Riverside'.
+name|VERB	A2	C1	EN_334	The committee decided to name her as the lead investigator.
+approach|VERB	A2	A1	EN_335	The dog approached the girl.
+approach|VERB	A2	A2	EN_336	The cat approached the door.
+approach|VERB	A2	B1	EN_337	The car slowly approached the traffic light.
+approach|VERB	A2	B2	EN_338	The train slowly approached the station.
+approach|VERB	A2	C1	EN_339	The team decided to approach the complex problem with a new strategy.
+admire|VERB	A2	A1	EN_340	I admire my teacher.
+admire|VERB	A2	A2	EN_341	I admire my father.
+admire|VERB	A2	B1	EN_342	I admire her ability to speak three languages.
+admire|VERB	A2	B2	EN_343	I really admire her dedication to her work.
+admire|VERB	A2	C1	EN_344	I truly admire her dedication to her work and how she always strives for excellence.
+fit|VERB	A2	A1	EN_345	The shirt fits me well.
+fit|VERB	A2	A2	EN_346	This shirt does not fit me well.
+fit|VERB	A2	B1	EN_347	These shoes don't fit me very well.
+fit|VERB	A2	B2	EN_348	This shirt doesn't fit me anymore.
+fit|VERB	A2	C1	EN_349	Her ambitious goals didn't quite fit with the company's conservative culture.
+sink|VERB	A2	A1	EN_350	The boat can sink.
+sink|VERB	A2	A2	EN_351	The boat can sink.
+sink|VERB	A2	B1	EN_352	The old boat started to sink in the rough water.
+sink|VERB	A2	B2	EN_353	The heavy rock will sink to the bottom of the lake.
+sink|VERB	A2	C1	EN_354	The company decided to sink a large sum into developing new AI technology.
+struggle|VERB	A2	A1	EN_355	N/A
+struggle|VERB	A2	A2	EN_356	I struggle to understand this.
+struggle|VERB	A2	B1	EN_357	She often struggles with math problems.
+struggle|VERB	A2	B2	EN_358	She sometimes struggles to understand complex instructions.
+struggle|VERB	A2	C1	EN_359	The team continues to struggle with finding a viable solution to the complex problem.
+punish|VERB	A2	A1	EN_360	The teacher will punish the student.
+punish|VERB	A2	A2	EN_361	The parents will punish the child if he is naughty.
+punish|VERB	A2	B1	EN_362	The school decided to punish the student for cheating on the exam.
+punish|VERB	A2	B2	EN_363	The school decided to punish him for his actions.
+punish|VERB	A2	C1	EN_364	The court decided to punish the criminal with a heavy fine.
+train|VERB	A2	A1	EN_365	I train my dog.
+train|VERB	A2	A2	EN_366	She will train for the race next month.
+train|VERB	A2	B1	EN_367	She needs to train for her new job.
+train|VERB	A2	B2	EN_368	She needs to train hard for the marathon next month.
+train|VERB	A2	C1	EN_369	The company will train new employees on the updated software next month.
+determine|VERB	A2	A1	EN_370	N/A
+determine|VERB	A2	A2	EN_371	N/A
+determine|VERB	A2	B1	EN_372	We need to determine the cause of the problem.
+determine|VERB	A2	B2	EN_373	We need to determine the best time for our next meeting.
+determine|VERB	A2	C1	EN_374	The scientists tried to determine the cause of the strange phenomenon.
+cycle|VERB	A2	A1	EN_375	I cycle to school.
+cycle|VERB	A2	A2	EN_376	I often cycle to work.
+cycle|VERB	A2	B1	EN_377	I like to cycle in the park on weekends.
+cycle|VERB	A2	B2	EN_378	She likes to cycle along the river on weekends.
+cycle|VERB	A2	C1	EN_379	The project team decided to cycle through the feedback revisions twice before the final submission.
+hug|VERB	A2	A1	EN_380	I hug my mom.
+hug|VERB	A2	A2	EN_381	She likes to hug her cat.
+hug|VERB	A2	B1	EN_382	She likes to hug her cat.
+hug|VERB	A2	B2	EN_383	She decided to hug her friend goodbye.
+hug|VERB	A2	C1	EN_384	She knew the best way to comfort him was to simply hug him tightly.
+mix|VERB	A2	A1	EN_385	I mix the colors.
+mix|VERB	A2	A2	EN_386	Please mix the sugar with the milk.
+mix|VERB	A2	B1	EN_387	Please mix the sugar and water together.
+mix|VERB	A2	B2	EN_388	Please mix the ingredients for the cake.
+mix|VERB	A2	C1	EN_389	His unique style effectively manages to mix traditional techniques with modern aesthetics.
+operate|VERB	A2	A1	EN_390	N/A
+operate|VERB	A2	A2	EN_391	The new coffee machine is easy to operate.
+operate|VERB	A2	B1	EN_392	The store will operate from nine in the morning until five in the evening.
+operate|VERB	A2	B2	EN_393	The company operates in many countries.
+operate|VERB	A2	C1	EN_394	The new system will operate much more efficiently than the old one.
+store|VERB	A2	A1	EN_395	I store my toys in a box.
+store|VERB	A2	A2	EN_396	They store the food in the fridge.
+store|VERB	A2	B1	EN_397	We store extra food in the pantry.
+store|VERB	A2	B2	EN_398	We store our winter clothes in the attic.
+store|VERB	A2	C1	EN_399	The company decided to store its confidential information on secure, encrypted servers.
+complaint|NOUN	B1	A1	EN_400	I have a complaint.
+complaint|NOUN	B1	A2	EN_401	I have a complaint about the coffee.
+complaint|NOUN	B1	B1	EN_402	I have a complaint about the service.
+complaint|NOUN	B1	B2	EN_403	The customer filed a formal complaint about the slow service.
+complaint|NOUN	B1	C1	EN_404	The manager quickly resolved the customer's complaint.
+laughter|NOUN	B1	A1	EN_405	Her laughter is loud.
+laughter|NOUN	B1	A2	EN_406	Her laughter made everyone happy.
+laughter|NOUN	B1	B1	EN_407	Her laughter filled the room with joy.
+laughter|NOUN	B1	B2	EN_408	Her laughter filled the room with joy.
+laughter|NOUN	B1	C1	EN_409	Her unexpected laughter broke the tension in the room.
+tourism|NOUN	B1	A1	EN_410	N/A
+tourism|NOUN	B1	A2	EN_411	Many people visit this city for tourism.
+tourism|NOUN	B1	B1	EN_412	Tourism is very important for many coastal towns.
+tourism|NOUN	B1	B2	EN_413	The city's economy relies heavily on tourism.
+tourism|NOUN	B1	C1	EN_414	The government is investing heavily in sustainable tourism initiatives to protect natural resources.
+failure|NOUN	B1	A1	EN_415	N/A
+failure|NOUN	B1	A2	EN_416	The project was a failure.
+failure|NOUN	B1	B1	EN_417	His failure to prepare for the test was disappointing.
+failure|NOUN	B1	B2	EN_418	His failure to study led to a poor test result.
+failure|NOUN	B1	C1	EN_419	His initial failure to secure funding didn't deter him from pursuing his entrepreneurial dream.His initial failure to secure funding didn't deter him from pursuing his entrepreneurial dream.
+catalogue|NOUN	B1	A1	EN_420	N/A
+catalogue|NOUN	B1	A2	EN_421	N/A
+catalogue|NOUN	B1	B1	EN_422	I looked through the catalogue to find a new sofa.
+catalogue|NOUN	B1	B2	EN_423	I looked through the furniture catalogue to find a new chair.
+catalogue|NOUN	B1	C1	EN_424	The university published a new catalogue of all its available courses for the next academic year.
+recipe|NOUN	B1	A1	EN_425	I have a recipe for cake.
+recipe|NOUN	B1	A2	EN_426	I need a recipe for apple pie.
+recipe|NOUN	B1	B1	EN_427	I want to try a new recipe for dinner tonight.
+recipe|NOUN	B1	B2	EN_428	I found a delicious recipe for pasta online.
+recipe|NOUN	B1	C1	EN_429	Finding the right recipe for success in a competitive market requires innovation.
+bin|NOUN	B1	A1	EN_430	Put the paper in the bin.
+bin|NOUN	B1	A2	EN_431	Put the paper in the bin.
+bin|NOUN	B1	B1	EN_432	Please put the empty bottle in the recycling bin.
+bin|NOUN	B1	B2	EN_433	Please put the empty bottle in the recycling bin.
+bin|NOUN	B1	C1	EN_434	She sorted through the items in the recycling bin, separating paper from plastic.
+burglar|NOUN	B1	A1	EN_435	N/A
+burglar|NOUN	B1	A2	EN_436	The police caught the burglar.
+burglar|NOUN	B1	B1	EN_437	The police caught the burglar after he left the house.
+burglar|NOUN	B1	B2	EN_438	The police are still searching for the burglar who broke into the shop last night.
+burglar|NOUN	B1	C1	EN_439	The police arrested the burglar who had broken into the store last night.
+defence|NOUN	B1	A1	EN_440	N/A
+defence|NOUN	B1	A2	EN_441	He played in defence for his team.
+defence|NOUN	B1	B1	EN_442	The team's defence was strong in the final minutes.
+defence|NOUN	B1	B2	EN_443	She spoke in his defence when he was accused of making a mistake.
+defence|NOUN	B1	C1	EN_444	The lawyer presented a strong defence for her client.
+applicant|NOUN	B1	A1	EN_445	N/A
+applicant|NOUN	B1	A2	EN_446	The applicant filled out the form.
+applicant|NOUN	B1	B1	EN_447	We interviewed three applicants today.
+applicant|NOUN	B1	B2	EN_448	The job applicant sent her resume yesterday.
+applicant|NOUN	B1	C1	EN_449	The successful applicant will be notified by email next week.
+junk|NOUN	B1	A1	EN_450	I eat junk food.
+junk|NOUN	B1	A2	EN_451	My room is full of junk.
+junk|NOUN	B1	B1	EN_452	There's a lot of old junk in the garage that we should throw away.
+junk|NOUN	B1	B2	EN_453	My garage is full of old junk that I need to sort through.
+junk|NOUN	B1	C1	EN_454	The artist transformed everyday junk into intricate sculptures.
+affection|NOUN	B1	A1	EN_455	N/A
+affection|NOUN	B1	A2	EN_456	N/A
+affection|NOUN	B1	B1	EN_457	She showed great affection for her cat.
+affection|NOUN	B1	B2	EN_458	She showed her affection for the dog by giving it a treat.
+affection|NOUN	B1	C1	EN_459	Her deep affection for animals led her to volunteer at the local shelter.
+courtroom|NOUN	B1	A1	EN_460	N/A
+courtroom|NOUN	B1	A2	EN_461	N/A
+courtroom|NOUN	B1	B1	EN_462	The lawyer presented her case in the courtroom.
+courtroom|NOUN	B1	B2	EN_463	The witness felt nervous as she entered the courtroom.
+courtroom|NOUN	B1	C1	EN_464	The jury listened attentively to the lawyers' arguments in the crowded courtroom.
+deadline|NOUN	B1	A1	EN_465	N/A
+deadline|NOUN	B1	A2	EN_466	The deadline for my homework is tomorrow.
+deadline|NOUN	B1	B1	EN_467	The deadline for the project is next Friday.
+deadline|NOUN	B1	B2	EN_468	The project has a strict deadline of next Friday.
+deadline|NOUN	B1	C1	EN_469	The project manager extended the deadline by a week to allow for more thorough review.
+crossroad|NOUN	B1	A1	EN_470	N/A
+crossroad|NOUN	B1	A2	EN_471	The crossroad was busy.
+crossroad|NOUN	B1	B1	EN_472	We waited at the crossroad for the light to change.
+crossroad|NOUN	B1	B2	EN_473	We waited for the bus at the crossroad.
+crossroad|NOUN	B1	C1	EN_474	After careful deliberation, the company decided it was at a crossroad and needed to redefine its core mission.
+disappearance|NOUN	B1	A1	EN_475	N/A
+disappearance|NOUN	B1	A2	EN_476	N/A
+disappearance|NOUN	B1	B1	EN_477	We reported the disappearance of our dog to the police.
+disappearance|NOUN	B1	B2	EN_478	Police are investigating the disappearance of the valuable painting.
+disappearance|NOUN	B1	C1	EN_479	The sudden disappearance of the documents raised many questions.
+loneliness|NOUN	B1	A1	EN_480	N/A
+loneliness|NOUN	B1	A2	EN_481	He felt loneliness when he was alone.
+loneliness|NOUN	B1	B1	EN_482	Sometimes, loneliness can make people feel sad.
+loneliness|NOUN	B1	B2	EN_483	She felt a strong sense of loneliness after her friends left.
+loneliness|NOUN	B1	C1	EN_484	She often felt a deep sense of loneliness despite being surrounded by many people.
+traveler|NOUN	B1	A1	EN_485	The traveler has a big bag.
+traveler|NOUN	B1	A2	EN_486	The traveler has a big suitcase.
+traveler|NOUN	B1	B1	EN_487	The traveler checked into the hotel after a long journey.
+traveler|NOUN	B1	B2	EN_488	The seasoned traveler shared stories of her adventures.
+traveler|NOUN	B1	C1	EN_489	The seasoned traveler offered some invaluable advice to the young backpackers.
+praise|NOUN	B1	A1	EN_490	N/A
+praise|NOUN	B1	A2	EN_491	The teacher gave the student praise for the good work.
+praise|NOUN	B1	B1	EN_492	She received much praise for her hard work.
+praise|NOUN	B1	B2	EN_493	The team received much praise for their successful presentation.
+praise|NOUN	B1	C1	EN_494	The CEO received much praise for her innovative leadership.
+purchase|NOUN	B1	A1	EN_495	N/A
+purchase|NOUN	B1	A2	EN_496	N/A
+purchase|NOUN	B1	B1	EN_497	The purchase arrived yesterday.
+purchase|NOUN	B1	B2	EN_498	My recent purchase was a new book for my studies.
+purchase|NOUN	B1	C1	EN_499	The recent purchase of new equipment will significantly improve our productivity.
+stick|VERB	B1	A1	EN_500	Stick the photo here.
+stick|VERB	B1	A2	EN_501	Please stick the note on the fridge.
+stick|VERB	B1	B1	EN_502	Please stick the poster on the wall.
+stick|VERB	B1	B2	EN_503	It's important to stick to the original plan.
+stick|VERB	B1	C1	EN_504	The company decided to stick to its ethical principles, even if it meant lower profits.
+attract|VERB	B1	A1	EN_505	Magnets attract metal.
+attract|VERB	B1	A2	EN_506	Flowers attract bees.
+attract|VERB	B1	B1	EN_507	The beautiful flowers attract many bees.
+attract|VERB	B1	B2	EN_508	The new store hopes to attract more customers with its special offers.
+attract|VERB	B1	C1	EN_509	The company launched a new marketing campaign to attract a wider range of customers.
+employ|VERB	B1	A1	EN_510	N/A
+employ|VERB	B1	A2	EN_511	The big factory employs many people.
+employ|VERB	B1	B1	EN_512	Our company will employ three new engineers next month.
+employ|VERB	B1	B2	EN_513	The company decided to employ a new marketing manager.
+employ|VERB	B1	C1	EN_514	The company decided to employ a new marketing manager.
+achieve|VERB	B1	A1	EN_515	N/A
+achieve|VERB	B1	A2	EN_516	I want to achieve my goal.
+achieve|VERB	B1	B1	EN_517	She wants to achieve her goals this year.
+achieve|VERB	B1	B2	EN_518	She worked hard to achieve her goals.
+achieve|VERB	B1	C1	EN_519	She worked tirelessly to achieve her ambitious career goals.
+gain|VERB	B1	A1	EN_520	You can gain energy from food.
+gain|VERB	B1	A2	EN_521	He wants to gain weight.
+gain|VERB	B1	B1	EN_522	You can gain new skills by taking this course.
+gain|VERB	B1	B2	EN_523	She hopes to gain more confidence by practicing her presentation.
+gain|VERB	B1	C1	EN_524	She hopes to gain valuable experience during her internship.
+print|VERB	B1	A1	EN_525	I print a photo.
+print|VERB	B1	A2	EN_526	Can you print this document for me?
+print|VERB	B1	B1	EN_527	Can you print the report by five o'clock?
+print|VERB	B1	B2	EN_528	Can you please print this document for me?
+print|VERB	B1	C1	EN_529	The company decided to print a limited edition of the book due to high demand.
+suit|VERB	B1	A1	EN_530	Does 7 PM suit you?
+suit|VERB	B1	A2	EN_531	Does this time suit you?
+suit|VERB	B1	B1	EN_532	Does Friday suit you for the meeting?
+suit|VERB	B1	B2	EN_533	The new job really suits her.
+suit|VERB	B1	C1	EN_534	His extensive experience would suit him well for the leadership position.
+invest|VERB	B1	A1	EN_535	N/A
+invest|VERB	B1	A2	EN_536	I want to invest more time in reading books.
+invest|VERB	B1	B1	EN_537	You should invest your money carefully.
+invest|VERB	B1	B2	EN_538	She decided to invest her savings in a new company.
+invest|VERB	B1	C1	EN_539	They plan to invest a lot of money in the company.
+handle|VERB	B1	A1	EN_540	N/A
+handle|VERB	B1	A2	EN_541	Please handle the box carefully.
+handle|VERB	B1	B1	EN_542	I can handle the new project.
+handle|VERB	B1	B2	EN_543	She can handle a lot of pressure at work.
+handle|VERB	B1	C1	EN_544	The CEO was praised for how effectively he managed to handle the recent crisis.
+maintain|VERB	B1	A1	EN_545	N/A
+maintain|VERB	B1	A2	EN_546	You need to maintain your car.
+maintain|VERB	B1	B1	EN_547	It's important to maintain a healthy diet.
+maintain|VERB	B1	B2	EN_548	It's important to maintain a healthy diet.
+maintain|VERB	B1	C1	EN_549	It's crucial to maintain open communication within the team.
+emerge|VERB	B1	A1	EN_550	N/A
+emerge|VERB	B1	A2	EN_551	The sun emerged from the clouds.
+emerge|VERB	B1	B1	EN_552	The cat emerged from under the bed.
+emerge|VERB	B1	B2	EN_553	A small boat emerged from the fog.
+emerge|VERB	B1	C1	EN_554	New opportunities often emerge from challenging situations.
+recall|VERB	B1	A1	EN_555	N/A
+recall|VERB	B1	A2	EN_556	I cannot recall his name.
+recall|VERB	B1	B1	EN_557	I can recall the day we first met.
+recall|VERB	B1	B2	EN_558	She could recall every detail of the accident.
+recall|VERB	B1	C1	EN_559	I can't quite recall where I put my keys this morning.
+manufacture|VERB	B1	A1	EN_560	N/A
+manufacture|VERB	B1	A2	EN_561	N/A
+manufacture|VERB	B1	B1	EN_562	The company plans to manufacture many products in this factory.
+manufacture|VERB	B1	B2	EN_563	The company plans to manufacture new cars in its factory.
+manufacture|VERB	B1	C1	EN_564	The company decided to manufacture all its products locally.
+disagree|VERB	B1	A1	EN_565	I disagree with you.
+disagree|VERB	B1	A2	EN_566	I disagree with you.
+disagree|VERB	B1	B1	EN_567	I disagree with his opinion about the new rules.
+disagree|VERB	B1	B2	EN_568	They often disagree on important issues.
+disagree|VERB	B1	C1	EN_569	While I respect your opinion, I must respectfully disagree with your conclusion.
+define|VERB	B1	A1	EN_570	N/A
+define|VERB	B1	A2	EN_571	N/A
+define|VERB	B1	B1	EN_572	Can you define this word for me?
+define|VERB	B1	B2	EN_573	Can you define the main terms in this contract?
+define|VERB	B1	C1	EN_574	Her unwavering dedication truly defines her professional work ethic.
+select|VERB	B1	A1	EN_575	Please select your drink.
+select|VERB	B1	A2	EN_576	Please select the correct answer.
+select|VERB	B1	B1	EN_577	Please select the correct answer from the list.
+select|VERB	B1	B2	EN_578	You can select your preferred options from the menu.
+select|VERB	B1	C1	EN_579	The committee will select a new chairperson next month.
+interact|VERB	B1	A1	EN_580	N/A
+interact|VERB	B1	A2	EN_581	N/A
+interact|VERB	B1	B1	EN_582	Students often interact with their teachers during class.
+interact|VERB	B1	B2	EN_583	It's important for students to interact with each other during group activities.
+interact|VERB	B1	C1	EN_584	Students often interact with their professors outside of class to discuss their work.
+scan|VERB	B1	A1	EN_585	I scan the list.
+scan|VERB	B1	A2	EN_586	Can you scan this document?
+scan|VERB	B1	B1	EN_587	Can you scan this document for me?
+scan|VERB	B1	B2	EN_588	Please scan the document and send it to my email.
+scan|VERB	B1	C1	EN_589	He scanned the room, trying to locate his friend in the crowd.
+bind|VERB	B1	A1	EN_590	N/A
+bind|VERB	B1	A2	EN_591	N/A
+bind|VERB	B1	B1	EN_592	He used a rope to bind the box.
+bind|VERB	B1	B2	EN_593	The company's policy will bind all employees to the new rules.
+bind|VERB	B1	C1	EN_594	The new policy will bind all employees to a stricter code of conduct.
+overlook|VERB	B1	A1	EN_595	My window overlooks the garden.
+overlook|VERB	B1	A2	EN_596	Our apartment overlooks the park.
+overlook|VERB	B1	B1	EN_597	The balcony overlooks the garden.
+overlook|VERB	B1	B2	EN_598	Our apartment overlooks a beautiful park.
+overlook|VERB	B1	C1	EN_599	It's easy to overlook small details when you're in a hurry.
+task|NOUN	B2	A1	EN_600	This is a simple task.
+task|NOUN	B2	A2	EN_601	I have a new task for you.
+task|NOUN	B2	B1	EN_602	My main task today is to finish this report.
+task|NOUN	B2	B2	EN_603	My first task today is to send an important email.
+task|NOUN	B2	C1	EN_604	The team's primary task was to develop a more efficient system for data management.
+chin|NOUN	B2	A1	EN_605	She has a small chin.
+chin|NOUN	B2	A2	EN_606	He has a small chin.
+chin|NOUN	B2	B1	EN_607	He rested his chin on his hand.
+chin|NOUN	B2	B2	EN_608	He stroked his chin thoughtfully.
+chin|NOUN	B2	C1	EN_609	With a determined look, she lifted her chin and faced the challenge.
+insight|NOUN	B2	A1	EN_610	N/A
+insight|NOUN	B2	A2	EN_611	N/A
+insight|NOUN	B2	B1	EN_612	The meeting gave me a new insight into the project.
+insight|NOUN	B2	B2	EN_613	Her report offered some valuable insight into the problem.
+insight|NOUN	B2	C1	EN_614	Her presentation offered a profound insight into the challenges facing the industry.
+bandage|NOUN	B2	A1	EN_615	I need a bandage.
+bandage|NOUN	B2	A2	EN_616	She put a bandage on her finger.
+bandage|NOUN	B2	B1	EN_617	She put a bandage on her cut.
+bandage|NOUN	B2	B2	EN_618	She put a clean bandage on the cut to stop the bleeding.
+bandage|NOUN	B2	C1	EN_619	She carefully removed the old bandage and applied a fresh one.
+gunfire|NOUN	B2	A1	EN_620	N/A
+gunfire|NOUN	B2	A2	EN_621	N/A
+gunfire|NOUN	B2	B1	EN_622	We heard gunfire in the distance.
+gunfire|NOUN	B2	B2	EN_623	We heard distant gunfire from the border.
+gunfire|NOUN	B2	C1	EN_624	The distant sound of gunfire echoed through the empty streets.
+suicide|NOUN	B2	A1	EN_625	N/A
+suicide|NOUN	B2	A2	EN_626	N/A
+suicide|NOUN	B2	B1	EN_627	It is important to talk about mental health to prevent suicide.
+suicide|NOUN	B2	B2	EN_628	The organization works to prevent suicide among young people.
+suicide|NOUN	B2	C1	EN_629	Preventing suicide is a complex public health challenge that requires collective effort.
+spying|NOUN	B2	A1	EN_630	N/A
+spying|NOUN	B2	A2	EN_631	N/A
+spying|NOUN	B2	B1	EN_632	The movie was about international spying.
+spying|NOUN	B2	B2	EN_633	The government denied all accusations of spying.
+spying|NOUN	B2	C1	EN_634	The government faced accusations of extensive spying on foreign diplomats.
+opposition|NOUN	B2	A1	EN_635	N/A
+opposition|NOUN	B2	A2	EN_636	N/A
+opposition|NOUN	B2	B1	EN_637	There was a lot of opposition to the new building plan.
+opposition|NOUN	B2	B2	EN_638	There was strong opposition to the new policy from several groups.
+opposition|NOUN	B2	C1	EN_639	The government faced significant opposition to its plans for tax reform.
+potential|NOUN	B2	A1	EN_640	N/A
+potential|NOUN	B2	A2	EN_641	N/A
+potential|NOUN	B2	B1	EN_642	She has a lot of potential to be a great leader.
+potential|NOUN	B2	B2	EN_643	She has the potential to become a great leader.
+potential|NOUN	B2	C1	EN_644	The new technology has the potential to revolutionize the industry.
+cop|NOUN	B2	A1	EN_645	A cop helps people.
+cop|NOUN	B2	A2	EN_646	The cop stopped the car.
+cop|NOUN	B2	B1	EN_647	The cop directed traffic after the accident.
+cop|NOUN	B2	B2	EN_648	The cop arrived quickly after we called for help.La película me conmovió mucho.
+cop|NOUN	B2	C1	EN_649	The detective knew the young cop was eager to prove himself.
+cleanliness|NOUN	B2	A1	EN_650	N/A
+cleanliness|NOUN	B2	A2	EN_651	Good cleanliness is important for health.
+cleanliness|NOUN	B2	B1	EN_652	Good cleanliness is important for your health.
+cleanliness|NOUN	B2	B2	EN_653	Good cleanliness is important in a hospital.
+cleanliness|NOUN	B2	C1	EN_654	The hotel prides itself on the exceptional cleanliness of its rooms.
+lid|NOUN	B2	A1	EN_655	The box has a lid.
+lid|NOUN	B2	A2	EN_656	Please put the lid on the box.
+lid|NOUN	B2	B1	EN_657	Please put the lid on the pot.
+lid|NOUN	B2	B2	EN_658	Please put the lid back on the pot.
+lid|NOUN	B2	C1	EN_659	She carefully lifted the lid of the ancient chest, revealing old letters.
+bug|NOUN	B2	A1	EN_660	I see a small bug on the leaf.
+bug|NOUN	B2	A2	EN_661	There is a small bug on the leaf.
+bug|NOUN	B2	B1	EN_662	I saw a small bug on the window.
+bug|NOUN	B2	B2	EN_663	The programmer found a bug in the new software.
+bug|NOUN	B2	C1	EN_664	She finally caught the travel bug and started planning trips all over the world.
+rage|NOUN	B2	A1	EN_665	N/A
+rage|NOUN	B2	A2	EN_666	N/A
+rage|NOUN	B2	B1	EN_667	His sudden rage surprised everyone.
+rage|NOUN	B2	B2	EN_668	He felt a sudden rage when his team lost the championship game.
+rage|NOUN	B2	C1	EN_669	His face was contorted with pure rage when he heard the news.
+wasp|NOUN	B2	A1	EN_670	I see a wasp.
+wasp|NOUN	B2	A2	EN_671	I saw a wasp near the flowers.
+wasp|NOUN	B2	B1	EN_672	I saw a wasp flying near the flowers.
+wasp|NOUN	B2	B2	EN_673	A wasp flew into the kitchen through the open window.
+wasp|NOUN	B2	C1	EN_674	A single wasp flew into the kitchen, causing a slight panic.
+consent|NOUN	B2	A1	EN_675	N/A
+consent|NOUN	B2	A2	EN_676	N/A
+consent|NOUN	B2	B1	EN_677	N/A
+consent|NOUN	B2	B2	EN_678	He needs his parents' consent to go on the trip.
+consent|NOUN	B2	C1	EN_679	The committee gave its unanimous consent to the proposal.
+gem|NOUN	B2	A1	EN_680	This ring has a big gem.
+gem|NOUN	B2	A2	EN_681	She wears a ring with a blue gem.
+gem|NOUN	B2	B1	EN_682	The ring has a sparkling gem.
+gem|NOUN	B2	B2	EN_683	The museum has a small but impressive collection of rare gems.
+gem|NOUN	B2	C1	EN_684	Her latest novel is a true gem, showcasing her remarkable storytelling ability.
+dialogue|NOUN	B2	A1	EN_685	N/A
+dialogue|NOUN	B2	A2	EN_686	N/A
+dialogue|NOUN	B2	B1	EN_687	We had a good dialogue about the project.
+dialogue|NOUN	B2	B2	EN_688	The two leaders began a new dialogue about peace.
+dialogue|NOUN	B2	C1	EN_689	The two leaders initiated a constructive dialogue to resolve the ongoing dispute.
+mould|NOUN	B2	A1	EN_690	The bread has mould.
+mould|NOUN	B2	A2	EN_691	There is mould on the old cheese.
+mould|NOUN	B2	B1	EN_692	There was mould on the old bread.
+mould|NOUN	B2	B2	EN_693	There was some green mould on the old cheese.
+mould|NOUN	B2	C1	EN_694	The artisan used a special mould to create the unique ceramic vase.
+shack|NOUN	B2	A1	EN_695	N/A
+shack|NOUN	B2	A2	EN_696	They lived in a small shack in the woods.
+shack|NOUN	B2	B1	EN_697	They lived in a small shack near the beach.
+shack|NOUN	B2	B2	EN_698	They built a small shack on the beach for their fishing gear.
+shack|NOUN	B2	C1	EN_699	The old fisherman lived in a small wooden shack by the sea.
+stretch|VERB	B2	A1	EN_700	I stretch my arms.
+stretch|VERB	B2	A2	EN_701	I stretch my arms every morning.
+stretch|VERB	B2	B1	EN_702	I like to stretch my arms after I wake up.
+stretch|VERB	B2	B2	EN_703	She stretched her legs after the long flight.
+stretch|VERB	B2	C1	EN_704	The team had to really stretch themselves to meet the ambitious deadline.
+attempt|VERB	B2	A1	EN_705	N/A
+attempt|VERB	B2	A2	EN_706	He attempted to open the door.
+attempt|VERB	B2	B1	EN_707	She will attempt to finish her homework before dinner.
+attempt|VERB	B2	B2	EN_708	He will attempt to finish the race by noon.
+attempt|VERB	B2	C1	EN_709	The team will attempt to secure funding for the new project.
+vary|VERB	B2	A1	EN_710	N/A
+vary|VERB	B2	A2	EN_711	The colors of the flowers vary.
+vary|VERB	B2	B1	EN_712	The prices of flights can vary depending on the day you travel.
+vary|VERB	B2	B2	EN_713	The prices of these items can vary greatly from store to store.
+vary|VERB	B2	C1	EN_714	The methods used to achieve these results may vary considerably.
+whistle|VERB	B2	A1	EN_715	He can whistle.
+whistle|VERB	B2	A2	EN_716	He can whistle a happy song.
+whistle|VERB	B2	B1	EN_717	He learned to whistle when he was a child.
+whistle|VERB	B2	B2	EN_718	The referee will whistle to start the game.
+whistle|VERB	B2	C1	EN_719	The wind began to whistle through the narrow crevices of the mountain, creating an unsettling sound.
+evolve|VERB	B2	A1	EN_720	N/A
+evolve|VERB	B2	A2	EN_721	N/A
+evolve|VERB	B2	B1	EN_722	His music style has evolved over the years.
+evolve|VERB	B2	B2	EN_723	Our ideas about the project will evolve over the next few weeks.
+evolve|VERB	B2	C1	EN_724	Their business strategy needed to evolve to stay competitive in the market.
+associate|VERB	B2	A1	EN_725	N/A
+associate|VERB	B2	A2	EN_726	N/A
+associate|VERB	B2	B1	EN_727	I associate that smell with summer.
+associate|VERB	B2	B2	EN_728	Most people associate good grades with studying.Most people associate good grades with studying.
+associate|VERB	B2	C1	EN_729	Most people associate the smell of fresh bread with comfort.
+stamp|VERB	B2	A1	EN_730	I stamp the letter.
+stamp|VERB	B2	A2	EN_731	I need to stamp this letter.
+stamp|VERB	B2	B1	EN_732	Please stamp the letter before you mail it.
+stamp|VERB	B2	B2	EN_733	She likes to stamp her own letters before mailing them.
+stamp|VERB	B2	C1	EN_734	The government aims to stamp out tax evasion.
+lack|VERB	B2	A1	EN_735	N/A
+lack|VERB	B2	A2	EN_736	They lack time to play.
+lack|VERB	B2	B1	EN_737	The small town lacks a good hospital.
+lack|VERB	B2	B2	EN_738	Many new businesses lack the funding they need to grow.
+lack|VERB	B2	C1	EN_739	Many developing countries lack access to clean drinking water.
+curse|VERB	B2	A1	EN_740	N/A
+curse|VERB	B2	A2	EN_741	N/A
+curse|VERB	B2	B1	EN_742	He started to curse when he realized he had lost his keys.
+curse|VERB	B2	B2	EN_743	She cursed the broken machine that wouldn't start.
+curse|VERB	B2	C1	EN_744	He cursed under his breath when he realized he had forgotten his keys.
+crush|VERB	B2	A1	EN_745	Don't crush the bread.
+crush|VERB	B2	A2	EN_746	Don't crush the flowers.
+crush|VERB	B2	B1	EN_747	Don't crush the flowers.
+crush|VERB	B2	B2	EN_748	Please crush the aluminum cans before you put them in the recycling bin.
+crush|VERB	B2	C1	EN_749	The company's new product aims to crush the competition in the market.
+price|VERB	B2	A1	EN_750	N/A
+price|VERB	B2	A2	EN_751	N/A
+price|VERB	B2	B1	EN_752	The shop assistant will price the new shoes tomorrow.
+price|VERB	B2	B2	EN_753	I need to price some flights for my vacation.
+price|VERB	B2	C1	EN_754	The store priced the electronics competitively.
+prosecute|VERB	B2	A1	EN_755	N/A
+prosecute|VERB	B2	A2	EN_756	N/A
+prosecute|VERB	B2	B1	EN_757	The police will prosecute the thief.
+prosecute|VERB	B2	B2	EN_758	The government decided to prosecute the company for environmental damage.
+prosecute|VERB	B2	C1	EN_759	The state decided to prosecute the company for environmental violations.
+assess|VERB	B2	A1	EN_760	N/A
+assess|VERB	B2	A2	EN_761	N/A
+assess|VERB	B2	B1	EN_762	The teacher will assess our progress next week.
+assess|VERB	B2	B2	EN_763	The teacher will assess our progress next week.
+assess|VERB	B2	C1	EN_764	We need to assess the risks before starting the project.
+recite|VERB	B2	A1	EN_765	N/A
+recite|VERB	B2	A2	EN_766	N/A
+recite|VERB	B2	B1	EN_767	The child can recite the alphabet.
+recite|VERB	B2	B2	EN_768	She had to recite the poem for her English class.
+recite|VERB	B2	C1	EN_769	She can fluently recite the entire poem from memory.
+prescribe|VERB	B2	A1	EN_770	N/A
+prescribe|VERB	B2	A2	EN_771	N/A
+prescribe|VERB	B2	B1	EN_772	The doctor will prescribe some medicine for your cough.
+prescribe|VERB	B2	B2	EN_773	The doctor will prescribe some medicine for your cough.
+prescribe|VERB	B2	C1	EN_774	The doctor prescribed a new medication to help with her chronic pain.
+enrich|VERB	B2	A1	EN_775	N/A
+enrich|VERB	B2	A2	EN_776	N/A
+enrich|VERB	B2	B1	EN_777	Reading can enrich your life.
+enrich|VERB	B2	B2	EN_778	Reading can enrich your understanding of the world.
+enrich|VERB	B2	C1	EN_779	Her diverse experiences greatly enriched her perspective on global issues.
+kidnap|VERB	B2	A1	EN_780	N/A
+kidnap|VERB	B2	A2	EN_781	N/A
+kidnap|VERB	B2	B1	EN_782	Police arrested the man who tried to kidnap the boy.
+kidnap|VERB	B2	B2	EN_783	The police are investigating a plot to kidnap the ambassador.
+kidnap|VERB	B2	C1	EN_784	The criminals planned to kidnap the wealthy businessman for ransom.
+con|VERB	B2	A1	EN_785	N/A
+con|VERB	B2	A2	EN_786	N/A
+con|VERB	B2	B1	EN_787	N/A
+con|VERB	B2	B2	EN_788	He tried to con me into buying the broken phone.
+con|VERB	B2	C1	EN_789	The scam artist tried to con him out of his life savings.
+dispatch|VERB	B2	A1	EN_790	N/A
+dispatch|VERB	B2	A2	EN_791	N/A
+dispatch|VERB	B2	B1	EN_792	The company will dispatch your order tomorrow.
+dispatch|VERB	B2	B2	EN_793	The company will dispatch the order tomorrow.
+dispatch|VERB	B2	C1	EN_794	The company will dispatch your order tomorrow morning.
+hook|VERB	B2	A1	EN_795	He hooks the fish.
+hook|VERB	B2	A2	EN_796	He hooked a big fish.
+hook|VERB	B2	B1	EN_797	She tried to hook the small fish.
+hook|VERB	B2	B2	EN_798	Can you hook your keys on the key rack?
+hook|VERB	B2	C1	EN_799	The documentary managed to hook viewers with its compelling narrative and stunning visuals.
+lace|NOUN	C1	A1	EN_800	The dress has lace.
+lace|NOUN	C1	A2	EN_801	The shoe has a broken lace.
+lace|NOUN	C1	B1	EN_802	Her shoe lace came undone, so she had to tie it again.
+lace|NOUN	C1	B2	EN_803	She bought a dress with delicate lace details.
+lace|NOUN	C1	C1	EN_804	The antique tablecloth was edged with intricate lace.
+satisfaction|NOUN	C1	A1	EN_805	N/A
+satisfaction|NOUN	C1	A2	EN_806	N/A
+satisfaction|NOUN	C1	B1	EN_807	She felt great satisfaction after she passed the exam.
+satisfaction|NOUN	C1	B2	EN_808	She felt great satisfaction after finishing the difficult task.
+satisfaction|NOUN	C1	C1	EN_809	Completing the complex puzzle gave him a deep sense of satisfaction.
+mining|NOUN	C1	A1	EN_810	N/A
+mining|NOUN	C1	A2	EN_811	My uncle works in mining.
+mining|NOUN	C1	B1	EN_812	Coal mining is a big industry in this area.
+mining|NOUN	C1	B2	EN_813	The country's economy relies heavily on coal mining.
+mining|NOUN	C1	C1	EN_814	The region's economy relies heavily on coal mining.
+arthritis|NOUN	C1	A1	EN_815	N/A
+arthritis|NOUN	C1	A2	EN_816	N/A
+arthritis|NOUN	C1	B1	EN_817	My grandmother has arthritis in her hands.
+arthritis|NOUN	C1	B2	EN_818	My grandmother has arthritis in her knees.
+arthritis|NOUN	C1	C1	EN_819	Arthritis can make daily tasks challenging for some people.
+worthlessness|NOUN	C1	A1	EN_820	N/A
+worthlessness|NOUN	C1	A2	EN_821	N/A
+worthlessness|NOUN	C1	B1	EN_822	The worthlessness of the old broken chair was clear to everyone.
+worthlessness|NOUN	C1	B2	EN_823	He struggled with feelings of worthlessness after failing the exam.
+worthlessness|NOUN	C1	C1	EN_824	The patient expressed deep feelings of worthlessness during therapy.
+antagonism|NOUN	C1	A1	EN_825	N/A
+antagonism|NOUN	C1	A2	EN_826	N/A
+antagonism|NOUN	C1	B1	EN_827	N/A
+antagonism|NOUN	C1	B2	EN_828	There was clear antagonism between the two groups.
+antagonism|NOUN	C1	C1	EN_829	There was a palpable antagonism between the two rival factions.
+stratosphere|NOUN	C1	A1	EN_830	N/A
+stratosphere|NOUN	C1	A2	EN_831	N/A
+stratosphere|NOUN	C1	B1	EN_832	N/A
+stratosphere|NOUN	C1	B2	EN_833	Some high-flying planes can reach the stratosphere.
+stratosphere|NOUN	C1	C1	EN_834	The ozone layer, vital for life on Earth, is primarily located within the stratosphere.
+portrait|NOUN	C1	A1	EN_835	This is a portrait of my mother.
+portrait|NOUN	C1	A2	EN_836	This is a portrait of my grandmother.
+portrait|NOUN	C1	B1	EN_837	I saw a beautiful portrait at the art gallery.
+portrait|NOUN	C1	B2	EN_838	She hung the beautiful portrait of her grandmother on the wall.
+portrait|NOUN	C1	C1	EN_839	The artist spent months perfecting the intricate details of the duke's official portrait.
+anthology|NOUN	C1	A1	EN_840	N/A
+anthology|NOUN	C1	A2	EN_841	N/A
+anthology|NOUN	C1	B1	EN_842	N/A
+anthology|NOUN	C1	B2	EN_843	The anthology contains poems from many different writers.
+anthology|NOUN	C1	C1	EN_844	The new anthology features poems from a diverse range of contemporary writers.
+coupon|NOUN	C1	A1	EN_845	I have a coupon for coffee.
+coupon|NOUN	C1	A2	EN_846	I have a coupon for the new store.
+coupon|NOUN	C1	B1	EN_847	I used a coupon to get a discount on my new shirt.
+coupon|NOUN	C1	B2	EN_848	I used a coupon to get a discount on the new shirt.
+coupon|NOUN	C1	C1	EN_849	She used a digital coupon to get a discount on her online purchase.
+citron|NOUN	C1	A1	EN_850	N/A
+citron|NOUN	C1	A2	EN_851	N/A
+citron|NOUN	C1	B1	EN_852	N/A
+citron|NOUN	C1	B2	EN_853	She used candied citron to decorate the fruitcake.
+citron|NOUN	C1	C1	EN_854	She grated the zest of a fresh citron to add a citrusy kick to the dessert.
+convalescence|NOUN	C1	A1	EN_855	N/A
+convalescence|NOUN	C1	A2	EN_856	N/A
+convalescence|NOUN	C1	B1	EN_857	N/A
+convalescence|NOUN	C1	B2	EN_858	After the surgery, her period of convalescence was peaceful.
+convalescence|NOUN	C1	C1	EN_859	After his surgery, he needed a long period of convalescence at home.
+horsepower|NOUN	C1	A1	EN_860	N/A
+horsepower|NOUN	C1	A2	EN_861	N/A
+horsepower|NOUN	C1	B1	EN_862	The new car has more horsepower than the old one.
+horsepower|NOUN	C1	B2	EN_863	The new model has more horsepower than the old one.
+horsepower|NOUN	C1	C1	EN_864	The new sports car boasts an impressive 500 horsepower engine.
+fallout|NOUN	C1	A1	EN_865	N/A
+fallout|NOUN	C1	A2	EN_866	N/A
+fallout|NOUN	C1	B1	EN_867	N/A
+fallout|NOUN	C1	B2	EN_868	There was a lot of negative fallout from the scandal.
+fallout|NOUN	C1	C1	EN_869	The economic fallout from the pandemic was felt globally.
+ma|NOUN	C1	A1	EN_870	My ma is a doctor.
+ma|NOUN	C1	A2	EN_871	My ma will make dinner tonight.
+ma|NOUN	C1	B1	EN_872	My ma is coming to visit next week.
+ma|NOUN	C1	B2	EN_873	My ma is visiting us next week.
+ma|NOUN	C1	C1	EN_874	My ma always told me to follow my dreams.
+nationalism|NOUN	C1	A1	EN_875	N/A
+nationalism|NOUN	C1	A2	EN_876	N/A
+nationalism|NOUN	C1	B1	EN_877	N/A
+nationalism|NOUN	C1	B2	EN_878	The politician's speech appealed to a strong sense of nationalism.
+nationalism|NOUN	C1	C1	EN_879	The government struggled to balance regional interests with a growing sense of nationalism.
+self-medication|NOUN	C1	A1	EN_880	N/A
+self-medication|NOUN	C1	A2	EN_881	N/A
+self-medication|NOUN	C1	B1	EN_882	N/A
+self-medication|NOUN	C1	B2	EN_883	Self-medication can be risky without professional advice.
+self-medication|NOUN	C1	C1	EN_884	Many people resort to self-medication to cope with stress or anxiety.
+rehearsal|NOUN	C1	A1	EN_885	N/A
+rehearsal|NOUN	C1	A2	EN_886	The band has a rehearsal on Monday.
+rehearsal|NOUN	C1	B1	EN_887	The band has a rehearsal tonight.
+rehearsal|NOUN	C1	B2	EN_888	The band had a final rehearsal before their big concert tonight.
+rehearsal|NOUN	C1	C1	EN_889	The cast had one last rehearsal before opening night.
+walrus|NOUN	C1	A1	EN_890	A walrus is a big animal.
+walrus|NOUN	C1	A2	EN_891	A walrus lives in cold water.
+walrus|NOUN	C1	B1	EN_892	The walrus has long tusks.
+walrus|NOUN	C1	B2	EN_893	The walrus is a large marine mammal with prominent tusks.
+walrus|NOUN	C1	C1	EN_894	The documentary showed a large walrus resting on an ice floe.
+self-promotion|NOUN	C1	A1	EN_895	N/A
+self-promotion|NOUN	C1	A2	EN_896	N/A
+self-promotion|NOUN	C1	B1	EN_897	Self-promotion is important for finding a job.
+self-promotion|NOUN	C1	B2	EN_898	Many people find self-promotion difficult, even when it's necessary.
+self-promotion|NOUN	C1	C1	EN_899	Effective self-promotion often feels uncomfortable for many people.
+scrape|VERB	C1	A1	EN_900	He fell and scraped his knee.
+scrape|VERB	C1	A2	EN_901	I fell and scraped my knee.
+scrape|VERB	C1	B1	EN_902	I scraped my knee when I fell.
+scrape|VERB	C1	B2	EN_903	I fell and scraped my knee on the concrete.
+scrape|VERB	C1	C1	EN_904	The old car managed to scrape through the annual inspection.
+install|VERB	C1	A1	EN_905	N/A
+install|VERB	C1	A2	EN_906	I need to install the new app on my phone.
+install|VERB	C1	B1	EN_907	I need to install the new software on my computer.
+install|VERB	C1	B2	EN_908	I need to install the new software on my computer.
+install|VERB	C1	C1	EN_909	The company plans to install new security cameras throughout the building next month.
+immerse|VERB	C1	A1	EN_910	N/A
+immerse|VERB	C1	A2	EN_911	N/A
+immerse|VERB	C1	B1	EN_912	N/A
+immerse|VERB	C1	B2	EN_913	She likes to immerse herself in a good book on rainy days.
+immerse|VERB	C1	C1	EN_914	To truly learn a new language, you should immerse yourself in its culture.
+murmur|VERB	C1	A1	EN_915	N/A
+murmur|VERB	C1	A2	EN_916	N/A
+murmur|VERB	C1	B1	EN_917	He could hear the children murmur in the next room.
+murmur|VERB	C1	B2	EN_918	The students murmured in agreement after the lecture.
+murmur|VERB	C1	C1	EN_919	She would often murmur ancient poems to herself while working in the garden.
+isolate|VERB	C1	A1	EN_920	N/A
+isolate|VERB	C1	A2	EN_921	The doctor will isolate the patient.
+isolate|VERB	C1	B1	EN_922	They had to isolate the patient to prevent the illness from spreading.
+isolate|VERB	C1	B2	EN_923	The scientists worked to isolate the specific virus.
+isolate|VERB	C1	C1	EN_924	The doctors decided to isolate the patient to prevent the spread of the virus.
+straighten|VERB	C1	A1	EN_925	Please straighten your shirt.
+straighten|VERB	C1	A2	EN_926	Please straighten the picture.
+straighten|VERB	C1	B1	EN_927	Could you please straighten the books on the shelf?
+straighten|VERB	C1	B2	EN_928	She took a moment to straighten her tie.
+straighten|VERB	C1	C1	EN_929	We need to straighten out the details before we can finalize the plan.
+sprawl|VERB	C1	A1	EN_930	N/A
+sprawl|VERB	C1	A2	EN_931	N/A
+sprawl|VERB	C1	B1	EN_932	He liked to sprawl on the sofa and watch TV.
+sprawl|VERB	C1	B2	EN_933	After the long run, he sprawled on the grass to rest.
+sprawl|VERB	C1	C1	EN_934	After a long day, she liked to sprawl out on the rug in front of the fireplace.
+simplify|VERB	C1	A1	EN_935	N/A
+simplify|VERB	C1	A2	EN_936	Can you simplify this sentence for me?
+simplify|VERB	C1	B1	EN_937	Can you simplify the instructions for me?
+simplify|VERB	C1	B2	EN_938	Can you simplify the instructions for me, please?
+simplify|VERB	C1	C1	EN_939	The new system will simplify the process significantly.
+align|VERB	C1	A1	EN_940	N/A
+align|VERB	C1	A2	EN_941	N/A
+align|VERB	C1	B1	EN_942	You need to align the pictures.
+align|VERB	C1	B2	EN_943	We need to align our marketing strategy with the company's overall goals.
+align|VERB	C1	C1	EN_944	We need to align our strategies with the company's long-term goals.
+astound|VERB	C1	A1	EN_945	N/A
+astound|VERB	C1	A2	EN_946	N/A
+astound|VERB	C1	B1	EN_947	N/A
+astound|VERB	C1	B2	EN_948	Her incredible talent continues to astound everyone who sees her.
+astound|VERB	C1	C1	EN_949	Her sudden resignation truly astounded everyone in the office.
+detest|VERB	C1	A1	EN_950	N/A
+detest|VERB	C1	A2	EN_951	N/A
+detest|VERB	C1	B1	EN_952	I detest waiting in long lines at the store.
+detest|VERB	C1	B2	EN_953	I detest waking up early on weekends.
+detest|VERB	C1	C1	EN_954	She truly detests waking up early on weekends.
+combat|VERB	C1	A1	EN_955	N/A
+combat|VERB	C1	A2	EN_956	N/A
+combat|VERB	C1	B1	EN_957	Doctors work to combat the spread of the virus.
+combat|VERB	C1	B2	EN_958	The new measures aim to combat rising crime in the city.
+combat|VERB	C1	C1	EN_959	The organization works to combat poverty in developing nations.
+drum|VERB	C1	A1	EN_960	He drums on the table.
+drum|VERB	C1	A2	EN_961	She often drums her fingers on the desk.
+drum|VERB	C1	B1	EN_962	She began to drum her fingers on the desk.
+drum|VERB	C1	B2	EN_963	He began to drum his fingers nervously on the desk.
+drum|VERB	C1	C1	EN_964	Rain drummed loudly on the metal roof all night.
+frill|VERB	C1	A1	EN_965	N/A
+frill|VERB	C1	A2	EN_966	N/A
+frill|VERB	C1	B1	EN_967	N/A
+frill|VERB	C1	B2	EN_968	She likes to frill the hems of her skirts with ribbons.
+frill|VERB	C1	C1	EN_969	He preferred to keep his writing simple and not frill his sentences with elaborate metaphors.
+integrate|VERB	C1	A1	EN_970	N/A
+integrate|VERB	C1	A2	EN_971	N/A
+integrate|VERB	C1	B1	EN_972	It can take time to integrate into a new team.
+integrate|VERB	C1	B2	EN_973	The school tries to integrate new students quickly.
+integrate|VERB	C1	C1	EN_974	The company hopes to integrate the new software with their existing systems.
+obscure|VERB	C1	A1	EN_975	N/A
+obscure|VERB	C1	A2	EN_976	N/A
+obscure|VERB	C1	B1	EN_977	Clouds obscure the view from the window.
+obscure|VERB	C1	B2	EN_978	The fog began to obscure the view of the city.
+obscure|VERB	C1	C1	EN_979	The thick smoke began to obscure the sun, casting an eerie glow over the landscape.
+poke|VERB	C1	A1	EN_980	Don't poke the cat.
+poke|VERB	C1	A2	EN_981	Don't poke the cake with your finger.
+poke|VERB	C1	B1	EN_982	She poked the cake with a fork to see if it was ready.She poked the dog gently with her foot.
+poke|VERB	C1	B2	EN_983	He poked his head out the window to see what was happening.
+poke|VERB	C1	C1	EN_984	She decided to poke around the old attic for forgotten treasures.
+retouch|VERB	C1	A1	EN_985	N/A
+retouch|VERB	C1	A2	EN_986	N/A
+retouch|VERB	C1	B1	EN_987	Can you retouch this photo to make the colors brighter?
+retouch|VERB	C1	B2	EN_988	I need to retouch this photo before I post it online.
+retouch|VERB	C1	C1	EN_989	She had to retouch the old photograph to improve its appearance.
+squabble|VERB	C1	A1	EN_990	N/A
+squabble|VERB	C1	A2	EN_991	N/A
+squabble|VERB	C1	B1	EN_992	The children often squabble over their toys.
+squabble|VERB	C1	B2	EN_993	The siblings always squabble about who gets the last piece of cake.
+squabble|VERB	C1	C1	EN_994	The siblings often squabble over who gets to use the computer first.
+stack|VERB	C1	A1	EN_995	I stack the books.
+stack|VERB	C1	A2	EN_996	Please stack the plates in the cupboard.
+stack|VERB	C1	B1	EN_997	Please stack the plates carefully after washing them.
+stack|VERB	C1	B2	EN_998	We stacked the chairs after the meeting.
+stack|VERB	C1	C1	EN_999	The team worked quickly to stack the remaining inventory before closing time.

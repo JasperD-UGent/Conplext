@@ -1,0 +1,1001 @@
+word_entry	word_level_CEFRLex	sentence_level_generated	sentence_ID	sentence_text
+porte|NOUN	A1	A1	FR_0	La porte est bleue.
+porte|NOUN	A1	A2	FR_1	La porte est ouverte.
+porte|NOUN	A1	B1	FR_2	Elle a ouvert la porte du salon.
+porte|NOUN	A1	B2	FR_3	La porte d'entrée de l'immeuble est toujours fermée le soir.
+porte|NOUN	A1	C1	FR_4	Sa promotion lui a ouvert de nouvelles portes professionnelles.
+tête|NOUN	A1	A1	FR_5	J'ai mal à la tête.
+tête|NOUN	A1	A2	FR_6	J'ai mal à la tête.
+tête|NOUN	A1	B1	FR_7	Il a une casquette sur la tête.
+tête|NOUN	A1	B2	FR_8	Il a hoché la tête pour signifier son accord.
+tête|NOUN	A1	C1	FR_9	Il a pris la tête du projet avec une détermination impressionnante.
+journaliste|NOUN	A1	A1	FR_10	Je suis journaliste.
+journaliste|NOUN	A1	A2	FR_11	Mon frère est journaliste à Paris.
+journaliste|NOUN	A1	B1	FR_12	Mon ami est journaliste pour un grand journal.
+journaliste|NOUN	A1	B2	FR_13	Le journaliste a posé plusieurs questions à l'homme politique.
+journaliste|NOUN	A1	C1	FR_14	La journaliste a posé une question pertinente au ministre.
+appartement|NOUN	A1	A1	FR_15	J'ai un appartement.
+appartement|NOUN	A1	A2	FR_16	J'habite dans un grand appartement.
+appartement|NOUN	A1	B1	FR_17	J'ai un petit appartement en ville.
+appartement|NOUN	A1	B2	FR_18	Nous avons visité un bel appartement avec trois chambres dans le centre-ville.
+appartement|NOUN	A1	C1	FR_19	La recherche d'un appartement spacieux et lumineux dans le centre-ville s'avérait plus ardue que prévu.
+texte|NOUN	A1	A1	FR_20	Je lis un texte.
+texte|NOUN	A1	A2	FR_21	Ce texte est très intéressant.
+texte|NOUN	A1	B1	FR_22	Le texte de cette chanson est très beau.
+texte|NOUN	A1	B2	FR_23	Nous avons dû analyser le texte pour comprendre son message.
+texte|NOUN	A1	C1	FR_24	Le professeur a demandé aux étudiants d'analyser le texte sous un angle critique.
+repas|NOUN	A1	A1	FR_25	Le repas est bon.
+repas|NOUN	A1	A2	FR_26	Nous prenons le repas ensemble.
+repas|NOUN	A1	B1	FR_27	Nous avons pris un bon repas ensemble.
+repas|NOUN	A1	B2	FR_28	Le repas de ce soir sera composé de plusieurs plats.
+repas|NOUN	A1	C1	FR_29	Le chef a concocté un repas exquis pour célébrer cette occasion spéciale.
+passé|NOUN	A1	A1	FR_30	J'aime mon passé.
+passé|NOUN	A1	A2	FR_31	Il pense souvent à son passé.
+passé|NOUN	A1	B1	FR_32	Il parle de son passé.
+passé|NOUN	A1	B2	FR_33	Il pense souvent à son passé.
+passé|NOUN	A1	C1	FR_34	Elle a tiré des leçons de son passé pour avancer.
+employé|NOUN	A1	A1	FR_35	Mon père est un employé.
+employé|NOUN	A1	A2	FR_36	L'employé est arrivé à l'heure ce matin.
+employé|NOUN	A1	B1	FR_37	L'employé travaille au bureau tous les jours.
+employé|NOUN	A1	B2	FR_38	Notre nouvel employé est très motivé.
+employé|NOUN	A1	C1	FR_39	Chaque employé a le droit de prendre des congés payés.
+pauvre|NOUN	A1	A1	FR_40	Il donne de l'argent aux pauvres.
+pauvre|NOUN	A1	A2	FR_41	Il a aidé un pauvre dans la rue.
+pauvre|NOUN	A1	B1	FR_42	Les pauvres ont besoin d'aide.
+pauvre|NOUN	A1	B2	FR_43	Elle donne souvent de l'argent aux pauvres dans la rue.
+pauvre|NOUN	A1	C1	FR_44	Les pauvres sont souvent les premières victimes des crises économiques.
+étranger|NOUN	A1	A1	FR_45	C'est un étranger.
+étranger|NOUN	A1	A2	FR_46	Je ne connais pas cet étranger.
+étranger|NOUN	A1	B1	FR_47	J'ai rencontré un étranger dans le parc.
+étranger|NOUN	A1	B2	FR_48	Il a aidé un étranger à trouver son chemin.
+étranger|NOUN	A1	C1	FR_49	L'étranger, par sa perspective nouvelle, peut souvent apporter un éclairage intéressant sur nos coutumes.
+température|NOUN	A1	A1	FR_50	La température est bonne.
+température|NOUN	A1	A2	FR_51	La température est de vingt degrés.
+température|NOUN	A1	B1	FR_52	La température va baisser demain.
+température|NOUN	A1	B2	FR_53	La température a beaucoup baissé cette nuit.
+température|NOUN	A1	C1	FR_54	La fluctuation des températures ces derniers jours a rendu l'adaptation difficile.
+faute|NOUN	A1	A1	FR_55	C'est une faute.
+faute|NOUN	A1	A2	FR_56	J'ai fait une faute dans mon devoir.
+faute|NOUN	A1	B1	FR_57	J'ai fait une faute en écrivant mon message.
+faute|NOUN	A1	B2	FR_58	L'arbitre a sifflé une faute contre l'équipe visiteuse.
+faute|NOUN	A1	C1	FR_59	Faute de financement adéquat, le projet a dû être abandonné.
+chant|NOUN	A1	A1	FR_60	J'aime le chant.
+chant|NOUN	A1	A2	FR_61	J'aime le chant de cette chorale.
+chant|NOUN	A1	B1	FR_62	Le chant de l'oiseau est très mélodieux.
+chant|NOUN	A1	B2	FR_63	Nous avons appris un nouveau chant à la chorale.
+chant|NOUN	A1	C1	FR_64	Le chant des baleines est un phénomène sonore complexe et fascinant.
+gaz|NOUN	A1	A1	FR_65	J'ai une cuisinière à gaz.
+gaz|NOUN	A1	A2	FR_66	J'allume le gaz pour faire chauffer l'eau.
+gaz|NOUN	A1	B1	FR_67	Le chauffage fonctionne au gaz.
+gaz|NOUN	A1	B2	FR_68	Nous avons senti une forte odeur de gaz dans la cuisine.
+gaz|NOUN	A1	C1	FR_69	L'augmentation des émissions de gaz carbonique contribue au réchauffement climatique.
+charme|NOUN	A1	A1	FR_70	J'aime le charme de cette ville.
+charme|NOUN	A1	A2	FR_71	Ce café a beaucoup de charme.
+charme|NOUN	A1	B1	FR_72	J'aime le charme de cette vieille ville.
+charme|NOUN	A1	B2	FR_73	Le charme de ce vieux quartier attire beaucoup de touristes.
+charme|NOUN	A1	C1	FR_74	Le charme de cette petite ville réside dans son architecture authentique.
+tâche|NOUN	A1	A1	FR_75	Il y a une tâche rouge sur la table.
+tâche|NOUN	A1	A2	FR_76	J'ai une tâche à faire aujourd'hui.
+tâche|NOUN	A1	B1	FR_77	J'ai une tâche importante à finir avant midi.
+tâche|NOUN	A1	B2	FR_78	Ma tâche principale pour la semaine est de finir ce rapport.
+tâche|NOUN	A1	C1	FR_79	La gestion de projet est une tâche complexe qui demande de la rigueur.
+français|NOUN	A1	A1	FR_80	Je parle français.
+français|NOUN	A1	A2	FR_81	Je parle français.
+français|NOUN	A1	B1	FR_82	J'étudie le français depuis trois ans.
+français|NOUN	A1	B2	FR_83	Le français est une langue très belle à écouter.
+français|NOUN	A1	C1	FR_84	L'apprentissage du français requiert de la persévérance et une immersion culturelle.
+indice|NOUN	A1	A1	FR_85	N/A
+indice|NOUN	A1	A2	FR_86	Il y a un indice sur la table.
+indice|NOUN	A1	B1	FR_87	La police a trouvé un indice important sur la scène du crime.
+indice|NOUN	A1	B2	FR_88	La police a trouvé un indice important sur la scène du crime.
+indice|NOUN	A1	C1	FR_89	L'indice de confiance des consommateurs a chuté ce mois-ci.
+dessert|NOUN	A1	A1	FR_90	J'aime le dessert.
+dessert|NOUN	A1	A2	FR_91	J'adore le dessert au chocolat.
+dessert|NOUN	A1	B1	FR_92	Après le repas, nous avons mangé un délicieux dessert.
+dessert|NOUN	A1	B2	FR_93	Nous avons choisi une tarte aux pommes comme dessert.
+dessert|NOUN	A1	C1	FR_94	Après un copieux repas, un dessert léger est toujours le bienvenu pour clore la soirée.
+général|NOUN	A1	A1	FR_95	N/A
+général|NOUN	A1	A2	FR_96	Le général porte un uniforme.
+général|NOUN	A1	B1	FR_97	Le général a donné des ordres.
+général|NOUN	A1	B2	FR_98	Le général a pris la parole devant les troupes.
+général|NOUN	A1	C1	FR_99	Le général a inspecté les troupes avant la parade.
+entendre|VERB	A1	A1	FR_100	J'entends la musique.
+entendre|VERB	A1	A2	FR_101	J'entends la musique dans la rue.
+entendre|VERB	A1	B1	FR_102	J'entends souvent des oiseaux chanter le matin.
+entendre|VERB	A1	B2	FR_103	Il est important d'entendre tous les points de vue avant de juger.
+entendre|VERB	A1	C1	FR_104	Le gouvernement n'entend pas céder aux pressions des syndicats.
+vouloir|VERB	A1	A1	FR_105	Je veux un café.
+vouloir|VERB	A1	A2	FR_106	Je veux un café, s'il vous plaît.
+vouloir|VERB	A1	B1	FR_107	Ils voulaient que je vienne avec eux.
+vouloir|VERB	A1	B2	FR_108	Ils voulaient que je les aide à déménager.
+vouloir|VERB	A1	C1	FR_109	Si seulement il avait voulu écouter nos conseils, il n'en serait pas là aujourd'hui.
+sembler|VERB	A1	A1	FR_110	Ça semble bon.
+sembler|VERB	A1	A2	FR_111	Ça semble bon.
+sembler|VERB	A1	B1	FR_112	Elle semble fatiguée après sa longue journée.
+sembler|VERB	A1	B2	FR_113	Il semble que la réunion soit reportée à demain.
+sembler|VERB	A1	C1	FR_114	Il semble que cette décision ait eu un impact positif sur la situation.
+jouer|VERB	A1	A1	FR_115	Je joue au football.
+jouer|VERB	A1	A2	FR_116	Il joue au football.
+jouer|VERB	A1	B1	FR_117	Les enfants jouent dans le parc après l'école.
+jouer|VERB	A1	B2	FR_118	Les acteurs vont jouer une pièce de théâtre ce soir.
+jouer|VERB	A1	C1	FR_119	Les acteurs joueront la pièce devant une salle comble.
+boire|VERB	A1	A1	FR_120	Je bois de l'eau.
+boire|VERB	A1	A2	FR_121	Il aime boire du café le matin.
+boire|VERB	A1	B1	FR_122	Je veux boire un verre d'eau.
+boire|VERB	A1	B2	FR_123	Il est recommandé de boire beaucoup d'eau pendant l'été.
+boire|VERB	A1	C1	FR_124	Le projet a bu la tasse après le départ inattendu du chef d'équipe.
+dormir|VERB	A1	A1	FR_125	J'aime dormir.
+dormir|VERB	A1	A2	FR_126	Je dors bien la nuit.
+dormir|VERB	A1	B1	FR_127	Les enfants doivent dormir au moins huit heures par jour.
+dormir|VERB	A1	B2	FR_128	Après une longue journée, j'avais juste envie de dormir.
+dormir|VERB	A1	C1	FR_129	Il est impératif que tu aies dormi suffisamment avant d'entamer une tâche aussi exigeante.
+réussir|VERB	A1	A1	FR_130	Je veux réussir mon examen.
+réussir|VERB	A1	A2	FR_131	J'espère réussir mon examen.
+réussir|VERB	A1	B1	FR_132	Elle a réussi à trouver un bon travail.
+réussir|VERB	A1	B2	FR_133	Il faut travailler dur pour réussir.
+réussir|VERB	A1	C1	FR_134	Pour réussir dans la vie, il est souvent nécessaire de savoir s'adapter aux changements.
+obtenir|VERB	A1	A1	FR_135	Tu obtiens un cadeau.
+obtenir|VERB	A1	A2	FR_136	Elle a obtenu un bon résultat à l'examen.
+obtenir|VERB	A1	B1	FR_137	J'ai obtenu mon diplôme l'année dernière.
+obtenir|VERB	A1	B2	FR_138	Il a réussi à obtenir le poste qu'il voulait.
+obtenir|VERB	A1	C1	FR_139	Il a réussi à obtenir le poste de ses rêves après des années de travail acharné.
+diriger|VERB	A1	A1	FR_140	N/A
+diriger|VERB	A1	A2	FR_141	Il dirige la réunion.
+diriger|VERB	A1	B1	FR_142	Mon père dirige une petite entreprise.
+diriger|VERB	A1	B2	FR_143	Le chef d'orchestre va diriger le concert ce soir.
+diriger|VERB	A1	C1	FR_144	La direction a décidé de diriger les efforts de l'entreprise vers l'innovation technologique.
+embrasser|VERB	A1	A1	FR_145	Je veux embrasser ma mère.
+embrasser|VERB	A1	A2	FR_146	Il embrasse sa petite amie.
+embrasser|VERB	A1	B1	FR_147	Il a embrassé sa grand-mère avant de partir.
+embrasser|VERB	A1	B2	FR_148	Elle a embrassé son ami pour le saluer avant de partir.
+embrasser|VERB	A1	C1	FR_149	Le député a embrassé une carrière politique prometteuse.
+réduire|VERB	A1	A1	FR_150	N/A
+réduire|VERB	A1	A2	FR_151	Je veux réduire mes dépenses ce mois-ci.
+réduire|VERB	A1	B1	FR_152	Il faut réduire la quantité de sucre dans votre café.
+réduire|VERB	A1	B2	FR_153	Nous devons réduire notre consommation d'eau.
+réduire|VERB	A1	C1	FR_154	Pour protéger l'environnement, nous devons réduire notre consommation d'énergie.
+remercier|VERB	A1	A1	FR_155	Je remercie ma mère.
+remercier|VERB	A1	A2	FR_156	Je te remercie beaucoup.
+remercier|VERB	A1	B1	FR_157	Je dois te remercier pour cette information.
+remercier|VERB	A1	B2	FR_158	Nous devons le remercier pour son aide précieuse.
+remercier|VERB	A1	C1	FR_159	Je tiens à vous remercier sincèrement pour votre soutien indéfectible.
+accueillir|VERB	A1	A1	FR_160	Nous vous accueillons.
+accueillir|VERB	A1	A2	FR_161	Nous accueillons nos amis ce soir.
+accueillir|VERB	A1	B1	FR_162	Nous allons accueillir nos nouveaux voisins la semaine prochaine.
+accueillir|VERB	A1	B2	FR_163	Ils ont décidé d'accueillir les nouveaux étudiants.
+accueillir|VERB	A1	C1	FR_164	Son discours a été accueilli avec enthousiasme par le public.
+inventer|VERB	A1	A1	FR_165	J'invente une histoire.
+inventer|VERB	A1	A2	FR_166	J'ai inventé une histoire drôle.
+inventer|VERB	A1	B1	FR_167	Il a inventé une machine pour le café.
+inventer|VERB	A1	B2	FR_168	Les scientifiques ont inventé une nouvelle méthode pour produire de l'énergie.
+inventer|VERB	A1	C1	FR_169	L'artiste a réussi à inventer un style unique qui le distingue de ses contemporains.
+blesser|VERB	A1	A1	FR_170	Je ne veux pas te blesser.
+blesser|VERB	A1	A2	FR_171	Le couteau peut te blesser.
+blesser|VERB	A1	B1	FR_172	Le joueur s'est blessé pendant le match.
+blesser|VERB	A1	B2	FR_173	Il s'est blessé en tombant de son vélo.
+blesser|VERB	A1	C1	FR_174	La nouvelle de son départ a profondément blessé ses collègues.
+rouler|VERB	A1	A1	FR_175	La voiture roule dans la rue.
+rouler|VERB	A1	A2	FR_176	La voiture roule vite.
+rouler|VERB	A1	B1	FR_177	La voiture roule sur la route.
+rouler|VERB	A1	B2	FR_178	Nous allons rouler jusqu'à la côte demain.
+rouler|VERB	A1	C1	FR_179	Malgré la crise, les affaires de l'entreprise continuent de rouler correctement.
+amener|VERB	A1	A1	FR_180	J'amène ma sœur à l'école.
+amener|VERB	A1	A2	FR_181	Il amène son chien au parc.
+amener|VERB	A1	B1	FR_182	Je dois amener mon frère à la gare.
+amener|VERB	A1	B2	FR_183	Cette discussion nous a amenés à une meilleure compréhension du problème.
+amener|VERB	A1	C1	FR_184	Le gouvernement espère amener des changements positifs dans la société.
+admirer|VERB	A1	A1	FR_185	J'admire les étoiles.
+admirer|VERB	A1	A2	FR_186	J'admire son travail.
+admirer|VERB	A1	B1	FR_187	J'admire son courage.
+admirer|VERB	A1	B2	FR_188	J'admire sa persévérance face aux défis.
+admirer|VERB	A1	C1	FR_189	Les critiques ont unanimement admiré la performance subtile de l'actrice principale.
+rassurer|VERB	A1	A1	FR_190	N/A
+rassurer|VERB	A1	A2	FR_191	Mes parents me rassurent quand j'ai peur.
+rassurer|VERB	A1	B1	FR_192	Ses mots m'ont rassuré.
+rassurer|VERB	A1	B2	FR_193	J'ai besoin de te rassurer, tout ira bien.
+rassurer|VERB	A1	C1	FR_194	Son sourire a suffi à me rassurer après la mauvaise nouvelle.
+analyser|VERB	A1	A1	FR_195	N/A
+analyser|VERB	A1	A2	FR_196	Il faut analyser la situation.
+analyser|VERB	A1	B1	FR_197	Nous devons analyser les résultats de l'enquête.
+analyser|VERB	A1	B2	FR_198	Elle a analysé la situation avant de prendre une décision.
+analyser|VERB	A1	C1	FR_199	Il faut analyser les résultats attentivement.
+couverture|NOUN	A2	A1	FR_200	Je mets la couverture sur le lit.
+couverture|NOUN	A2	A2	FR_201	Il fait froid, prends une couverture.
+couverture|NOUN	A2	B1	FR_202	J'ai mis une couverture chaude sur le canapé.
+couverture|NOUN	A2	B2	FR_203	Nous avons besoin d'une meilleure couverture réseau dans cette zone.
+couverture|NOUN	A2	C1	FR_204	Les nouvelles mesures visent à étendre la couverture sociale à tous les citoyens.
+réseau|NOUN	A2	A1	FR_205	N/A
+réseau|NOUN	A2	A2	FR_206	Il n'y a pas de réseau ici.
+réseau|NOUN	A2	B1	FR_207	Le réseau de bus est très bon dans cette ville.
+réseau|NOUN	A2	B2	FR_208	Mon téléphone n'a pas de réseau ici.
+réseau|NOUN	A2	C1	FR_209	Elle a bâti un solide réseau professionnel qui lui a ouvert de nombreuses portes.
+égard|NOUN	A2	A1	FR_210	N/A
+égard|NOUN	A2	A2	FR_211	N/A
+égard|NOUN	A2	B1	FR_212	Son comportement à l'égard des animaux est toujours très gentil.
+égard|NOUN	A2	B2	FR_213	Nous devons avoir plus d'égard pour l'environnement.
+égard|NOUN	A2	C1	FR_214	Il a toujours fait preuve d'un grand égard envers ses collègues.
+souris|NOUN	A2	A1	FR_215	La souris est petite.
+souris|NOUN	A2	A2	FR_216	La souris mange du fromage.
+souris|NOUN	A2	B1	FR_217	La souris est à côté du clavier.
+souris|NOUN	A2	B2	FR_218	La souris a réussi à se cacher du chat.
+souris|NOUN	A2	C1	FR_219	L'ergonomie de cette nouvelle souris permet une utilisation prolongée sans fatigue.
+silhouette|NOUN	A2	A1	FR_220	N/A
+silhouette|NOUN	A2	A2	FR_221	J'ai vu une silhouette dans le couloir.
+silhouette|NOUN	A2	B1	FR_222	J'ai vu une silhouette dans le jardin.
+silhouette|NOUN	A2	B2	FR_223	J'ai aperçu une silhouette sombre au loin.
+silhouette|NOUN	A2	C1	FR_224	On pouvait distinguer sa silhouette dans le brouillard matinal.
+mensonge|NOUN	A2	A1	FR_225	C'est un mensonge.
+mensonge|NOUN	A2	A2	FR_226	C'est un mensonge.
+mensonge|NOUN	A2	B1	FR_227	Je n'aime pas les mensonges.
+mensonge|NOUN	A2	B2	FR_228	Il est difficile de pardonner un mensonge, surtout quand il vient d'un ami.
+mensonge|NOUN	A2	C1	FR_229	Son habitude de déguiser la vérité sous des petits mensonges a fini par ruiner sa réputation.
+plaque|NOUN	A2	A1	FR_230	Je mange une plaque de chocolat.
+plaque|NOUN	A2	A2	FR_231	J'ai acheté une plaque de chocolat.
+plaque|NOUN	A2	B1	FR_232	J'ai nettoyé la plaque de cuisson après le dîner.
+plaque|NOUN	A2	B2	FR_233	La plaque de rue indique le nom de la voie.
+plaque|NOUN	A2	C1	FR_234	La plaque commémorative a été apposée hier en l'honneur des victimes de la catastrophe.
+instance|NOUN	A2	A1	FR_235	N/A
+instance|NOUN	A2	A2	FR_236	N/A
+instance|NOUN	A2	B1	FR_237	Cette instance est responsable de la gestion des fonds.
+instance|NOUN	A2	B2	FR_238	Le dossier a été transmis à une instance supérieure pour décision.
+instance|NOUN	A2	C1	FR_239	Il a porté l'affaire devant une instance supérieure.
+harmonie|NOUN	A2	A1	FR_240	N/A
+harmonie|NOUN	A2	A2	FR_241	Les musiciens jouent en parfaite harmonie.
+harmonie|NOUN	A2	B1	FR_242	J'aime l'harmonie des couleurs dans ce tableau.
+harmonie|NOUN	A2	B2	FR_243	Il est important de trouver une harmonie entre le travail et la vie personnelle.
+harmonie|NOUN	A2	C1	FR_244	Le chef d'orchestre a réussi à créer une parfaite harmonie entre les musiciens.
+pilote|NOUN	A2	A1	FR_245	Le pilote est dans l'avion.
+pilote|NOUN	A2	A2	FR_246	Le pilote vole un avion.
+pilote|NOUN	A2	B1	FR_247	Mon frère veut devenir pilote.
+pilote|NOUN	A2	B2	FR_248	Le pilote a fait un atterrissage en douceur malgré le vent fort.
+pilote|NOUN	A2	C1	FR_249	Le pilote expérimenté a partagé ses stratégies pour gérer le stress en vol.
+mouche|NOUN	A2	A1	FR_250	Je vois une mouche.
+mouche|NOUN	A2	A2	FR_251	Une mouche vole près de la fenêtre.
+mouche|NOUN	A2	B1	FR_252	Il y a une mouche dans ma soupe.
+mouche|NOUN	A2	B2	FR_253	Une mouche volait autour de la lampe.
+mouche|NOUN	A2	C1	FR_254	Son argument a fait mouche auprès de l'assemblée.
+lame|NOUN	A2	A1	FR_255	La lame du couteau est propre.
+lame|NOUN	A2	A2	FR_256	La lame du couteau est très coupante.
+lame|NOUN	A2	B1	FR_257	La lame du couteau est très coupante.
+lame|NOUN	A2	B2	FR_258	La lame du couteau est très aiguisée.
+lame|NOUN	A2	C1	FR_259	Une lame de fond inattendue a secoué violemment le bateau.
+accessoire|NOUN	A2	A1	FR_260	C'est un joli accessoire.
+accessoire|NOUN	A2	A2	FR_261	J'ai acheté un accessoire pour mon téléphone.
+accessoire|NOUN	A2	B1	FR_262	Le sac est un accessoire important pour son style.
+accessoire|NOUN	A2	B2	FR_263	Elle a oublié un accessoire essentiel pour sa robe de soirée.
+accessoire|NOUN	A2	C1	FR_264	Cet accessoire est indispensable pour le bon fonctionnement de l'appareil photo.
+cliché|NOUN	A2	A1	FR_265	N/A
+cliché|NOUN	A2	A2	FR_266	N/A
+cliché|NOUN	A2	B1	FR_267	Ce film est plein de clichés.
+cliché|NOUN	A2	B2	FR_268	Ce film est plein de clichés.
+cliché|NOUN	A2	C1	FR_269	Son dernier roman tente de briser les clichés sur la vie en banlieue.
+lustre|NOUN	A2	A1	FR_270	Le lustre est beau.
+lustre|NOUN	A2	A2	FR_271	Le lustre dans le salon est très grand.
+lustre|NOUN	A2	B1	FR_272	Le lustre du salon donne une belle lumière.
+lustre|NOUN	A2	B2	FR_273	Le grand lustre au plafond illuminait toute la pièce.
+lustre|NOUN	A2	C1	FR_274	Le nouveau projet a apporté un nouveau lustre à la carrière de l'artiste.
+indemnité|NOUN	A2	A1	FR_275	N/A
+indemnité|NOUN	A2	A2	FR_276	N/A
+indemnité|NOUN	A2	B1	FR_277	Il a reçu une indemnité après la fin de son contrat.
+indemnité|NOUN	A2	B2	FR_278	Les victimes ont reçu une indemnité suite à l'incident.
+indemnité|NOUN	A2	C1	FR_279	Le salarié a reçu une indemnité pour compenser la perte de son emploi.
+rêverie|NOUN	A2	A1	FR_280	N/A
+rêverie|NOUN	A2	A2	FR_281	N/A
+rêverie|NOUN	A2	B1	FR_282	Pendant sa pause, elle a apprécié un moment de rêverie.
+rêverie|NOUN	A2	B2	FR_283	Pendant la réunion, elle était perdue dans une rêverie.
+rêverie|NOUN	A2	C1	FR_284	Elle s'est plongée dans une douce rêverie, oubliant le monde autour d'elle.
+ruisseau|NOUN	A2	A1	FR_285	N/A
+ruisseau|NOUN	A2	A2	FR_286	Le ruisseau coule lentement dans le jardin.
+ruisseau|NOUN	A2	B1	FR_287	Un petit ruisseau coule derrière la maison.
+ruisseau|NOUN	A2	B2	FR_288	Le petit ruisseau coule doucement entre les arbres.
+ruisseau|NOUN	A2	C1	FR_289	Le ruisseau cristallin s'écoulait joyeusement à travers la prairie verdoyante.
+collaboration|NOUN	A2	A1	FR_290	N/A
+collaboration|NOUN	A2	A2	FR_291	N/A
+collaboration|NOUN	A2	B1	FR_292	Ce projet a été un succès grâce à notre bonne collaboration.
+collaboration|NOUN	A2	B2	FR_293	La collaboration entre les équipes a été essentielle pour le succès du projet.
+collaboration|NOUN	A2	C1	FR_294	Le succès du projet repose sur une étroite collaboration entre tous les départements.
+descendant|NOUN	A2	A1	FR_295	N/A
+descendant|NOUN	A2	A2	FR_296	N/A
+descendant|NOUN	A2	B1	FR_297	Les descendants de cette famille vivent toujours ici.
+descendant|NOUN	A2	B2	FR_298	Elle est une descendante de la famille royale.
+descendant|NOUN	A2	C1	FR_299	Les descendants de cette famille vivent toujours dans la région.
+contribuer|VERB	A2	A1	FR_300	N/A
+contribuer|VERB	A2	A2	FR_301	Il contribue au projet.
+contribuer|VERB	A2	B1	FR_302	Tout le monde peut contribuer à la réussite du projet.
+contribuer|VERB	A2	B2	FR_303	Chacun peut contribuer au succès de notre équipe.
+contribuer|VERB	A2	C1	FR_304	Chacun doit contribuer à la réussite de ce projet.
+élever|VERB	A2	A1	FR_305	Il élève sa main.
+élever|VERB	A2	A2	FR_306	Élevez la main pour poser une question.
+élever|VERB	A2	B1	FR_307	Ils élèvent leurs enfants avec beaucoup d'amour.
+élever|VERB	A2	B2	FR_308	Il a élevé la voix pour être entendu.
+élever|VERB	A2	C1	FR_309	Ils ont décidé d'élever leurs enfants à la campagne.
+réclamer|VERB	A2	A1	FR_310	Les enfants réclament un dessert.
+réclamer|VERB	A2	A2	FR_311	Les enfants réclament des bonbons.
+réclamer|VERB	A2	B1	FR_312	Le client a réclamé une table près de la fenêtre.
+réclamer|VERB	A2	B2	FR_313	Les citoyens ont réclamé plus de transparence du gouvernement.
+réclamer|VERB	A2	C1	FR_314	Les citoyens ont réclamé plus de transparence de la part du gouvernement.
+admettre|VERB	A2	A1	FR_315	N/A
+admettre|VERB	A2	A2	FR_316	J'admets mon erreur.
+admettre|VERB	A2	B1	FR_317	J'admets que c'est difficile.
+admettre|VERB	A2	B2	FR_318	J'admets que c'est une situation compliquée.
+admettre|VERB	A2	C1	FR_319	Il a dû admettre qu'il s'était trompé.
+dominer|VERB	A2	A1	FR_320	La montagne domine la ville.
+dominer|VERB	A2	A2	FR_321	La montagne domine la vallée.
+dominer|VERB	A2	B1	FR_322	La montagne domine la petite ville.
+dominer|VERB	A2	B2	FR_323	Le château domine la ville depuis la colline.
+dominer|VERB	A2	C1	FR_324	Le désir de réussir domine toutes ses actions.
+satisfaire|VERB	A2	A1	FR_325	N/A
+satisfaire|VERB	A2	A2	FR_326	Son sourire me satisfait.
+satisfaire|VERB	A2	B1	FR_327	Il est difficile de satisfaire tout le monde.
+satisfaire|VERB	A2	B2	FR_328	Le nouveau système devrait satisfaire les besoins de tous les utilisateurs.
+satisfaire|VERB	A2	C1	FR_329	Il est difficile de satisfaire toutes les attentes d'un public aussi varié.
+accéder|VERB	A2	A1	FR_330	N/A
+accéder|VERB	A2	A2	FR_331	Je ne peux pas accéder à mon compte.
+accéder|VERB	A2	B1	FR_332	Vous pouvez accéder à internet avec ce code.
+accéder|VERB	A2	B2	FR_333	Vous pouvez accéder à votre compte client en ligne.
+accéder|VERB	A2	C1	FR_334	Le public peut accéder aux archives numérisées en ligne.
+progresser|VERB	A2	A1	FR_335	Je progresse en français.
+progresser|VERB	A2	A2	FR_336	Je veux progresser en français.
+progresser|VERB	A2	B1	FR_337	Les étudiants peuvent progresser rapidement avec de la pratique.
+progresser|VERB	A2	B2	FR_338	Elle espère progresser rapidement dans son nouveau rôle.
+progresser|VERB	A2	C1	FR_339	Malgré les obstacles, l'équipe a su progresser et atteindre ses objectifs.
+signaler|VERB	A2	A1	FR_340	Il faut signaler le problème.
+signaler|VERB	A2	A2	FR_341	Je veux signaler un problème.
+signaler|VERB	A2	B1	FR_342	Il faut signaler ce problème à la réception.
+signaler|VERB	A2	B2	FR_343	Vous devriez signaler ce problème à la direction.
+signaler|VERB	A2	C1	FR_344	Les citoyens sont encouragés à signaler tout comportement suspect.
+renverser|VERB	A2	A1	FR_345	Je renverse mon verre.
+renverser|VERB	A2	A2	FR_346	Il a renversé son café sur la table.
+renverser|VERB	A2	B1	FR_347	J'ai renversé mon verre d'eau par terre.
+renverser|VERB	A2	B2	FR_348	Il a accidentellement renversé son café sur la table.
+renverser|VERB	A2	C1	FR_349	Il a renversé son verre d'eau par mégarde.
+ravir|VERB	A2	A1	FR_350	N/A
+ravir|VERB	A2	A2	FR_351	N/A
+ravir|VERB	A2	B1	FR_352	Le spectacle a ravi les enfants.
+ravir|VERB	A2	B2	FR_353	Cette nouvelle va ravir ses parents.
+ravir|VERB	A2	C1	FR_354	La nouvelle de son retour a ravi tout le monde.
+parer|VERB	A2	A1	FR_355	N/A
+parer|VERB	A2	A2	FR_356	N/A
+parer|VERB	A2	B1	FR_357	Il faut parer à toute éventualité.
+parer|VERB	A2	B2	FR_358	Elle aime se parer de bijoux élégants.
+parer|VERB	A2	C1	FR_359	Il faut parer à cette difficulté avant qu'elle ne devienne un problème majeur.
+gâcher|VERB	A2	A1	FR_360	N/A
+gâcher|VERB	A2	A2	FR_361	Ne gâche pas la nourriture.
+gâcher|VERB	A2	B1	FR_362	Il ne faut pas gâcher la nourriture.
+gâcher|VERB	A2	B2	FR_363	Sa mauvaise humeur a gâché l'ambiance de la soirée.
+gâcher|VERB	A2	C1	FR_364	Sa mauvaise humeur a complètement gâché l'ambiance de la soirée.
+négocier|VERB	A2	A1	FR_365	N/A
+négocier|VERB	A2	A2	FR_366	N/A
+négocier|VERB	A2	B1	FR_367	Ils vont négocier le prix de la voiture.
+négocier|VERB	A2	B2	FR_368	Ils ont réussi à négocier un meilleur contrat avec l'entreprise.
+négocier|VERB	A2	C1	FR_369	Ils doivent négocier les termes du contrat avant de signer.
+soulager|VERB	A2	A1	FR_370	N/A
+soulager|VERB	A2	A2	FR_371	Ce médicament peut soulager la douleur.
+soulager|VERB	A2	B1	FR_372	Ce médicament peut soulager la douleur.
+soulager|VERB	A2	B2	FR_373	Parler de tes problèmes peut te soulager.
+soulager|VERB	A2	C1	FR_374	Le soutien de ses amis l'a grandement aidée à soulager son chagrin.
+convoiter|VERB	A2	A1	FR_375	N/A
+convoiter|VERB	A2	A2	FR_376	N/A
+convoiter|VERB	A2	B1	FR_377	Il convoite la maison avec le grand jardin.
+convoiter|VERB	A2	B2	FR_378	Elle convoite sa nouvelle voiture.
+convoiter|VERB	A2	C1	FR_379	Il convoite ce poste depuis des années.
+côtoyer|VERB	A2	A1	FR_380	N/A
+côtoyer|VERB	A2	A2	FR_381	N/A
+côtoyer|VERB	A2	B1	FR_382	Nous aimons côtoyer la mer quand nous sommes en vacances.
+côtoyer|VERB	A2	B2	FR_383	Grâce à son travail, il côtoie des artistes internationaux.
+côtoyer|VERB	A2	C1	FR_384	En tant que diplomate, il a eu l'occasion de côtoyer des personnalités politiques du monde entier.
+clore|VERB	A2	A1	FR_385	N/A
+clore|VERB	A2	A2	FR_386	N/A
+clore|VERB	A2	B1	FR_387	N/A
+clore|VERB	A2	B2	FR_388	Nous allons clore la discussion ici pour aujourd'hui.
+clore|VERB	A2	C1	FR_389	Nous devrons clore cette enquête bientôt.
+réconcilier|VERB	A2	A1	FR_390	N/A
+réconcilier|VERB	A2	A2	FR_391	Mes amis se sont réconciliés après la dispute.
+réconcilier|VERB	A2	B1	FR_392	Ils ont décidé de se réconcilier après leur dispute.
+réconcilier|VERB	A2	B2	FR_393	Ils se sont réconciliés après une longue discussion.
+réconcilier|VERB	A2	C1	FR_394	Il a fallu du temps pour réconcilier leurs opinions divergentes.
+dispenser|VERB	A2	A1	FR_395	N/A
+dispenser|VERB	A2	A2	FR_396	N/A
+dispenser|VERB	A2	B1	FR_397	Le collège dispense des cours de sport.
+dispenser|VERB	A2	B2	FR_398	Le musée dispense des ateliers pour les enfants.
+dispenser|VERB	A2	C1	FR_399	L'université dispense des formations de haute qualité.
+demeure|NOUN	B1	A1	FR_400	N/A
+demeure|NOUN	B1	A2	FR_401	N/A
+demeure|NOUN	B1	B1	FR_402	Cette demeure est très ancienne.
+demeure|NOUN	B1	B2	FR_403	Cette ancienne demeure est pleine d'histoire.
+demeure|NOUN	B1	C1	FR_404	La demeure historique a été transformée en musée.
+tranquillité|NOUN	B1	A1	FR_405	N/A
+tranquillité|NOUN	B1	A2	FR_406	J'aime la tranquillité du soir.
+tranquillité|NOUN	B1	B1	FR_407	J'aime la tranquillité de la campagne.
+tranquillité|NOUN	B1	B2	FR_408	J'apprécie la tranquillité de mon jardin le matin.
+tranquillité|NOUN	B1	C1	FR_409	La tranquillité d'esprit est essentielle pour faire face aux défis quotidiens.
+aménagement|NOUN	B1	A1	FR_410	N/A
+aménagement|NOUN	B1	A2	FR_411	L'aménagement de cette pièce est très pratique.
+aménagement|NOUN	B1	B1	FR_412	L'aménagement de son petit appartement est très moderne.
+aménagement|NOUN	B1	B2	FR_413	L'aménagement du nouvel espace de travail a été bien pensé.
+aménagement|NOUN	B1	C1	FR_414	L'aménagement du parc a été conçu pour être plus accessible.
+pente|NOUN	B1	A1	FR_415	Il y a une pente ici.
+pente|NOUN	B1	A2	FR_416	La rue a une légère pente.
+pente|NOUN	B1	B1	FR_417	La route a une forte pente.
+pente|NOUN	B1	B2	FR_418	La voiture a eu du mal à monter la pente.
+pente|NOUN	B1	C1	FR_419	La discussion a pris une pente dangereuse, s'éloignant du sujet initial.
+bienfait|NOUN	B1	A1	FR_420	N/A
+bienfait|NOUN	B1	A2	FR_421	Le sport a beaucoup de bienfaits pour la santé.
+bienfait|NOUN	B1	B1	FR_422	Le sport a de nombreux bienfaits pour le corps.
+bienfait|NOUN	B1	B2	FR_423	Les bienfaits du soleil sur la peau sont connus.
+bienfait|NOUN	B1	C1	FR_424	Les bienfaits d'une activité physique régulière sur le bien-être général sont prouvés scientifiquement.
+vieillesse|NOUN	B1	A1	FR_425	N/A
+vieillesse|NOUN	B1	A2	FR_426	La vieillesse peut apporter la sagesse.
+vieillesse|NOUN	B1	B1	FR_427	La vieillesse peut apporter de la sagesse.
+vieillesse|NOUN	B1	B2	FR_428	La vieillesse peut apporter de nouvelles perspectives sur la vie.
+vieillesse|NOUN	B1	C1	FR_429	La vieillesse apporte souvent sagesse et sérénité.
+notoriété|NOUN	B1	A1	FR_430	N/A
+notoriété|NOUN	B1	A2	FR_431	N/A
+notoriété|NOUN	B1	B1	FR_432	L'entreprise a gagné en notoriété grâce à ses produits de qualité.
+notoriété|NOUN	B1	B2	FR_433	Son travail lui a apporté une certaine notoriété.
+notoriété|NOUN	B1	C1	FR_434	Son livre a contribué à sa notoriété internationale.
+biologie|NOUN	B1	A1	FR_435	J'aime la biologie.
+biologie|NOUN	B1	A2	FR_436	J'aime étudier la biologie à l'école.
+biologie|NOUN	B1	B1	FR_437	J'aime étudier la biologie à l'école.
+biologie|NOUN	B1	B2	FR_438	Elle a choisi la biologie comme matière principale à l'université.
+biologie|NOUN	B1	C1	FR_439	Les progrès en biologie ont transformé notre compréhension du vivant.
+fissure|NOUN	B1	A1	FR_440	N/A
+fissure|NOUN	B1	A2	FR_441	N/A
+fissure|NOUN	B1	B1	FR_442	Il y a une petite fissure dans le mur de la cuisine.
+fissure|NOUN	B1	B2	FR_443	Nous devons réparer la fissure dans le mur avant qu'elle ne s'agrandisse.
+fissure|NOUN	B1	C1	FR_444	Ils ont découvert une fissure dans la fondation de l'ancien pont.
+subvention|NOUN	B1	A1	FR_445	N/A
+subvention|NOUN	B1	A2	FR_446	N/A
+subvention|NOUN	B1	B1	FR_447	Le gouvernement a accordé une subvention pour le projet.
+subvention|NOUN	B1	B2	FR_448	L'association a demandé une subvention pour financer son nouveau programme social.
+subvention|NOUN	B1	C1	FR_449	La subvention publique permet de financer des projets de recherche innovants.
+parade|NOUN	B1	A1	FR_450	Nous regardons la parade.
+parade|NOUN	B1	A2	FR_451	Il y a une grande parade en ville.
+parade|NOUN	B1	B1	FR_452	Nous avons vu une belle parade dans les rues de la ville.
+parade|NOUN	B1	B2	FR_453	La parade de Noël a attiré beaucoup de monde.
+parade|NOUN	B1	C1	FR_454	La grande parade militaire a traversé le centre-ville.
+apéro|NOUN	B1	A1	FR_455	On fait un apéro ce soir.
+apéro|NOUN	B1	A2	FR_456	J'adore l'apéro avec mes amis.
+apéro|NOUN	B1	B1	FR_457	Nous prendrons un apéro avant le dîner.
+apéro|NOUN	B1	B2	FR_458	Nous allons prendre l'apéro sur la terrasse.
+apéro|NOUN	B1	C1	FR_459	Pour décompresser après une longue semaine, rien de tel qu'un bon apéro entre amis.
+perfection|NOUN	B1	A1	FR_460	N/A
+perfection|NOUN	B1	A2	FR_461	La perfection n'existe pas.
+perfection|NOUN	B1	B1	FR_462	Il cherche la perfection dans son travail.
+perfection|NOUN	B1	B2	FR_463	Il recherche la perfection dans son travail.
+perfection|NOUN	B1	C1	FR_464	Il aspire à la perfection dans tout ce qu'il entreprend.
+alpiniste|NOUN	B1	A1	FR_465	N/A
+alpiniste|NOUN	B1	A2	FR_466	N/A
+alpiniste|NOUN	B1	B1	FR_467	L'alpiniste porte un sac à dos lourd.
+alpiniste|NOUN	B1	B2	FR_468	L'alpiniste a atteint le sommet de la montagne après des heures d'effort.
+alpiniste|NOUN	B1	C1	FR_469	L'alpiniste chevronné a partagé ses expériences lors de conférences.
+tracé|NOUN	B1	A1	FR_470	N/A
+tracé|NOUN	B1	A2	FR_471	Le tracé de la route est long.
+tracé|NOUN	B1	B1	FR_472	Le tracé de la route est visible sur la carte.
+tracé|NOUN	B1	B2	FR_473	Nous avons suivi le tracé sur la carte.
+tracé|NOUN	B1	C1	FR_474	Les architectes ont examiné le tracé initial du bâtiment avant de proposer des modifications.
+pâture|NOUN	B1	A1	FR_475	N/A
+pâture|NOUN	B1	A2	FR_476	Les moutons mangent dans la pâture.
+pâture|NOUN	B1	B1	FR_477	Les vaches mangent de l'herbe dans la pâture.
+pâture|NOUN	B1	B2	FR_478	Les éleveurs ont emmené leurs moutons vers une nouvelle pâture plus riche.
+pâture|NOUN	B1	C1	FR_479	Les discussions philosophiques servaient de riche pâture à son intellect.
+colporteur|NOUN	B1	A1	FR_480	N/A
+colporteur|NOUN	B1	A2	FR_481	N/A
+colporteur|NOUN	B1	B1	FR_482	N/A
+colporteur|NOUN	B1	B2	FR_483	Un vieux colporteur proposait ses marchandises sur la place du marché.
+colporteur|NOUN	B1	C1	FR_484	Le vieux colporteur parcourait les villages, vendant ses marchandises.
+écologiste|NOUN	B1	A1	FR_485	N/A
+écologiste|NOUN	B1	A2	FR_486	N/A
+écologiste|NOUN	B1	B1	FR_487	Mon ami est un écologiste qui se soucie beaucoup de l'environnement.
+écologiste|NOUN	B1	B2	FR_488	Ma sœur est écologiste et travaille pour une association.
+écologiste|NOUN	B1	C1	FR_489	Les écologistes proposent souvent des solutions innovantes pour protéger notre planète.
+dégoût|NOUN	B1	A1	FR_490	N/A
+dégoût|NOUN	B1	A2	FR_491	N/A
+dégoût|NOUN	B1	B1	FR_492	Elle a montré son dégoût pour le plat.
+dégoût|NOUN	B1	B2	FR_493	Il a ressenti un fort dégoût en voyant l'injustice.
+dégoût|NOUN	B1	C1	FR_494	Son dégoût pour la corruption était profond.
+militantisme|NOUN	B1	A1	FR_495	N/A
+militantisme|NOUN	B1	A2	FR_496	N/A
+militantisme|NOUN	B1	B1	FR_497	N/A
+militantisme|NOUN	B1	B2	FR_498	Son militantisme pour l'environnement est admirable.
+militantisme|NOUN	B1	C1	FR_499	Le militantisme associatif prend de nombreuses formes aujourd'hui.
+efforcer|VERB	B1	A1	FR_500	N/A
+efforcer|VERB	B1	A2	FR_501	N/A
+efforcer|VERB	B1	B1	FR_502	Je m'efforce de parler français chaque jour.
+efforcer|VERB	B1	B2	FR_503	Il s'efforce toujours de faire de son mieux au travail.
+efforcer|VERB	B1	C1	FR_504	Je m'efforce de comprendre cette théorie complexe.
+envisager|VERB	B1	A1	FR_505	N/A
+envisager|VERB	B1	A2	FR_506	N/A
+envisager|VERB	B1	B1	FR_507	J'envisage de changer de travail bientôt.
+envisager|VERB	B1	B2	FR_508	Nous envisageons de partir en vacances en juillet.
+envisager|VERB	B1	C1	FR_509	Nous devons envisager toutes les options avant de prendre une décision.
+nier|VERB	B1	A1	FR_510	N/A
+nier|VERB	B1	A2	FR_511	N/A
+nier|VERB	B1	B1	FR_512	Il nie l'évidence.
+nier|VERB	B1	B2	FR_513	Il nie toute responsabilité dans l'incident.
+nier|VERB	B1	C1	FR_514	Il est impossible de nier l'évidence de leur collaboration fructueuse.
+dédier|VERB	B1	A1	FR_515	N/A
+dédier|VERB	B1	A2	FR_516	Il a dédié cette chanson à son ami.
+dédier|VERB	B1	B1	FR_517	Il a dédié ce livre à sa mère.
+dédier|VERB	B1	B2	FR_518	Il va dédier sa nouvelle chanson à sa petite amie.
+dédier|VERB	B1	C1	FR_519	Il a choisi de dédier son temps à des causes humanitaires.
+échouer|VERB	B1	A1	FR_520	N/A
+échouer|VERB	B1	A2	FR_521	Il a échoué à l'examen.
+échouer|VERB	B1	B1	FR_522	Il a échoué à son examen de conduite.
+échouer|VERB	B1	B2	FR_523	Il ne veut pas échouer à son examen.
+échouer|VERB	B1	C1	FR_524	Malgré ses efforts, il a échoué à l'examen final.
+garnir|VERB	B1	A1	FR_525	N/A
+garnir|VERB	B1	A2	FR_526	Elle garnit la pizza de légumes.
+garnir|VERB	B1	B1	FR_527	Nous allons garnir la salade de tomates et de concombres.
+garnir|VERB	B1	B2	FR_528	Il a garni le plat de persil frais.
+garnir|VERB	B1	C1	FR_529	Elle a choisi de garnir le plat de légumes frais.
+épanouir|VERB	B1	A1	FR_530	N/A
+épanouir|VERB	B1	A2	FR_531	Les fleurs s'épanouissent au printemps.
+épanouir|VERB	B1	B1	FR_532	Elle s'épanouit pleinement dans son nouveau rôle.
+épanouir|VERB	B1	B2	FR_533	Elle s'épanouit vraiment depuis qu'elle a changé de carrière.
+épanouir|VERB	B1	C1	FR_534	Elle s'est pleinement épanouie dans son nouveau rôle professionnel.
+découler|VERB	B1	A1	FR_535	N/A
+découler|VERB	B1	A2	FR_536	N/A
+découler|VERB	B1	B1	FR_537	Beaucoup de problèmes découlent d'un manque de communication.
+découler|VERB	B1	B2	FR_538	Beaucoup de problèmes peuvent découler d'une mauvaise organisation.
+découler|VERB	B1	C1	FR_539	La décision finale va découler de nos discussions.
+évacuer|VERB	B1	A1	FR_540	N/A
+évacuer|VERB	B1	A2	FR_541	Nous devons évacuer le bâtiment.
+évacuer|VERB	B1	B1	FR_542	Les pompiers ont évacué le bâtiment rapidement.
+évacuer|VERB	B1	B2	FR_543	Les pompiers ont dû évacuer les habitants de l'immeuble.
+évacuer|VERB	B1	C1	FR_544	Il a fallu évacuer le quartier suite à l'alerte.
+attarder|VERB	B1	A1	FR_545	N/A
+attarder|VERB	B1	A2	FR_546	Ne t'attarde pas trop.
+attarder|VERB	B1	B1	FR_547	Elle s'est attardée au café pour finir son livre.
+attarder|VERB	B1	B2	FR_548	Il ne faut pas s'attarder si nous voulons arriver à l'heure.
+attarder|VERB	B1	C1	FR_549	Nous nous sommes attardés au musée plus longtemps que prévu.
+délibérer|VERB	B1	A1	FR_550	N/A
+délibérer|VERB	B1	A2	FR_551	N/A
+délibérer|VERB	B1	B1	FR_552	Les membres vont délibérer sur la nouvelle règle.
+délibérer|VERB	B1	B2	FR_553	Le conseil a délibéré sur la proposition pendant une heure.
+délibérer|VERB	B1	C1	FR_554	Les juges vont délibérer pour arriver à une décision unanime.
+carrer|VERB	B1	A1	FR_555	N/A
+carrer|VERB	B1	A2	FR_556	N/A
+carrer|VERB	B1	B1	FR_557	N/A
+carrer|VERB	B1	B2	FR_558	Elle s'est carrée dans le fauteuil pour mieux voir le film.
+carrer|VERB	B1	C1	FR_559	Il s'est carré dans le fauteuil et a feuilleté le journal.
+réintroduire|VERB	B1	A1	FR_560	N/A
+réintroduire|VERB	B1	A2	FR_561	N/A
+réintroduire|VERB	B1	B1	FR_562	Ils veulent réintroduire l'ours dans les montagnes.
+réintroduire|VERB	B1	B2	FR_563	Ils espèrent réintroduire l'espèce dans son habitat naturel.
+réintroduire|VERB	B1	C1	FR_564	Le parc national prévoit de réintroduire l'espèce dans son habitat naturel.
+recharger|VERB	B1	A1	FR_565	Je dois recharger mon téléphone.
+recharger|VERB	B1	A2	FR_566	Je dois recharger mon téléphone.
+recharger|VERB	B1	B1	FR_567	Je dois recharger mon téléphone.
+recharger|VERB	B1	B2	FR_568	Je dois recharger mon téléphone, la batterie est presque vide.
+recharger|VERB	B1	C1	FR_569	Avant chaque voyage, il veille toujours à recharger la batterie de son appareil photo.
+réutiliser|VERB	B1	A1	FR_570	N/A
+réutiliser|VERB	B1	A2	FR_571	Nous pouvons réutiliser cette bouteille.
+réutiliser|VERB	B1	B1	FR_572	Nous pouvons réutiliser les sacs en tissu pour faire les courses.
+réutiliser|VERB	B1	B2	FR_573	Nous devrions tous faire l'effort de réutiliser nos sacs de courses.
+réutiliser|VERB	B1	C1	FR_574	Nous devrions réutiliser les emballages autant que possible pour réduire nos déchets.
+déchiffrer|VERB	B1	A1	FR_575	N/A
+déchiffrer|VERB	B1	A2	FR_576	Je ne peux pas déchiffrer cette écriture.
+déchiffrer|VERB	B1	B1	FR_577	J'ai eu du mal à déchiffrer la vieille carte.
+déchiffrer|VERB	B1	B2	FR_578	J'ai passé du temps à déchiffrer la vieille lettre manuscrite.
+déchiffrer|VERB	B1	C1	FR_579	Il a fallu des années aux linguistes pour déchiffrer les hiéroglyphes de cette civilisation perdue.
+clouer|VERB	B1	A1	FR_580	N/A
+clouer|VERB	B1	A2	FR_581	Il doit clouer l'image au mur.
+clouer|VERB	B1	B1	FR_582	J'ai cloué l'affiche sur la porte.
+clouer|VERB	B1	B2	FR_583	Elle est clouée au lit depuis hier.
+clouer|VERB	B1	C1	FR_584	Son argumentation impeccable a cloué le bec à ses détracteurs.
+esquisser|VERB	B1	A1	FR_585	N/A
+esquisser|VERB	B1	A2	FR_586	N/A
+esquisser|VERB	B1	B1	FR_587	J'ai esquissé un dessin rapide sur un coin de la page.
+esquisser|VERB	B1	B2	FR_588	Il a esquissé un portrait rapide.
+esquisser|VERB	B1	C1	FR_589	Il a esquissé les grandes lignes de son projet de recherche.
+coder|VERB	B1	A1	FR_590	N/A
+coder|VERB	B1	A2	FR_591	Il apprend à coder un peu.
+coder|VERB	B1	B1	FR_592	J'aime coder des petits jeux sur mon ordinateur.
+coder|VERB	B1	B2	FR_593	Elle a appris à coder un site web simple.
+coder|VERB	B1	C1	FR_594	Pour automatiser le processus, nous devrons coder un script.
+matérialiser|VERB	B1	A1	FR_595	N/A
+matérialiser|VERB	B1	A2	FR_596	N/A
+matérialiser|VERB	B1	B1	FR_597	Son rêve va bientôt se matérialiser.
+matérialiser|VERB	B1	B2	FR_598	Son projet a commencé à se matérialiser cette année.
+matérialiser|VERB	B1	C1	FR_599	Le projet tant attendu a commencé à se matérialiser en une réalité tangible.
+souche|NOUN	B2	A1	FR_600	Il y a une souche dans le jardin.
+souche|NOUN	B2	A2	FR_601	Il y a une vieille souche dans le jardin.
+souche|NOUN	B2	B1	FR_602	Il reste une grande souche d'arbre dans le champ.
+souche|NOUN	B2	B2	FR_603	La souche de l'arbre était couverte de mousse.
+souche|NOUN	B2	C1	FR_604	Les scientifiques ont identifié une nouvelle souche bactérienne résistante aux antibiotiques.
+moule|NOUN	B2	A1	FR_605	J'aime les moules.
+moule|NOUN	B2	A2	FR_606	J'aime manger des moules.
+moule|NOUN	B2	B1	FR_607	Nous allons manger des moules au restaurant ce soir.
+moule|NOUN	B2	B2	FR_608	Nous avons commandé des moules frites au restaurant.
+moule|NOUN	B2	C1	FR_609	Il ne voulait pas se conformer au moule social préétabli.
+bonhomie|NOUN	B2	A1	FR_610	N/A
+bonhomie|NOUN	B2	A2	FR_611	N/A
+bonhomie|NOUN	B2	B1	FR_612	N/A
+bonhomie|NOUN	B2	B2	FR_613	Sa bonhomie a rendu l'ambiance très agréable.
+bonhomie|NOUN	B2	C1	FR_614	Son sourire et sa bonhomie mettaient tout le monde à l'aise.
+garderie|NOUN	B2	A1	FR_615	Mon enfant va à la garderie.
+garderie|NOUN	B2	A2	FR_616	Mon fils va à la garderie.
+garderie|NOUN	B2	B1	FR_617	Mes enfants vont à la garderie après l'école.
+garderie|NOUN	B2	B2	FR_618	Ma fille va à la garderie tous les matins.
+garderie|NOUN	B2	C1	FR_619	Le manque de places en garderie est un problème récurrent dans de nombreuses villes.
+rebut|NOUN	B2	A1	FR_620	N/A
+rebut|NOUN	B2	A2	FR_621	N/A
+rebut|NOUN	B2	B1	FR_622	N/A
+rebut|NOUN	B2	B2	FR_623	Les rebuts de la production sont souvent recyclés.
+rebut|NOUN	B2	C1	FR_624	L'usine recycle tous les rebuts métalliques pour réduire son impact environnemental.
+dissociation|NOUN	B2	A1	FR_625	N/A
+dissociation|NOUN	B2	A2	FR_626	N/A
+dissociation|NOUN	B2	B1	FR_627	N/A
+dissociation|NOUN	B2	B2	FR_628	Il y a une dissociation claire entre la théorie et la pratique dans ce projet.
+dissociation|NOUN	B2	C1	FR_629	Il y a une dissociation nette entre ses paroles et ses actions.
+pendant|NOUN	B2	A1	FR_630	N/A
+pendant|NOUN	B2	A2	FR_631	N/A
+pendant|NOUN	B2	B1	FR_632	Elle a un joli pendant à son collier.
+pendant|NOUN	B2	B2	FR_633	Elle a acheté un joli pendant pour son collier.
+pendant|NOUN	B2	C1	FR_634	Elle a accroché un joli pendant à sa chaîne en or.
+exutoire|NOUN	B2	A1	FR_635	N/A
+exutoire|NOUN	B2	A2	FR_636	N/A
+exutoire|NOUN	B2	B1	FR_637	N/A
+exutoire|NOUN	B2	B2	FR_638	Le sport est un excellent exutoire pour son énergie.
+exutoire|NOUN	B2	C1	FR_639	Le sport est un excellent exutoire pour son stress.
+programmation|NOUN	B2	A1	FR_640	N/A
+programmation|NOUN	B2	A2	FR_641	J'ai regardé la programmation de la télévision pour ce soir.
+programmation|NOUN	B2	B1	FR_642	J'ai regardé la programmation de la soirée à la télévision.
+programmation|NOUN	B2	B2	FR_643	J'étudie la programmation pour créer des applications.
+programmation|NOUN	B2	C1	FR_644	La programmation des événements culturels de la ville est consultable en ligne.
+divulgation|NOUN	B2	A1	FR_645	N/A
+divulgation|NOUN	B2	A2	FR_646	N/A
+divulgation|NOUN	B2	B1	FR_647	N/A
+divulgation|NOUN	B2	B2	FR_648	La divulgation des résultats de l'enquête est attendue demain.
+divulgation|NOUN	B2	C1	FR_649	La divulgation des résultats est prévue pour la semaine prochaine.
+bourgmestre|NOUN	B2	A1	FR_650	N/A
+bourgmestre|NOUN	B2	A2	FR_651	N/A
+bourgmestre|NOUN	B2	B1	FR_652	N/A
+bourgmestre|NOUN	B2	B2	FR_653	Le bourgmestre a annoncé de nouvelles mesures pour la ville.
+bourgmestre|NOUN	B2	C1	FR_654	Le bourgmestre a prononcé un discours lors de l'ouverture du festival.
+cendrier|NOUN	B2	A1	FR_655	Le cendrier est sur la table.
+cendrier|NOUN	B2	A2	FR_656	Le cendrier est sur la table.
+cendrier|NOUN	B2	B1	FR_657	Elle a mis la cigarette dans le cendrier.
+cendrier|NOUN	B2	B2	FR_658	Il a vidé le cendrier avant l'arrivée des invités.
+cendrier|NOUN	B2	C1	FR_659	Il a vidé le cendrier rempli de mégots avant l'arrivée des invités.
+ecchymose|NOUN	B2	A1	FR_660	N/A
+ecchymose|NOUN	B2	A2	FR_661	N/A
+ecchymose|NOUN	B2	B1	FR_662	J'ai une ecchymose sur la jambe après ma chute.
+ecchymose|NOUN	B2	B2	FR_663	Après la chute, une ecchymose est apparue sur sa jambe.
+ecchymose|NOUN	B2	C1	FR_664	Après le choc, une ecchymose violacée est apparue sur sa peau.
+bagne|NOUN	B2	A1	FR_665	N/A
+bagne|NOUN	B2	A2	FR_666	N/A
+bagne|NOUN	B2	B1	FR_667	N/A
+bagne|NOUN	B2	B2	FR_668	La vie au bagne était très dure pour les prisonniers.
+bagne|NOUN	B2	C1	FR_669	Le bagne de Cayenne est resté célèbre pour ses conditions de vie extrêmes.
+concordance|NOUN	B2	A1	FR_670	N/A
+concordance|NOUN	B2	A2	FR_671	N/A
+concordance|NOUN	B2	B1	FR_672	N/A
+concordance|NOUN	B2	B2	FR_673	Il y a une bonne concordance entre les résultats des deux études.
+concordance|NOUN	B2	C1	FR_674	La concordance des témoignages a renforcé la crédibilité de l'enquête.
+biscuit|NOUN	B2	A1	FR_675	Je mange un biscuit.
+biscuit|NOUN	B2	A2	FR_676	Je mange un biscuit au chocolat.
+biscuit|NOUN	B2	B1	FR_677	J'ai mangé un biscuit avec mon café.
+biscuit|NOUN	B2	B2	FR_678	Le petit biscuit au gingembre était délicieux avec le thé.
+biscuit|NOUN	B2	C1	FR_679	Il est rare de trouver des biscuits artisanaux de cette qualité dans les supermarchés.
+limpidité|NOUN	B2	A1	FR_680	N/A
+limpidité|NOUN	B2	A2	FR_681	N/A
+limpidité|NOUN	B2	B1	FR_682	N/A
+limpidité|NOUN	B2	B2	FR_683	La limpidité de l'eau du lac était remarquable.
+limpidité|NOUN	B2	C1	FR_684	La limpidité de ses propos a impressionné l'audience.
+rambarde|NOUN	B2	A1	FR_685	N/A
+rambarde|NOUN	B2	A2	FR_686	La rambarde du balcon est blanche.
+rambarde|NOUN	B2	B1	FR_687	Il s'est appuyé contre la rambarde du pont.
+rambarde|NOUN	B2	B2	FR_688	La rambarde du balcon est en bois.
+rambarde|NOUN	B2	C1	FR_689	Le marin s'est tenu à la rambarde du bateau pendant la tempête.
+casse-cou|NOUN	B2	A1	FR_690	N/A
+casse-cou|NOUN	B2	A2	FR_691	N/A
+casse-cou|NOUN	B2	B1	FR_692	Mon cousin est un casse-cou, il n'a peur de rien.
+casse-cou|NOUN	B2	B2	FR_693	Mon ami est un vrai casse-cou, il adore les sports extrêmes.
+casse-cou|NOUN	B2	C1	FR_694	Son frère est un casse-cou qui adore les défis extrêmes.
+accumulation|NOUN	B2	A1	FR_695	N/A
+accumulation|NOUN	B2	A2	FR_696	N/A
+accumulation|NOUN	B2	B1	FR_697	L'accumulation de neige a rendu les routes difficiles.
+accumulation|NOUN	B2	B2	FR_698	L'accumulation de neige a rendu les routes dangereuses.
+accumulation|NOUN	B2	C1	FR_699	L'accumulation de poussière sur les meubles indique qu'un nettoyage est nécessaire.
+rallonger|VERB	B2	A1	FR_700	On peut rallonger la table.
+rallonger|VERB	B2	A2	FR_701	Je dois rallonger ce pantalon.
+rallonger|VERB	B2	B1	FR_702	On peut rallonger ce câble pour atteindre la prise.
+rallonger|VERB	B2	B2	FR_703	Il faut rallonger cette jupe, elle est trop courte.
+rallonger|VERB	B2	C1	FR_704	Le comité a voté pour rallonger le délai de soumission des propositions.
+décentraliser|VERB	B2	A1	FR_705	N/A
+décentraliser|VERB	B2	A2	FR_706	N/A
+décentraliser|VERB	B2	B1	FR_707	Le gouvernement va décentraliser des services.
+décentraliser|VERB	B2	B2	FR_708	L'entreprise a décidé de décentraliser une partie de ses opérations.
+décentraliser|VERB	B2	C1	FR_709	La nouvelle loi vise à décentraliser les compétences régionales.
+ravager|VERB	B2	A1	FR_710	N/A
+ravager|VERB	B2	A2	FR_711	N/A
+ravager|VERB	B2	B1	FR_712	La tempête a ravagé plusieurs villages de la côte.
+ravager|VERB	B2	B2	FR_713	La tempête a ravagé plusieurs villages.
+ravager|VERB	B2	C1	FR_714	La tempête a ravagé une partie de la côte.
+camoufler|VERB	B2	A1	FR_715	N/A
+camoufler|VERB	B2	A2	FR_716	N/A
+camoufler|VERB	B2	B1	FR_717	Le chat se camoufle facilement dans les herbes hautes.
+camoufler|VERB	B2	B2	FR_718	Il a essayé de camoufler son émotion derrière un sourire.
+camoufler|VERB	B2	C1	FR_719	Le détective a tenté de camoufler son identité pour ne pas être reconnu.
+alarmer|VERB	B2	A1	FR_720	N/A
+alarmer|VERB	B2	A2	FR_721	La fumée a alarmé les voisins.
+alarmer|VERB	B2	B1	FR_722	Cette situation m'alarme.
+alarmer|VERB	B2	B2	FR_723	Les résultats de l'enquête ont alarmé la population.
+alarmer|VERB	B2	C1	FR_724	Les nouvelles économiques ont commencé à alarmer les investisseurs.
+accaparer|VERB	B2	A1	FR_725	N/A
+accaparer|VERB	B2	A2	FR_726	N/A
+accaparer|VERB	B2	B1	FR_727	Il aime accaparer la conversation lors des dîners de famille.
+accaparer|VERB	B2	B2	FR_728	Il a accaparé toute la conversation pendant le dîner.
+accaparer|VERB	B2	C1	FR_729	Il a tendance à accaparer la conversation lors des dîners.
+réinventer|VERB	B2	A1	FR_730	N/A
+réinventer|VERB	B2	A2	FR_731	N/A
+réinventer|VERB	B2	B1	FR_732	Il faut parfois se réinventer pour progresser.
+réinventer|VERB	B2	B2	FR_733	Pour rester pertinent, il faut parfois se réinventer.
+réinventer|VERB	B2	C1	FR_734	Il est parfois nécessaire de se réinventer pour s'adapter aux changements rapides.
+écarquiller|VERB	B2	A1	FR_735	N/A
+écarquiller|VERB	B2	A2	FR_736	N/A
+écarquiller|VERB	B2	B1	FR_737	Le petit garçon a écarquillé les yeux devant le gâteau d'anniversaire.
+écarquiller|VERB	B2	B2	FR_738	Elle a écarquillé les yeux en voyant l'araignée.
+écarquiller|VERB	B2	C1	FR_739	Elle a écarquillé les yeux en entendant la nouvelle.
+tonitruer|VERB	B2	A1	FR_740	N/A
+tonitruer|VERB	B2	A2	FR_741	N/A
+tonitruer|VERB	B2	B1	FR_742	N/A
+tonitruer|VERB	B2	B2	FR_743	Le ciel a commencé à tonitruer fortement.
+tonitruer|VERB	B2	C1	FR_744	Le ministre a tonitrué contre l'opposition lors de son discours.
+enquêter|VERB	B2	A1	FR_745	N/A
+enquêter|VERB	B2	A2	FR_746	N/A
+enquêter|VERB	B2	B1	FR_747	La police va enquêter sur cette affaire.
+enquêter|VERB	B2	B2	FR_748	La police va enquêter sur cette affaire.
+enquêter|VERB	B2	C1	FR_749	La police a décidé d'enquêter sur les causes de l'accident.
+manoeuvrer|VERB	B2	A1	FR_750	N/A
+manoeuvrer|VERB	B2	A2	FR_751	N/A
+manoeuvrer|VERB	B2	B1	FR_752	Le conducteur a dû manœuvrer la voiture pour se garer.
+manoeuvrer|VERB	B2	B2	FR_753	Il a dû manœuvrer le camion avec précaution dans la rue étroite.
+manoeuvrer|VERB	B2	C1	FR_754	Elle a dû manoeuvrer avec diplomatie pour éviter le conflit.
+planer|VERB	B2	A1	FR_755	N/A
+planer|VERB	B2	A2	FR_756	L'oiseau plane dans le ciel.
+planer|VERB	B2	B1	FR_757	Les oiseaux planent souvent au-dessus de ma maison.
+planer|VERB	B2	B2	FR_758	L'aigle planait sans effort au-dessus de la vallée.
+planer|VERB	B2	C1	FR_759	On sentait une atmosphère de tension planer sur toute l'assemblée.
+encastrer|VERB	B2	A1	FR_760	N/A
+encastrer|VERB	B2	A2	FR_761	N/A
+encastrer|VERB	B2	B1	FR_762	Nous devons encastrer le nouveau four.
+encastrer|VERB	B2	B2	FR_763	Nous avons encastré la machine à laver sous le plan de travail.
+encastrer|VERB	B2	C1	FR_764	Ils ont encastré le four dans le mur de la cuisine.
+rabattre|VERB	B2	A1	FR_765	N/A
+rabattre|VERB	B2	A2	FR_766	N/A
+rabattre|VERB	B2	B1	FR_767	S'il pleut, nous nous rabattrons sur le plan B.
+rabattre|VERB	B2	B2	FR_768	S'il ne trouve pas de taxi, il devra se rabattre sur le bus.
+rabattre|VERB	B2	C1	FR_769	Faute d'autres options, nous avons dû nous rabattre sur le plan B.
+dénaturer|VERB	B2	A1	FR_770	N/A
+dénaturer|VERB	B2	A2	FR_771	N/A
+dénaturer|VERB	B2	B1	FR_772	N/A
+dénaturer|VERB	B2	B2	FR_773	Il ne faut pas dénaturer la vérité.
+dénaturer|VERB	B2	C1	FR_774	Le politicien a été critiqué pour avoir dénaturé la vérité lors de son discours.
+engoncer|VERB	B2	A1	FR_775	N/A
+engoncer|VERB	B2	A2	FR_776	N/A
+engoncer|VERB	B2	B1	FR_777	Cette veste l'engonçait un peu.
+engoncer|VERB	B2	B2	FR_778	Il se sentait engoncé dans cette chemise trop petite.
+engoncer|VERB	B2	C1	FR_779	Cette chemise trop serrée l'engonçait et le mettait mal à l'aise.
+primer|VERB	B2	A1	FR_780	N/A
+primer|VERB	B2	A2	FR_781	N/A
+primer|VERB	B2	B1	FR_782	La sécurité doit primer sur le coût.
+primer|VERB	B2	B2	FR_783	La qualité prime sur la quantité.
+primer|VERB	B2	C1	FR_784	La sécurité doit primer sur toute autre considération.
+fleurer|VERB	B2	A1	FR_785	N/A
+fleurer|VERB	B2	A2	FR_786	N/A
+fleurer|VERB	B2	B1	FR_787	N/A
+fleurer|VERB	B2	B2	FR_788	Les fleurs de lavande fleurent bon dans le champ.
+fleurer|VERB	B2	C1	FR_789	Ce plat fleure bon la Provence.
+retrousser|VERB	B2	A1	FR_790	N/A
+retrousser|VERB	B2	A2	FR_791	N/A
+retrousser|VERB	B2	B1	FR_792	Il a retroussé ses manches pour commencer le travail.
+retrousser|VERB	B2	B2	FR_793	Elle a retroussé ses manches pour ne pas les mouiller.
+retrousser|VERB	B2	C1	FR_794	Elle a retroussé ses manches avant de se plonger dans la tâche.
+barbeler|VERB	B2	A1	FR_795	N/A
+barbeler|VERB	B2	A2	FR_796	N/A
+barbeler|VERB	B2	B1	FR_797	N/A
+barbeler|VERB	B2	B2	FR_798	N/A
+barbeler|VERB	B2	C1	FR_799	Il a fallu barbeler la clôture pour dissuader les intrusions.
+filiation|NOUN	C1	A1	FR_800	N/A
+filiation|NOUN	C1	A2	FR_801	N/A
+filiation|NOUN	C1	B1	FR_802	N/A
+filiation|NOUN	C1	B2	FR_803	La filiation légale établit le lien entre un enfant et ses parents.
+filiation|NOUN	C1	C1	FR_804	La filiation des idées entre ces deux écoles de pensée est indéniable.
+dérogation|NOUN	C1	A1	FR_805	N/A
+dérogation|NOUN	C1	A2	FR_806	N/A
+dérogation|NOUN	C1	B1	FR_807	Le professeur a accordé une dérogation à l'étudiant.
+dérogation|NOUN	C1	B2	FR_808	Il a obtenu une dérogation pour ne pas suivre le cours obligatoire.
+dérogation|NOUN	C1	C1	FR_809	Le gouvernement a accordé une dérogation temporaire aux entreprises.
+restriction|NOUN	C1	A1	FR_810	N/A
+restriction|NOUN	C1	A2	FR_811	Il y a une restriction de vitesse sur cette route.
+restriction|NOUN	C1	B1	FR_812	Il y a une restriction sur le nombre de personnes autorisées.
+restriction|NOUN	C1	B2	FR_813	Le gouvernement a annoncé des restrictions sur les déplacements.
+restriction|NOUN	C1	C1	FR_814	La suppression de cette restriction permettrait d'accroître les échanges commerciaux.
+fluctuation|NOUN	C1	A1	FR_815	N/A
+fluctuation|NOUN	C1	A2	FR_816	N/A
+fluctuation|NOUN	C1	B1	FR_817	Il y a des fluctuations de prix sur le marché.
+fluctuation|NOUN	C1	B2	FR_818	Nous avons remarqué une légère fluctuation des ventes ce mois-ci.
+fluctuation|NOUN	C1	C1	FR_819	Les fluctuations de la demande peuvent rendre la planification difficile pour les entreprises.
+validation|NOUN	C1	A1	FR_820	N/A
+validation|NOUN	C1	A2	FR_821	N/A
+validation|NOUN	C1	B1	FR_822	Il faut la validation du professeur.
+validation|NOUN	C1	B2	FR_823	La validation des documents est nécessaire pour voyager.
+validation|NOUN	C1	C1	FR_824	La validation des données est une étape cruciale dans ce processus.
+déviance|NOUN	C1	A1	FR_825	N/A
+déviance|NOUN	C1	A2	FR_826	N/A
+déviance|NOUN	C1	B1	FR_827	N/A
+déviance|NOUN	C1	B2	FR_828	L'étude a examiné les causes de la déviance dans la société.
+déviance|NOUN	C1	C1	FR_829	La déviance sociale peut se manifester de multiples façons.
+effondrement|NOUN	C1	A1	FR_830	N/A
+effondrement|NOUN	C1	A2	FR_831	N/A
+effondrement|NOUN	C1	B1	FR_832	Il y a eu un effondrement du pont après la tempête.
+effondrement|NOUN	C1	B2	FR_833	L'effondrement du pont a bloqué la circulation pendant des heures.
+effondrement|NOUN	C1	C1	FR_834	L'effondrement du pont a surpris tout le monde.
+annulaire|NOUN	C1	A1	FR_835	N/A
+annulaire|NOUN	C1	A2	FR_836	Elle porte une bague à son annulaire.
+annulaire|NOUN	C1	B1	FR_837	Elle porte une bague à son annulaire.
+annulaire|NOUN	C1	B2	FR_838	Elle porte sa bague de fiançailles à l'annulaire.
+annulaire|NOUN	C1	C1	FR_839	Elle porte une bague de fiançailles à son annulaire.
+désapprobation|NOUN	C1	A1	FR_840	N/A
+désapprobation|NOUN	C1	A2	FR_841	N/A
+désapprobation|NOUN	C1	B1	FR_842	N/A
+désapprobation|NOUN	C1	B2	FR_843	Son silence a été interprété comme un signe de désapprobation.
+désapprobation|NOUN	C1	C1	FR_844	La désapprobation du public était palpable après l'annonce.
+ossement|NOUN	C1	A1	FR_845	N/A
+ossement|NOUN	C1	A2	FR_846	N/A
+ossement|NOUN	C1	B1	FR_847	Le chien a trouvé un vieil ossement dans le jardin.
+ossement|NOUN	C1	B2	FR_848	Les archéologues ont trouvé des ossements dans le site de fouilles.
+ossement|NOUN	C1	C1	FR_849	Les ossements découverts sur le site archéologique ont révélé des informations inattendues.
+bourdonnement|NOUN	C1	A1	FR_850	N/A
+bourdonnement|NOUN	C1	A2	FR_851	Mon frigo fait un petit bourdonnement.
+bourdonnement|NOUN	C1	B1	FR_852	Le bourdonnement des abeilles était fort.
+bourdonnement|NOUN	C1	B2	FR_853	J'ai entendu un bourdonnement d'abeilles près des fleurs.
+bourdonnement|NOUN	C1	C1	FR_854	Le bourdonnement incessant du ventilateur m'empêchait de me concentrer.
+brasier|NOUN	C1	A1	FR_855	N/A
+brasier|NOUN	C1	A2	FR_856	N/A
+brasier|NOUN	C1	B1	FR_857	Le brasier réchauffait toute la pièce.
+brasier|NOUN	C1	B2	FR_858	Un grand brasier a détruit la vieille grange.
+brasier|NOUN	C1	C1	FR_859	Le brasier consumait lentement les bûches.
+confinement|NOUN	C1	A1	FR_860	N/A
+confinement|NOUN	C1	A2	FR_861	Pendant le confinement, nous restions à la maison.
+confinement|NOUN	C1	B1	FR_862	Pendant le confinement, beaucoup de magasins étaient fermés.
+confinement|NOUN	C1	B2	FR_863	Pendant le confinement, beaucoup de gens ont travaillé depuis chez eux.
+confinement|NOUN	C1	C1	FR_864	Les effets psychologiques du confinement prolongé ont été considérables pour de nombreuses personnes.
+couleuvre|NOUN	C1	A1	FR_865	N/A
+couleuvre|NOUN	C1	A2	FR_866	N/A
+couleuvre|NOUN	C1	B1	FR_867	Nous avons vu une couleuvre près de la rivière.
+couleuvre|NOUN	C1	B2	FR_868	J'ai vu une couleuvre nager dans l'eau claire.
+couleuvre|NOUN	C1	C1	FR_869	La couleuvre est un reptile discret qui se nourrit principalement d'amphibiens.
+friand|NOUN	C1	A1	FR_870	N/A
+friand|NOUN	C1	A2	FR_871	Je mange un friand au fromage.
+friand|NOUN	C1	B1	FR_872	J'ai pris un friand au jambon pour mon déjeuner.
+friand|NOUN	C1	B2	FR_873	J'ai acheté un friand aux champignons pour mon dîner.
+friand|NOUN	C1	C1	FR_874	Elle a commandé un friand aux amandes avec son thé.
+filage|NOUN	C1	A1	FR_875	N/A
+filage|NOUN	C1	A2	FR_876	N/A
+filage|NOUN	C1	B1	FR_877	N/A
+filage|NOUN	C1	B2	FR_878	Le filage du coton est une étape importante dans la fabrication des tissus.
+filage|NOUN	C1	C1	FR_879	Le filage du coton est une étape cruciale dans l'industrie textile.
+intumescence|NOUN	C1	A1	FR_880	N/A
+intumescence|NOUN	C1	A2	FR_881	N/A
+intumescence|NOUN	C1	B1	FR_882	N/A
+intumescence|NOUN	C1	B2	FR_883	N/A
+intumescence|NOUN	C1	C1	FR_884	N/A
+moelle|NOUN	C1	A1	FR_885	N/A
+moelle|NOUN	C1	A2	FR_886	N/A
+moelle|NOUN	C1	B1	FR_887	Elle a commandé un os à moelle au restaurant.
+moelle|NOUN	C1	B2	FR_888	On trouve de la moelle à l'intérieur de l'os.
+moelle|NOUN	C1	C1	FR_889	Le froid me transperçait jusqu'à la moelle.
+oreillette|NOUN	C1	A1	FR_890	J'écoute de la musique avec mon oreillette.
+oreillette|NOUN	C1	A2	FR_891	J'ai une oreillette pour mon téléphone.
+oreillette|NOUN	C1	B1	FR_892	J'ai mis mon oreillette pour écouter de la musique.
+oreillette|NOUN	C1	B2	FR_893	Il écoute de la musique avec son oreillette.
+oreillette|NOUN	C1	C1	FR_894	Le garde du corps communiquait discrètement avec son équipe via une oreillette.
+normalité|NOUN	C1	A1	FR_895	N/A
+normalité|NOUN	C1	A2	FR_896	N/A
+normalité|NOUN	C1	B1	FR_897	Après la crise, la population souhaite un retour à la normalité.
+normalité|NOUN	C1	B2	FR_898	Après cette période étrange, nous espérons retrouver une certaine normalité.
+normalité|NOUN	C1	C1	FR_899	Après la crise, chacun espère retrouver une certaine normalité.
+fidéliser|VERB	C1	A1	FR_900	N/A
+fidéliser|VERB	C1	A2	FR_901	N/A
+fidéliser|VERB	C1	B1	FR_902	N/A
+fidéliser|VERB	C1	B2	FR_903	L'entreprise cherche à fidéliser ses clients avec des offres spéciales.
+fidéliser|VERB	C1	C1	FR_904	L'entreprise met en place des stratégies pour fidéliser sa clientèle.
+refroidir|VERB	C1	A1	FR_905	La soupe refroidit.
+refroidir|VERB	C1	A2	FR_906	Laisse la soupe refroidir.
+refroidir|VERB	C1	B1	FR_907	Nous devons laisser la boisson refroidir un peu.
+refroidir|VERB	C1	B2	FR_908	Le café va refroidir si tu ne le bois pas.
+refroidir|VERB	C1	C1	FR_909	La nouvelle inattendue a refroidi l'ambiance de la soirée.
+imputer|VERB	C1	A1	FR_910	N/A
+imputer|VERB	C1	A2	FR_911	N/A
+imputer|VERB	C1	B1	FR_912	N/A
+imputer|VERB	C1	B2	FR_913	Ils ont imputé les problèmes à une mauvaise gestion.
+imputer|VERB	C1	C1	FR_914	Il est difficile d'imputer cette décision à un seul facteur.
+requérir|VERB	C1	A1	FR_915	N/A
+requérir|VERB	C1	A2	FR_916	N/A
+requérir|VERB	C1	B1	FR_917	Ce projet requiert des compétences spécifiques.
+requérir|VERB	C1	B2	FR_918	La situation actuelle requiert une décision rapide.
+requérir|VERB	C1	C1	FR_919	Cette procédure requiert une attention particulière.
+instaurer|VERB	C1	A1	FR_920	N/A
+instaurer|VERB	C1	A2	FR_921	N/A
+instaurer|VERB	C1	B1	FR_922	Ils veulent instaurer de nouvelles règles.
+instaurer|VERB	C1	B2	FR_923	Le gouvernement veut instaurer de nouvelles règles.
+instaurer|VERB	C1	C1	FR_924	Le conseil a voté pour instaurer de nouvelles règles plus strictes.
+déployer|VERB	C1	A1	FR_925	N/A
+déployer|VERB	C1	A2	FR_926	N/A
+déployer|VERB	C1	B1	FR_927	Les enfants vont déployer la carte sur la table.
+déployer|VERB	C1	B2	FR_928	Il faut déployer beaucoup d'efforts pour réussir un tel examen.
+déployer|VERB	C1	C1	FR_929	Le gouvernement a décidé de déployer de nouveaux moyens pour lutter contre la criminalité.
+incarcérer|VERB	C1	A1	FR_930	N/A
+incarcérer|VERB	C1	A2	FR_931	N/A
+incarcérer|VERB	C1	B1	FR_932	Le suspect a été incarcéré après son arrestation.
+incarcérer|VERB	C1	B2	FR_933	Il a été incarcéré après son jugement.
+incarcérer|VERB	C1	C1	FR_934	Le tribunal a décidé d'incarcérer le criminel après le verdict.
+contaminer|VERB	C1	A1	FR_935	N/A
+contaminer|VERB	C1	A2	FR_936	N/A
+contaminer|VERB	C1	B1	FR_937	Le virus peut contaminer la nourriture.
+contaminer|VERB	C1	B2	FR_938	Les déchets ont contaminé l'eau de la rivière.
+contaminer|VERB	C1	C1	FR_939	Le virus peut contaminer rapidement une grande population.
+submerger|VERB	C1	A1	FR_940	N/A
+submerger|VERB	C1	A2	FR_941	N/A
+submerger|VERB	C1	B1	FR_942	Les inondations ont submergé la ville.
+submerger|VERB	C1	B2	FR_943	Le travail m'a submergé cette semaine.
+submerger|VERB	C1	C1	FR_944	Les nombreuses questions de l'auditoire ont commencé à submerger l'orateur.
+émaner|VERB	C1	A1	FR_945	N/A
+émaner|VERB	C1	A2	FR_946	N/A
+émaner|VERB	C1	B1	FR_947	N/A
+émaner|VERB	C1	B2	FR_948	Une délicieuse odeur de pain frais émanait de la boulangerie.
+émaner|VERB	C1	C1	FR_949	Le charme de cet endroit semble émaner de son histoire.
+attiser|VERB	C1	A1	FR_950	N/A
+attiser|VERB	C1	A2	FR_951	N/A
+attiser|VERB	C1	B1	FR_952	Son histoire a attisé la curiosité de tous.
+attiser|VERB	C1	B2	FR_953	Elle a attisé ma curiosité avec son secret.
+attiser|VERB	C1	C1	FR_954	Le désaccord entre eux a attisé les tensions.
+bouder|VERB	C1	A1	FR_955	N/A
+bouder|VERB	C1	A2	FR_956	Elle boude parce qu'elle est triste.
+bouder|VERB	C1	B1	FR_957	Il boude parce qu'il ne veut pas ranger sa chambre.
+bouder|VERB	C1	B2	FR_958	Elle boude depuis ce matin parce qu'elle a perdu son jeu.
+bouder|VERB	C1	C1	FR_959	Elle a boudé toute la journée après la dispute.
+chantonner|VERB	C1	A1	FR_960	N/A
+chantonner|VERB	C1	A2	FR_961	N/A
+chantonner|VERB	C1	B1	FR_962	Elle aime chantonner sous la douche.
+chantonner|VERB	C1	B2	FR_963	Elle aime chantonner doucement en travaillant.
+chantonner|VERB	C1	C1	FR_964	Elle aime chantonner en préparant le dîner.
+discipliner|VERB	C1	A1	FR_965	N/A
+discipliner|VERB	C1	A2	FR_966	Les parents doivent discipliner leurs enfants.
+discipliner|VERB	C1	B1	FR_967	Les parents doivent discipliner leurs enfants.
+discipliner|VERB	C1	B2	FR_968	Elle a dû se discipliner pour atteindre ses objectifs.
+discipliner|VERB	C1	C1	FR_969	Il doit apprendre à discipliner ses émotions.
+enjoindre|VERB	C1	A1	FR_970	N/A
+enjoindre|VERB	C1	A2	FR_971	N/A
+enjoindre|VERB	C1	B1	FR_972	N/A
+enjoindre|VERB	C1	B2	FR_973	N/A
+enjoindre|VERB	C1	C1	FR_974	Le juge lui a enjoint de payer l'amende.
+empêtrer|VERB	C1	A1	FR_975	N/A
+empêtrer|VERB	C1	A2	FR_976	N/A
+empêtrer|VERB	C1	B1	FR_977	N/A
+empêtrer|VERB	C1	B2	FR_978	Le chien s'est empêtré dans sa laisse pendant la promenade.
+empêtrer|VERB	C1	C1	FR_979	Elle s'est empêtrée dans ses propres contradictions lors du débat.
+liquéfier|VERB	C1	A1	FR_980	N/A
+liquéfier|VERB	C1	A2	FR_981	N/A
+liquéfier|VERB	C1	B1	FR_982	N/A
+liquéfier|VERB	C1	B2	FR_983	La chaleur intense peut liquéfier certains métaux.
+liquéfier|VERB	C1	C1	FR_984	La chaleur peut liquéfier le chocolat.
+marabouter|VERB	C1	A1	FR_985	N/A
+marabouter|VERB	C1	A2	FR_986	N/A
+marabouter|VERB	C1	B1	FR_987	N/A
+marabouter|VERB	C1	B2	FR_988	N/A
+marabouter|VERB	C1	C1	FR_989	N/A
+nuancer|VERB	C1	A1	FR_990	N/A
+nuancer|VERB	C1	A2	FR_991	N/A
+nuancer|VERB	C1	B1	FR_992	Je dois nuancer ma réponse pour qu'elle soit plus précise.
+nuancer|VERB	C1	B2	FR_993	Pour être juste, il faut nuancer cette affirmation.
+nuancer|VERB	C1	C1	FR_994	Il faut nuancer cette affirmation pour être plus précis.
+pulvériser|VERB	C1	A1	FR_995	N/A
+pulvériser|VERB	C1	A2	FR_996	N/A
+pulvériser|VERB	C1	B1	FR_997	Le jardinier a pulvérisé de l'eau sur les fleurs.
+pulvériser|VERB	C1	B2	FR_998	Il faut pulvériser de l'eau sur les plantes quand elles sont sèches.
+pulvériser|VERB	C1	C1	FR_999	L'athlète a pulvérisé le record du monde en un temps incroyable.

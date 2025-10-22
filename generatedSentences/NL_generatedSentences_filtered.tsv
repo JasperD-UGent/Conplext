@@ -1,0 +1,796 @@
+word_entry	word_level_CEFRLex	sentence_level_generated	sentence_ID	sentence_text
+vrouw|NOUN	A1	A1	NL_0	De vrouw is hier.
+vrouw|NOUN	A1	A2	NL_1	De vrouw koopt brood.
+vrouw|NOUN	A1	B1	NL_2	De vrouw leest een boek in de tuin.
+vrouw|NOUN	A1	B2	NL_3	De vrouw die ik op het feest ontmoette, was erg aardig.
+vrouw|NOUN	A1	C1	NL_4	De vrouw nam de leiding in het project, ondanks haar beperkte ervaring in die specifieke sector.
+jaar|NOUN	A1	A1	NL_5	Ik ben tien jaar.
+jaar|NOUN	A1	A2	NL_6	Ik ben twintig jaar oud.
+jaar|NOUN	A1	B1	NL_7	Mijn dochter begint volgend jaar met school.
+jaar|NOUN	A1	B2	NL_8	Na een jaar in het buitenland gewoond te hebben, keerde ze terug naar huis.
+jaar|NOUN	A1	C1	NL_9	De beleidsmakers hoopten dat dit jaar een keerpunt zou markeren in de strijd tegen klimaatverandering.
+brief|NOUN	A1	A1	NL_10	Ik schrijf een brief.
+brief|NOUN	A1	A2	NL_11	Ik heb een brief voor jou.
+brief|NOUN	A1	B1	NL_12	Ze leest de brief van haar vriendin.
+brief|NOUN	A1	B2	NL_13	Ik heb gisteren een belangrijke brief ontvangen.
+brief|NOUN	A1	C1	NL_14	Ik heb een belangrijke brief van de advocaat ontvangen.
+meneer|NOUN	A1	A1	NL_15	Goedendag, meneer.
+meneer|NOUN	A1	A2	NL_16	Goedemorgen, meneer!
+meneer|NOUN	A1	B1	NL_17	De meneer vroeg naar de weg.
+meneer|NOUN	A1	B2	NL_18	De meneer hielp ons de weg vinden.
+meneer|NOUN	A1	C1	NL_19	De meneer die de lezing gaf, benadrukte het belang van kritisch denken.
+avond|NOUN	A1	A1-A2	NL_20-NL_21	Het is een mooie avond.
+avond|NOUN	A1	B1	NL_22	Ik lees vaak een boek in de avond.
+avond|NOUN	A1	B2	NL_23	Morgenavond gaan we naar de bioscoop.
+avond|NOUN	A1	C1	NL_24	De avond viel onverwacht snel, waardoor de geplande buitenactiviteiten moesten worden aangepast.
+zee|NOUN	A1	A1	NL_25	De zee is blauw.
+zee|NOUN	A1	A2	NL_26	We gaan vaak naar de zee.
+zee|NOUN	A1	B1	NL_27	We gaan vaak naar de zee om te zwemmen.
+zee|NOUN	A1	B2	NL_28	We gingen naar de zee om te zwemmen.
+zee|NOUN	A1	C1	NL_29	Vanaf het balkon hadden we een adembenemend uitzicht over de uitgestrekte zee.
+informatie|NOUN	A1	A1	NL_30	Ik heb de informatie.
+informatie|NOUN	A1	A2	NL_31	Ik zoek informatie over de stad.
+informatie|NOUN	A1	B1	NL_32	De website geeft veel informatie over de stad.
+informatie|NOUN	A1	B2	NL_33	De website biedt veel nuttige informatie over dit onderwerp.
+informatie|NOUN	A1	C1	NL_34	De website biedt uitgebreide informatie over de geschiedenis van de stad.
+trein|NOUN	A1	A1	NL_35	Ik ga met de trein.
+trein|NOUN	A1	A2	NL_36	Ik ga met de trein naar Amsterdam.
+trein|NOUN	A1	B1	NL_37	De trein komt over vijf minuten aan.
+trein|NOUN	A1	B2	NL_38	Ik reis vaak met de trein, omdat het sneller is dan de auto.
+trein|NOUN	A1	C1	NL_39	De frequentie van de treinverbinding is recentelijk verhoogd om aan de groeiende vraag te voldoen.
+bedrijf|NOUN	A1	A1	NL_40	Hij werkt bij een bedrijf.
+bedrijf|NOUN	A1	A2	NL_41	Mijn vader werkt bij een groot bedrijf.
+bedrijf|NOUN	A1	B1	NL_42	Mijn broer werkt bij een groot bedrijf.
+bedrijf|NOUN	A1	B2	NL_43	Het bedrijf zoekt nieuwe manieren om duurzamer te worden.
+bedrijf|NOUN	A1	C1	NL_44	Het bedrijf heeft besloten de productielijn te moderniseren om efficiënter te werken.
+hond|NOUN	A1	A1	NL_45	Ik heb een hond.
+hond|NOUN	A1	A2	NL_46	De hond rent snel in het park.
+hond|NOUN	A1	B1	NL_47	De hond speelt graag in de tuin.
+hond|NOUN	A1	B2	NL_48	De hond blaft als er iemand aan de deur komt.
+hond|NOUN	A1	C1	NL_49	De trouw van een hond aan zijn baasje is vaak hartverwarmend.
+krant|NOUN	A1	A1	NL_50	Ik lees de krant.
+krant|NOUN	A1	A2	NL_51	Ik lees de krant elke ochtend.
+krant|NOUN	A1	B1	NL_52	Ik lees elke ochtend de krant bij het ontbijt.
+krant|NOUN	A1	B2	NL_53	Ik lees elke ochtend de krant om op de hoogte te blijven.
+krant|NOUN	A1	C1	NL_54	De krant publiceerde een kritisch artikel over het nieuwe beleid.
+thee|NOUN	A1	A1	NL_55	Ik drink thee.
+thee|NOUN	A1	A2	NL_56	Ik drink graag thee met melk.
+thee|NOUN	A1	B1	NL_57	Ik drink graag thee met melk en suiker.
+thee|NOUN	A1	B2	NL_58	Ik drink graag thee in de ochtend.
+thee|NOUN	A1	C1	NL_59	De geur van verse muntthee vulde de kamer en creëerde een serene sfeer.
+studie|NOUN	A1	A1	NL_60	Mijn studie is in Amsterdam.
+studie|NOUN	A1	A2	NL_61	Mijn studie is heel interessant.
+studie|NOUN	A1	B1	NL_62	Mijn studie begint volgende maand.
+studie|NOUN	A1	B2	NL_63	Zij heeft haar studie in Amsterdam afgerond.
+studie|NOUN	A1	C1	NL_64	De recente studie toont aan dat de klimaatverandering sneller verloopt dan verwacht.
+pak|NOUN	A1	A1	NL_65	Ik koop een pak melk.
+pak|NOUN	A1	A2	NL_66	Hij draagt een mooi pak.
+pak|NOUN	A1	B1	NL_67	Hij draagt een nieuw pak naar zijn werk.
+pak|NOUN	A1	B2	NL_68	Hij kocht een nieuw pak voor de bruiloft.
+pak|NOUN	A1	C1	NL_69	Het was een pak van zijn hart toen het project eindelijk voltooid was.
+kilometer|NOUN	A1	A1	NL_70	Het is twee kilometer naar het station.
+kilometer|NOUN	A1	A2	NL_71	Het hotel is twee kilometer van het station.
+kilometer|NOUN	A1	B1	NL_72	Het is ongeveer drie kilometer naar het station.
+kilometer|NOUN	A1	B2	NL_73	De stad is ongeveer vijf kilometer van hier.
+kilometer|NOUN	A1	C1	NL_74	Na een lange dag wandelen, voelde ze elke kilometer in haar vermoeide benen.
+boodschap|NOUN	A1	A1	NL_75	Ik heb een boodschap voor jou.
+boodschap|NOUN	A1	A2	NL_76	Ik doe de boodschappen in de supermarkt.
+boodschap|NOUN	A1	B1	NL_77	Ik moet vandaag nog boodschappen doen.
+boodschap|NOUN	A1	B2	NL_78	Ze schreef een korte boodschap op een briefje.
+boodschap|NOUN	A1	C1	NL_79	De boodschap van de directeur was helder: we moeten efficiënter werken.
+honger|NOUN	A1	A1	NL_80	Ik heb honger.
+honger|NOUN	A1	A2	NL_81	Ik heb veel honger.
+honger|NOUN	A1	B1	NL_82	De lange wandeling gaf me veel honger.
+honger|NOUN	A1	B2	NL_83	Na een lange wandeling had hij enorme honger.
+honger|NOUN	A1	C1	NL_84	De strijd tegen honger en armoede blijft een mondiale prioriteit voor veel organisaties.
+onderwerp|NOUN	A1	A1	NL_85	Het onderwerp is leuk.
+onderwerp|NOUN	A1	A2	NL_86	Wat is het onderwerp van de les?
+onderwerp|NOUN	A1	B1	NL_87	Het onderwerp van de les vandaag is geschiedenis.
+onderwerp|NOUN	A1	B2	NL_88	Het onderwerp van de discussie was complex.
+onderwerp|NOUN	A1	C1	NL_89	Het controversiële onderwerp leidde tot een verhitte discussie onder de aanwezigen.
+kwart|NOUN	A1	A1-A2	NL_90-NL_91	Het is kwart over drie.
+kwart|NOUN	A1	B1	NL_92	Een kwart van de mensen heeft gestemd.
+kwart|NOUN	A1	B2	NL_93	Een kwart van de studenten komt uit het buitenland.
+kwart|NOUN	A1	C1	NL_94	De prijzen zijn met bijna een kwart gestegen in het afgelopen jaar.
+fruit|NOUN	A1	A1	NL_95	Ik eet fruit.
+fruit|NOUN	A1	A2	NL_96	Ik eet graag fruit.
+fruit|NOUN	A1	B1	NL_97	Zij koopt vaak vers fruit op de markt.
+fruit|NOUN	A1	B2	NL_98	Om gezond te blijven, is het belangrijk om dagelijks voldoende fruit te eten.
+fruit|NOUN	A1	C1	NL_99	Het dagelijks eten van fruit draagt bij aan een gezonde levensstijl.
+moeten|VERB	A1	A1	NL_100	Ik moet werken.
+moeten|VERB	A1	A2-B1	NL_101-NL_102	Ik moet morgen werken.
+moeten|VERB	A1	B2	NL_103	We moeten de vergadering voorbereiden.
+moeten|VERB	A1	C1	NL_104	We moeten de discussie over dit complexe onderwerp zorgvuldig voeren.
+komen|VERB	A1	A1	NL_105	Ik kom morgen.
+komen|VERB	A1	A2	NL_106	Ik kom thuis.
+komen|VERB	A1	B1	NL_107	Zij komt morgen bij ons eten.
+komen|VERB	A1	B2	NL_108	Zou je me kunnen vertellen wanneer je verwacht te komen?
+komen|VERB	A1	C1	NL_109	Het komt erop neer dat we onze strategie moeten aanpassen om succesvol te zijn.
+staan|VERB	A1	A1	NL_110	Het boek staat op tafel.
+staan|VERB	A1	A2-B1	NL_111-NL_112	De boeken staan op de plank.
+staan|VERB	A1	B2	NL_113	Wij staan achter het besluit van de directie.
+staan|VERB	A1	C1	NL_114	Hij staat onder grote druk om de deadline te halen.
+kijken|VERB	A1	A1	NL_115	Ik kijk televisie.
+kijken|VERB	A1	A2	NL_116	Ik kijk naar de vogels.
+kijken|VERB	A1	B1	NL_117	We kijken vanavond een film.
+kijken|VERB	A1	B2	NL_118	Ik moet even kijken of de winkel al open is.
+kijken|VERB	A1	C1	NL_119	We moeten kritisch kijken naar de implicaties van deze nieuwe beleidsvoering.
+weten|VERB	A1	A1	NL_120	Ik weet het niet.
+weten|VERB	A1	A2	NL_121	Ik weet het antwoord.
+weten|VERB	A1	B1	NL_122	Ik weet het antwoord niet.
+weten|VERB	A1	B2	NL_123	Ik weet zeker dat het morgen beter zal gaan.
+weten|VERB	A1	C1	NL_124	Ondanks alle tegenslagen wist ze haar doel te bereiken.
+laten|VERB	A1	A1	NL_125	Ik laat mijn tas hier.
+laten|VERB	A1	A2	NL_126	Ik laat mijn haar knippen.
+laten|VERB	A1	B1	NL_127	Ik laat de kinderen buiten spelen.
+laten|VERB	A1	B2	NL_128	We laten de auto repareren.
+laten|VERB	A1	C1	NL_129	De overheid moet zich meer laten horen over dit onderwerp.
+blijven|VERB	A1	A1	NL_130	Wij blijven hier.
+blijven|VERB	A1	A2	NL_131	Ik blijf thuis.
+blijven|VERB	A1	B1	NL_132	We blijven nog even hier.
+blijven|VERB	A1	B2	NL_133	Ze bleef lachen, zelfs toen het moeilijk werd.
+blijven|VERB	A1	C1	NL_134	Ondanks de tegenslagen bleef ze optimistisch over de toekomst van het project.
+liggen|VERB	A1	A1	NL_135	Het boek ligt op tafel.
+liggen|VERB	A1	A2	NL_136	De boeken liggen op tafel.
+liggen|VERB	A1	B1	NL_137	De sleutels liggen op de tafel.
+liggen|VERB	A1	B2	NL_138	De universiteit ligt net buiten het stadscentrum, wat handig is voor studenten.
+liggen|VERB	A1	C1	NL_139	De verantwoordelijkheid voor dit project ligt bij het team.
+schrijven|VERB	A1	A1-A2	NL_140-NL_141	Ik schrijf een brief.
+schrijven|VERB	A1	B1	NL_142	Ik moet een e-mail schrijven.
+schrijven|VERB	A1	B2	NL_143	Het is belangrijk om je gedachten duidelijk op te schrijven.
+schrijven|VERB	A1	C1	NL_144	Hij zal een recensie schrijven over de nieuwe film.
+kennen|VERB	A1	A1	NL_145	Ik ken haar.
+kennen|VERB	A1	A2	NL_146	Ik ken haar naam.
+kennen|VERB	A1	B1	NL_147	Wij kennen elkaar al lang.
+kennen|VERB	A1	B2	NL_148	We kennen elkaar al jaren van de universiteit.
+kennen|VERB	A1	C1	NL_149	De geschiedenis van dit gebied kent vele onvertelde verhalen.
+leren|VERB	A1	A1	NL_150	Ik leer Nederlands.
+leren|VERB	A1	A2	NL_151	Ik leer elke dag nieuwe woorden.
+leren|VERB	A1	B1	NL_152	Wij leren Nederlands op school.
+leren|VERB	A1	B2	NL_153	Het is belangrijk om van je fouten te leren.
+leren|VERB	A1	C1	NL_154	De gemeenschap moet leren omgaan met de toenemende vergrijzing.
+pakken|VERB	A1	A1-A2	NL_155-NL_156	Ik pak de bal.
+pakken|VERB	A1	B1	NL_157	Ik moet de volgende bus pakken om op tijd op mijn werk te zijn.
+pakken|VERB	A1	B2	NL_158	Ze moest die kans pakken om haar droom waar te maken.
+pakken|VERB	A1	C1	NL_159	De crisis heeft de kleine ondernemers zwaar gepakt.
+drinken|VERB	A1	A1	NL_160	Ik drink water.
+drinken|VERB	A1	A2	NL_161	Wij drinken graag water.
+drinken|VERB	A1	B1	NL_162	Laten we iets gaan drinken na het werk.
+drinken|VERB	A1	B2	NL_163	Na de lange wandeling moesten we even iets kouds drinken.
+drinken|VERB	A1	C1	NL_164	De gewoonte om elke avond een kop thee te drinken, helpt haar ontspannen.
+betalen|VERB	A1	A1	NL_165	Ik betaal voor de koffie.
+betalen|VERB	A1	A2	NL_166	Ik wil de rekening betalen.
+betalen|VERB	A1	B1	NL_167	Ik moet nog de huur betalen.
+betalen|VERB	A1	B2	NL_168	De onderneming moet haar leveranciers op tijd betalen om problemen te voorkomen.
+betalen|VERB	A1	C1	NL_169	Veel mensen vinden het moeilijk om de hoge huurprijzen in de stad te betalen.
+spelen|VERB	A1	A1	NL_170	Ik speel voetbal.
+spelen|VERB	A1	A2	NL_171	De kinderen spelen in de tuin.
+spelen|VERB	A1	B1	NL_172	De kinderen spelen graag buiten als het zonnig is.
+spelen|VERB	A1	B2	NL_173	Hij speelt vaak gitaar na het werk om te ontspannen.
+spelen|VERB	A1	C1	NL_174	Deze factoren spelen een belangrijke rol bij de ontwikkeling van de economie.
+kopen|VERB	A1	A1	NL_175	Ik wil een appel kopen.
+kopen|VERB	A1	A2	NL_176	Ik wil een nieuw boek kopen.
+kopen|VERB	A1	B1	NL_177	Ik wil een nieuwe fiets kopen.
+kopen|VERB	A1	B2	NL_178	We willen een nieuw huis kopen in de stad.
+kopen|VERB	A1	C1	NL_179	Ondanks de economische onzekerheid blijven consumenten duurzame producten kopen, wat een positieve trend voor de lange termijn aangeeft.
+noemen|VERB	A1	A1	NL_180	Ik noem de hond Max.
+noemen|VERB	A1	A2	NL_181	Hoe noem je dat?
+noemen|VERB	A1	B1	NL_182	Kun je een voorbeeld noemen?
+noemen|VERB	A1	B2	NL_183	Kun je de belangrijkste punten van het rapport noemen?
+noemen|VERB	A1	C1	NL_184	Ze noemde diverse redenen waarom het project vertraging opliep.
+leven|VERB	A1	A1	NL_185	Wij leven in een huis.
+leven|VERB	A1	A2	NL_186	Ik leef in een groot huis.
+leven|VERB	A1	B1	NL_187	Wij leven in een klein dorp.
+leven|VERB	A1	B2	NL_188	We moeten leren om te leven met de veranderingen in de wereld.
+leven|VERB	A1	C1	NL_189	Het idee leefde al jaren onder de bevolking voordat het werd uitgevoerd.
+stoppen|VERB	A1	A1	NL_190	De auto stopt.
+stoppen|VERB	A1	A2	NL_191	De bus stopt hier.
+stoppen|VERB	A1	B1	NL_192	Ik moet stoppen met roken.
+stoppen|VERB	A1	B2	NL_193	De bus stopt bij de volgende halte.
+stoppen|VERB	A1	C1	NL_194	Om verdere escalatie te voorkomen, besloot de moderator de discussie tijdelijk te stoppen.
+schreeuwen|VERB	A1	A1	NL_195	De jongen schreeuwt.
+schreeuwen|VERB	A1	A2	NL_196	De kinderen schreeuwen buiten.
+schreeuwen|VERB	A1	B1	NL_197	Stop met schreeuwen, alsjeblieft.
+schreeuwen|VERB	A1	B2	NL_198	Hij begon te schreeuwen toen hij de spin zag.
+schreeuwen|VERB	A1	C1	NL_199	Hij begon te schreeuwen van vreugde toen hij het goede nieuws hoorde.
+bron|NOUN	A2	A1	NL_200	Dit water komt uit een bron.
+bron|NOUN	A2	A2	NL_201	Wat is de bron van dit nieuws?
+bron|NOUN	A2	B1	NL_202	De zon is een belangrijke bron van energie.
+bron|NOUN	A2	B2	NL_203	De wetenschappers vonden de bron van de rivier hoog in de bergen.
+bron|NOUN	A2	C1	NL_204	De krant vermeldde niet de bron van de informatie.
+arm|NOUN	A2	A1	NL_205	Ik heb pijn in mijn arm.
+arm|NOUN	A2	A2-B1	NL_206-NL_207	Ik heb mijn arm gebroken.
+arm|NOUN	A2	B2	NL_208	Hij brak zijn arm tijdens het skiën.
+arm|NOUN	A2	C1	NL_209	De chirurg adviseerde de patiënt om de arm na de operatie voorzichtig te bewegen om complicaties te voorkomen.
+hals|NOUN	A2	A1-A2	NL_210-NL_211	Ik heb pijn in mijn hals.
+hals|NOUN	A2	B1	NL_212	Ik heb een zere hals van het sporten.
+hals|NOUN	A2	B2	NL_213	Ik heb gisteren mijn hals bezeerd tijdens het sporten.
+hals|NOUN	A2	C1	NL_214	Met die beslissing haalde hij zich onbedoeld veel problemen op de hals.
+buik|NOUN	A2	A1-A2	NL_215-NL_216	Mijn buik doet pijn.
+buik|NOUN	A2	B1	NL_217	Mijn buik knort omdat ik honger heb.
+buik|NOUN	A2	B2	NL_218	De dokter onderzocht haar buik voorzichtig.
+buik|NOUN	A2	C1	NL_219	Hij had al dagen een vreemd gevoel in zijn buik, wat hem zorgen baarde.
+advocaat|NOUN	A2	A1-A2	NL_220-NL_221	Mijn broer is advocaat.
+advocaat|NOUN	A2	B1	NL_222	De advocaat legde de situatie uit.
+advocaat|NOUN	A2	B2	NL_223	De advocaat heeft de zaak gewonnen.
+advocaat|NOUN	A2	C1	NL_224	De advocaat diende een klacht in namens zijn cliënt.
+moeras|NOUN	A2	A2	NL_226	In het moeras leven veel dieren.
+moeras|NOUN	A2	B1	NL_227	De vogels leven in het moeras.
+moeras|NOUN	A2	B2	NL_228	De expeditie moest door een moeras trekken.
+moeras|NOUN	A2	C1	NL_229	Het team raakte verdwaald in het dichte moeras en moest een omweg maken.
+toneel|NOUN	A2	A1	NL_230	Wij kijken naar een toneel.
+toneel|NOUN	A2	A2	NL_231	De acteurs staan op het toneel.
+toneel|NOUN	A2	B1	NL_232	De acteurs stonden op het toneel.
+toneel|NOUN	A2	B2	NL_233	Het publiek applaudisseerde luid toen de acteurs het toneel betraden.
+toneel|NOUN	A2	C1	NL_234	Het politieke toneel is momenteel erg onrustig.
+toegang|NOUN	A2	A1	NL_235	De toegang is gratis.
+toegang|NOUN	A2	A2	NL_236	De toegang tot het park is hier.
+toegang|NOUN	A2	B1	NL_237	De toegang tot het park is gratis.
+toegang|NOUN	A2	B2	NL_238	Je hebt een speciale pas nodig om toegang te krijgen tot het lab.
+toegang|NOUN	A2	C1	NL_239	De toegang tot geavanceerde onderzoeksmaterialen is beperkt voor niet-geaccrediteerde gebruikers.
+stamppot|NOUN	A2	A1	NL_240	Ik eet stamppot.
+stamppot|NOUN	A2	A2	NL_241	In de winter eten we vaak stamppot.
+stamppot|NOUN	A2	B1	NL_242	In de winter eet ik graag stamppot.
+stamppot|NOUN	A2	B2	NL_243	We aten gisteren stamppot met rookworst.
+stamppot|NOUN	A2	C1	NL_244	De variaties in stamppot zijn eindeloos, van de klassieke boerenkool tot modernere combinaties met zoete aardappel.
+kijker|NOUN	A2	A1	NL_245	De kijker zit op de bank.
+kijker|NOUN	A2	A2-B2	NL_246-NL_248	De film had veel kijkers.
+kijker|NOUN	A2	B1	NL_247	De kijker was tevreden met het programma.
+kijker|NOUN	A2	C1	NL_249	De documentaire bood de kijker een diepgaand inzicht in de problematiek.
+kalkoen|NOUN	A2	A1	NL_250	Ik eet kalkoen.
+kalkoen|NOUN	A2	A2-B1	NL_251-NL_252	We eten kalkoen met Kerstmis.
+kalkoen|NOUN	A2	B2	NL_253	We aten kalkoen met Kerstmis.
+kalkoen|NOUN	A2	C1	NL_254	Voor het kerstdiner hebben we een grote kalkoen in de oven geschoven.
+wijk|NOUN	A2	A1	NL_255	Ik woon in deze wijk.
+wijk|NOUN	A2	A2	NL_256	Ik woon in een rustige wijk.
+wijk|NOUN	A2	B1	NL_257	Ik woon in een gezellige wijk.
+wijk|NOUN	A2	B2	NL_258	Onze wijk heeft veel groen.
+wijk|NOUN	A2	C1	NL_259	De nieuwe supermarkt heeft de hele wijk positief beïnvloed.
+camping|NOUN	A2	A1	NL_260	Wij gaan naar de camping.
+camping|NOUN	A2	A2	NL_261	We gaan deze zomer naar een camping.
+camping|NOUN	A2	B1	NL_262	We gingen deze zomer met de kinderen naar een gezellige camping.
+camping|NOUN	A2	B2	NL_263	We gaan deze zomer naar een camping aan zee.
+camping|NOUN	A2	C1	NL_264	De discussie over de uitbreiding van de camping leidde tot verdeeldheid in het dorp.
+woonplaats|NOUN	A2	A1-A2	NL_265-NL_266	Mijn woonplaats is Utrecht.
+woonplaats|NOUN	A2	B1	NL_267	Ze heeft haar woonplaats op het formulier ingevuld.
+woonplaats|NOUN	A2	B2	NL_268	Kunt u uw woonplaats op dit formulier invullen?
+woonplaats|NOUN	A2	C1	NL_269	De woonplaats van de verdachte werd vastgesteld aan de hand van zijn registratiegegevens.
+bil|NOUN	A2	A1	NL_270	Ik heb pijn aan mijn bil.
+bil|NOUN	A2	A2	NL_271	De baby heeft een zachte bil.
+bil|NOUN	A2	B1	NL_272	Ik viel en deed mijn bil pijn.
+bil|NOUN	A2	B2	NL_273	De sporter traint vaak zijn billen.
+bil|NOUN	A2	C1	NL_274	Ze had pijn aan haar bil na de val.
+onderjurk|NOUN	A2	A2	NL_276	Ze heeft een witte onderjurk.
+onderjurk|NOUN	A2	B1	NL_277	Ze trok een onderjurk aan onder haar jurk.
+onderjurk|NOUN	A2	B2	NL_278	Ze droeg een onderjurk onder haar lichte zomerjurk.
+onderjurk|NOUN	A2	C1	NL_279	Voor het bal droeg ze een chique galajurk met daaronder een bijpassende onderjurk.
+hertog|NOUN	A2	B1	NL_282	De hertog woonde in een groot kasteel.
+hertog|NOUN	A2	B2	NL_283	De hertog had veel invloed in de regio.
+hertog|NOUN	A2	C1	NL_284	De hertog woonde in een prachtig kasteel aan de rivier.
+hofzaal|NOUN	A2	B1	NL_287	De koning ontving zijn gasten in de hofzaal.
+hofzaal|NOUN	A2	B2	NL_288	De koning ontving belangrijke gasten in de ruime hofzaal van het kasteel.
+hofzaal|NOUN	A2	C1	NL_289	De koning ontving zijn gasten in de historische hofzaal.
+diabetes|NOUN	A2	A2	NL_291	Mijn opa heeft diabetes.
+diabetes|NOUN	A2	B1	NL_292	Mijn oma heeft diabetes en moet goed op haar dieet letten.
+diabetes|NOUN	A2	B2	NL_293	Mijn tante heeft diabetes en moet elke dag insuline spuiten.
+diabetes|NOUN	A2	C1	NL_294	De diagnose diabetes vereist vaak een aanpassing van de levensstijl.
+bestelling|NOUN	A2	A1-A2	NL_295-NL_296	De bestelling is klaar.
+bestelling|NOUN	A2	B1	NL_297	De bestelling komt morgen aan.
+bestelling|NOUN	A2	B2	NL_298	Ik heb een nieuwe bestelling geplaatst.
+bestelling|NOUN	A2	C1	NL_299	De bestelling van de nieuwe computers is vertraagd door problemen met de leverancier.
+doden|VERB	A2	B1	NL_302	Een storm kan veel bomen doden.
+doden|VERB	A2	B2	NL_303	De jager wilde het dier doden.
+doden|VERB	A2	C1	NL_304	De stilte in de kamer kon de laatste hoop doden.
+bouwen|VERB	A2	A1	NL_305	Ik bouw een huis.
+bouwen|VERB	A2	A2	NL_306	Wij bouwen een nieuw huis.
+bouwen|VERB	A2	B1	NL_307	Ze zijn een nieuw huis aan het bouwen.
+bouwen|VERB	A2	B2	NL_308	Ze willen een nieuw huis bouwen aan de rand van de stad.
+bouwen|VERB	A2	C1	NL_309	Het bedrijf probeert een duurzame relatie met zijn klanten te bouwen.
+reageren|VERB	A2	A1	NL_310	De hond reageert op zijn naam.
+reageren|VERB	A2	A2	NL_311	Hij reageert altijd positief op mijn ideeën.
+reageren|VERB	A2	B1	NL_312	Hij reageert snel op mijn e-mail.
+reageren|VERB	A2	B2	NL_313	De leraar reageerde verrast op de vraag van de student.
+reageren|VERB	A2	C1	NL_314	De overheid moet adequaat reageren op de stijgende inflatie.
+lukken|VERB	A2	A1	NL_315	Zal het lukken?
+lukken|VERB	A2	A2	NL_316	Ik hoop dat het lukt.
+lukken|VERB	A2	B1	NL_317	Het is me gelukt om de taart te bakken.
+lukken|VERB	A2	B2	NL_318	Is het je gelukt om de opdracht af te maken?
+lukken|VERB	A2	C1	NL_319	De poging om de financiering rond te krijgen, is uiteindelijk gelukt.
+drijven|VERB	A2	A1-B1	NL_320-NL_322	De boot drijft op het water.
+drijven|VERB	A2	A2	NL_321	Het schip drijft op de zee.
+drijven|VERB	A2	B2	NL_323	De wind drijft de wolken langzaam over de bergen.
+drijven|VERB	A2	C1	NL_324	Zijn ambitie drijft hem om altijd het beste uit zichzelf te halen.
+delen|VERB	A2	A1	NL_325	Ik deel mijn brood.
+delen|VERB	A2	A2	NL_326	Ik deel mijn eten met jou.
+delen|VERB	A2	B1	NL_327	Wij delen een pizza met onze vrienden.
+delen|VERB	A2	B2	NL_328	Wij delen graag onze ervaringen met jullie.
+delen|VERB	A2	C1	NL_329	We delen dezelfde visie op de toekomst.
+binden|VERB	A2	A1	NL_330	Ik bind mijn veters.
+binden|VERB	A2	A2	NL_331	Ik moet mijn schoenveters binden.
+binden|VERB	A2	B1	NL_332	De vrouw bindt haar haar met een elastiekje.
+binden|VERB	A2	B2	NL_333	Je moet je veters binden voordat je valt.
+binden|VERB	A2	C1	NL_334	Hij besloot zich voor de lange termijn aan het bedrijf te binden.
+betreffen|VERB	A2	B1	NL_337	Het betreft een klein misverstand.
+betreffen|VERB	A2	B2	NL_338	Het betreft een belangrijke aankondiging voor iedereen.
+betreffen|VERB	A2	C1	NL_339	De wijzigingen betreffen voornamelijk de werktijden van het personeel.
+verdedigen|VERB	A2	A2	NL_341	De speler moet zijn doel verdedigen.
+verdedigen|VERB	A2	B1	NL_342	De advocaat zal zijn cliënt verdedigen.
+verdedigen|VERB	A2	B2	NL_343	De spelers moeten goed verdedigen om de wedstrijd te winnen.
+verdedigen|VERB	A2	C1	NL_344	De advocaat moest zijn cliënt krachtig verdedigen voor de rechtbank.
+gewennen|VERB	A2	A2	NL_346	Ik moet gewennen aan de nieuwe school.
+gewennen|VERB	A2	B2	NL_348	Mensen moeten zich aan nieuwe situaties gewennen.
+gewennen|VERB	A2	C1	NL_349	Het zal even duren voordat ik helemaal gewend ben aan de nieuwe situatie.
+juichen|VERB	A2	A1	NL_350	Wij juichen voor het team.
+juichen|VERB	A2	A2	NL_351	De supporters juichen voor de winnaar.
+juichen|VERB	A2	B1	NL_352	De fans begonnen te juichen toen hun team scoorde.
+juichen|VERB	A2	B2	NL_353	De fans begonnen te juichen toen hun team een doelpunt scoorde.
+juichen|VERB	A2	C1	NL_354	De fans begonnen luid te juichen toen hun team scoorde.
+vergissen|VERB	A2	A2	NL_356	Sorry, ik heb me vergist.
+vergissen|VERB	A2	B1	NL_357	Ik denk dat je je vergist.
+vergissen|VERB	A2	B2	NL_358	Ik denk dat je je vergist; de winkel sluit om zes uur.
+vergissen|VERB	A2	C1	NL_359	Hij liet zich niet vergissen door de complexe cijfers die hem werden voorgelegd.
+stampen|VERB	A2	A1	NL_360	Ik stamp de aardappelen.
+stampen|VERB	A2	A2	NL_361	Wij moeten de aardappelen stampen.
+stampen|VERB	A2	B1	NL_362	Ik ga de aardappelen stampen voor het avondeten.
+stampen|VERB	A2	B2	NL_363	De kok moest de knoflook stampen voor de saus.
+stampen|VERB	A2	C1	NL_364	Ik heb de hele nacht moeten stampen voor mijn tentamen morgen.
+mailen|VERB	A2	A1	NL_365	Ik ga mijn vriend mailen.
+mailen|VERB	A2	A2	NL_366	Kun je dat document naar mij mailen?
+mailen|VERB	A2	B1	NL_367	Kun je me het document mailen?
+mailen|VERB	A2	B2	NL_368	Ik moet haar nog mailen over de vergadering.
+mailen|VERB	A2	C1	NL_369	Kun je me de notulen van de vergadering mailen voordat we de volgende keer afspreken?
+eruitzien|VERB	A2	A1	NL_370	Zij ziet er mooi uit.
+eruitzien|VERB	A2	A2	NL_371	De taart ziet er lekker uit.
+eruitzien|VERB	A2	B1	NL_372	Ze ziet er moe uit na de lange reis.
+eruitzien|VERB	A2	B2	NL_373	Het project ziet er veelbelovend uit, maar we moeten nog hard werken.
+eruitzien|VERB	A2	C1	NL_374	Na de renovatie zal het oude gebouw er compleet anders uitzien.
+opgroeien|VERB	A2	A1	NL_375	Ik groei op in een klein huis.
+opgroeien|VERB	A2	A2	NL_376	Ik ben in een klein dorp opgegroeid.
+opgroeien|VERB	A2	B1	NL_377	Ze is opgegroeid in een klein dorp.
+opgroeien|VERB	A2	B2	NL_378	Mijn neefjes en nichtjes groeien op in de stad.
+opgroeien|VERB	A2	C1	NL_379	Kinderen hebben een veilige omgeving nodig om goed op te groeien.
+paren|VERB	A2	A2	NL_381	Kun je de sokken paren?
+paren|VERB	A2	B1	NL_382	De vogels paren in de lente.
+paren|VERB	A2	B2	NL_383	Veel diersoorten paren in het voorjaar.
+paren|VERB	A2	C1	NL_384	Om optimale resultaten te behalen, besloten ze de twee datasets zorgvuldig te paren.
+stotteren|VERB	A2	A2	NL_386	Hij begint te stotteren als hij nerveus is.
+stotteren|VERB	A2	B1	NL_387	Hij begint soms te stotteren als hij zenuwachtig is.
+stotteren|VERB	A2	B2	NL_388	De jongen begon te stotteren toen hij zenuwachtig was.
+stotteren|VERB	A2	C1	NL_389	De spreker begon te stotteren toen hij zenuwachtig werd.
+ruilen|VERB	A2	A1	NL_390	Ik wil mijn boek ruilen.
+ruilen|VERB	A2	A2	NL_391	Ik wil mijn jas ruilen voor een grotere maat.
+ruilen|VERB	A2	B1	NL_392	Ik wil mijn boek ruilen voor een ander boek.
+ruilen|VERB	A2	B2	NL_393	Ik wil graag mijn stoel ruilen voor een plaats bij het raam.
+ruilen|VERB	A2	C1	NL_394	Soms moet je gemak ruilen voor efficiëntie om betere resultaten te behalen.
+uithalen|VERB	A2	A2	NL_396	Kun je de batterijen uit de afstandsbediening uithalen?
+uithalen|VERB	A2	B1	NL_397	De kinderen wilden een grap uithalen.
+uithalen|VERB	A2	B2	NL_398	We gaan vanavond Chinees uithalen.
+uithalen|VERB	A2	C1	NL_399	Hij heeft er alles uitgehaald om de deadline te halen.
+positie|NOUN	B1	A1	NL_400	De tafel staat in een goede positie.
+positie|NOUN	B1	A2	NL_401	De kat slaapt in een grappige positie.
+positie|NOUN	B1	B1	NL_402	Ze heeft een goede positie bij het bedrijf.
+positie|NOUN	B1	B2	NL_403	Zijn nieuwe positie in het bedrijf geeft hem meer kansen.
+positie|NOUN	B1	C1	NL_404	De regering moet haar positie heroverwegen in de discussie over klimaatverandering.
+ongeval|NOUN	B1	A1-A2	NL_405-NL_406	Er was een ongeval op de weg.
+ongeval|NOUN	B1	B1	NL_407	De politie onderzoekt de oorzaak van het ongeval.
+ongeval|NOUN	B1	B2	NL_408	Er was een klein ongeval op de kruising, maar niemand raakte gewond.
+ongeval|NOUN	B1	C1	NL_409	Het ongeval veroorzaakte aanzienlijke vertraging op de snelweg.
+filosofie|NOUN	B1	B1	NL_412	Hij studeert filosofie aan de universiteit.
+filosofie|NOUN	B1	B2	NL_413	De filosofie van de oude Grieken is nog steeds relevant.
+filosofie|NOUN	B1	C1	NL_414	De cursus biedt een diepgaande kennismaking met de westerse filosofie.
+adviseur|NOUN	B1	A1	NL_415	Mijn broer is adviseur.
+adviseur|NOUN	B1	A2	NL_416	De adviseur helpt de klanten.
+adviseur|NOUN	B1	B1	NL_417	De adviseur heeft me geholpen met mijn keuze.
+adviseur|NOUN	B1	B2	NL_418	Mijn broer werkt als financieel adviseur bij een bank.
+adviseur|NOUN	B1	C1	NL_419	De adviseur heeft ons geholpen met de complexe financiële planning.
+grondslag|NOUN	B1	B1	NL_422	Respect is de grondslag van een goede relatie.
+grondslag|NOUN	B1	B2	NL_423	Het respect voor mensenrechten vormt de grondslag van een vrije samenleving.
+grondslag|NOUN	B1	C1	NL_424	Het onderzoek legt de grondslag voor een nieuwe theorie over het klimaat.
+biljart|NOUN	B1	A1	NL_425	Hij speelt biljart.
+biljart|NOUN	B1	A2	NL_426	Wij spelen vaak biljart met vrienden.
+biljart|NOUN	B1	B1	NL_427	We spelen vaak biljart in het café.
+biljart|NOUN	B1	B2	NL_428	Na een lange werkdag ontspannen we soms met een spelletje biljart.
+biljart|NOUN	B1	C1	NL_429	De gepassioneerde speler bracht uren door aan het biljart, perfectionerend zijn techniek.
+zeeniveau|NOUN	B1	A1	NL_430	Nederland ligt onder zeeniveau.
+zeeniveau|NOUN	B1	A2	NL_431	Een deel van Nederland ligt onder zeeniveau.
+zeeniveau|NOUN	B1	B1	NL_432	Het zeeniveau kan variëren door het weer.
+zeeniveau|NOUN	B1	B2	NL_433	Het zeeniveau kan variëren als gevolg van klimaatverandering.
+zeeniveau|NOUN	B1	C1	NL_434	Klimaatverandering heeft een direct effect op het zeeniveau.
+inspiratie|NOUN	B1	A2	NL_436	Ik krijg veel inspiratie van de natuur.
+inspiratie|NOUN	B1	B1	NL_437	Ik krijg vaak inspiratie als ik in de natuur ben.
+inspiratie|NOUN	B1	B2	NL_438	Hij haalt veel inspiratie uit de natuur.
+inspiratie|NOUN	B1	C1	NL_439	De schilder vond inspiratie in de natuurlijke schoonheid van het landschap.
+reglement|NOUN	B1	B1	NL_442	Het reglement zegt dat je hier niet mag parkeren.
+reglement|NOUN	B1	B2	NL_443	Volgens het reglement moeten alle studenten om 9 uur aanwezig zijn.
+reglement|NOUN	B1	C1	NL_444	Het interne reglement van het bedrijf is onlangs gewijzigd.
+hengel|NOUN	B1	A1	NL_445	Ik heb een hengel.
+hengel|NOUN	B1	A2	NL_446	De man heeft een hengel.
+hengel|NOUN	B1	B1	NL_447	De visser hield zijn hengel stevig vast.
+hengel|NOUN	B1	B2	NL_448	Hij pakte zijn hengel en ging naar de rivier.
+hengel|NOUN	B1	C1	NL_449	De visser hield zijn hengel stevig vast terwijl hij wachtte op een aanbeet.
+bariton|NOUN	B1	B1	NL_452	De bariton zong een prachtig lied.
+bariton|NOUN	B1	B2	NL_453	De bariton zong een krachtig lied op het podium.
+bariton|NOUN	B1	C1	NL_454	De bariton trad op in het operagebouw.
+webcam|NOUN	B1	A1	NL_455	Ik heb een webcam.
+webcam|NOUN	B1	A2	NL_456	Ik gebruik mijn webcam om met mijn familie te praten.
+webcam|NOUN	B1	B1	NL_457	Ik gebruik mijn webcam voor online vergaderingen.
+webcam|NOUN	B1	B2	NL_458	Ik gebruik mijn webcam vaak om met mijn familie te praten.
+webcam|NOUN	B1	C1	NL_459	Voor een succesvolle virtuele bijeenkomst is een betrouwbare webcam essentieel.
+gymles|NOUN	B1	A1	NL_460	Ik heb gymles op dinsdag.
+gymles|NOUN	B1	A2	NL_461	Ik heb gymles op donderdag.
+gymles|NOUN	B1	B1	NL_462	De kinderen hebben op vrijdag gymles.
+gymles|NOUN	B1	B2	NL_463	De kinderen hadden vandaag een leuke gymles.
+gymles|NOUN	B1	C1	NL_464	De gymles werd opgeschort omdat de leraar zich onwel voelde.
+doorbraak|NOUN	B1	B1	NL_467	De artiest had haar grote doorbraak met dat liedje.
+doorbraak|NOUN	B1	B2	NL_468	De doorbraak in het onderzoek heeft veel potentieel.
+doorbraak|NOUN	B1	C1	NL_469	Het bedrijf bereikte een doorbraak met hun innovatieve onderzoek naar schone energie.
+liaan|NOUN	B1	B1	NL_472	De aap slingerde van liaan naar liaan in de jungle.
+liaan|NOUN	B1	B2	NL_473	De aap slingerde van boom naar boom aan de liaan.
+liaan|NOUN	B1	C1	NL_474	De apen slingeren behendig aan de dikke lianen in het oerwoud.
+metrostation|NOUN	B1	A1	NL_475	Dit is een metrostation.
+metrostation|NOUN	B1	A2	NL_476	We gaan naar het metrostation.
+metrostation|NOUN	B1	B1	NL_477	Vanaf het metrostation kun je gemakkelijk de stad verkennen.
+metrostation|NOUN	B1	B2	NL_478	Het metrostation is vaak druk tijdens de spits.
+metrostation|NOUN	B1	C1	NL_479	Het metrostation was erg druk tijdens de ochtendspits.
+verengelsing|NOUN	B1	B1	NL_482	De verengelsing van onze taal is soms merkbaar.
+verengelsing|NOUN	B1	B2	NL_483	De verengelsing van de taal is duidelijk zichtbaar.
+verengelsing|NOUN	B1	C1	NL_484	De verengelsing van populaire muziek is duidelijk hoorbaar.
+staatspensioen|NOUN	B1	A2	NL_486	Mijn oma krijgt elke maand een staatspensioen.
+staatspensioen|NOUN	B1	B1	NL_487	Mijn grootouders ontvangen een staatspensioen.
+staatspensioen|NOUN	B1	B2	NL_488	Het staatspensioen is een belangrijke bron van inkomen voor veel ouderen.
+staatspensioen|NOUN	B1	C1	NL_489	De vergrijzing zet het staatspensioen steeds meer onder druk.
+bewustmakingscampagne|NOUN	B1	B1	NL_492	De overheid start een bewustmakingscampagne over gezond eten.
+bewustmakingscampagne|NOUN	B1	B2	NL_493	De overheid start een nieuwe bewustmakingscampagne over verkeersveiligheid.
+bewustmakingscampagne|NOUN	B1	C1	NL_494	De overheid startte een bewustmakingscampagne om het belang van recyclen te benadrukken.
+aankondiging|NOUN	B1	A2	NL_496	De aankondiging was kort.
+aankondiging|NOUN	B1	B1	NL_497	De aankondiging van het concert was op de radio.
+aankondiging|NOUN	B1	B2	NL_498	De aankondiging van het evenement werd goed ontvangen.
+aankondiging|NOUN	B1	C1	NL_499	De aankondiging van het nieuwe beleid leidde tot veel discussie onder de medewerkers.
+vervangen|VERB	B1	A1	NL_500	Hij kan de lamp vervangen.
+vervangen|VERB	B1	A2	NL_501	Ik wil de batterij in mijn telefoon vervangen.
+vervangen|VERB	B1	B1	NL_502	We moeten de kapotte lamp vervangen.
+vervangen|VERB	B1	B2	NL_503	We moeten de oude software zo snel mogelijk vervangen door een nieuwere versie.
+vervangen|VERB	B1	C1	NL_504	De directie besloot de verouderde machines te vervangen door modernere apparatuur.
+behalen|VERB	B1	A2	NL_506	Zij heeft haar diploma behaald.
+behalen|VERB	B1	B1	NL_507	Hij hoopt dit jaar zijn diploma te behalen.
+behalen|VERB	B1	B2	NL_508	Om dit certificaat te behalen, moet je veel studeren.
+behalen|VERB	B1	C1	NL_509	Ze hoopte na jaren van hard werken eindelijk haar professionele doelen te behalen.
+respecteren|VERB	B1	A2	NL_511	Wij moeten elkaar respecteren.
+respecteren|VERB	B1	B1-B2	NL_512-NL_513	We moeten elkaars mening respecteren.
+respecteren|VERB	B1	C1	NL_514	Wij moeten elkaars mening respecteren, zelfs als we het er niet mee eens zijn.
+streven|VERB	B1	B1	NL_517	Wij streven naar een duurzame oplossing voor het probleem.
+streven|VERB	B1	B2	NL_518	We streven naar een duurzamere samenleving.
+streven|VERB	B1	C1	NL_519	Zij streven naar een duurzamere samenleving.
+vaststellen|VERB	B1	A2	NL_521	We moeten de datum voor het feest vaststellen.
+vaststellen|VERB	B1	B1	NL_522	De dokter moest de oorzaak van de pijn vaststellen.
+vaststellen|VERB	B1	B2	NL_523	De arts moest de oorzaak van de ziekte vaststellen.
+vaststellen|VERB	B1	C1	NL_524	De wetenschappers proberen de oorzaak van de ziekte vast te stellen.
+noteren|VERB	B1	A1	NL_525	Ik noteer het adres.
+noteren|VERB	B1	A2	NL_526	Ik noteer het nummer.
+noteren|VERB	B1	B1	NL_527	Ik zal de afspraak in mijn agenda noteren.
+noteren|VERB	B1	B2	NL_528	De journalist wilde alle belangrijke details noteren tijdens het interview.
+noteren|VERB	B1	C1	NL_529	De onderzoeker besloot de meest opvallende observaties onmiddellijk te noteren.
+bederven|VERB	B1	A1	NL_530	De melk bederft in de zon.
+bederven|VERB	B1	A2	NL_531	Het eten kan bederven.
+bederven|VERB	B1	B1	NL_532	Het eten kan snel bederven in de zomer.
+bederven|VERB	B1	B2	NL_533	Het brood bederft snel in de zomer.
+bederven|VERB	B1	C1	NL_534	Zijn negatieve houding kon de feestvreugde niet bederven.
+voltooien|VERB	B1	B1	NL_537	Hij wil zijn studie voltooien voordat hij begint met werken.
+voltooien|VERB	B1	B2	NL_538	Hij probeert de taak vandaag te voltooien.
+voltooien|VERB	B1	C1	NL_539	De architect verwacht het ontwerp volgende maand te voltooien.
+voorafgaan|VERB	B1	B1	NL_542	De voorbereiding moet de presentatie altijd voorafgaan.
+voorafgaan|VERB	B1	B2	NL_543	Een goede planning moet de uitvoering altijd voorafgaan.
+voorafgaan|VERB	B1	C1	NL_544	De voorbereidingen moeten altijd voorafgaan aan het evenement.
+struikelen|VERB	B1	A1	NL_545	Ik struikel over de steen.
+struikelen|VERB	B1	A2	NL_546	Ik struikelde over een losse tegel op straat.
+struikelen|VERB	B1	B1	NL_547	Ik struikelde over een losse tegel en viel bijna.
+struikelen|VERB	B1	B2	NL_548	Hij struikelde over een losse tegel en viel bijna.
+struikelen|VERB	B1	C1	NL_549	Hij struikelde over de losse steen op het pad, maar wist net op tijd zijn evenwicht te bewaren.
+overschrijven|VERB	B1	A1	NL_550	Ik overschrijf de woorden.
+overschrijven|VERB	B1	A2	NL_551	Kun je het bedrag naar mijn rekening overschrijven?
+overschrijven|VERB	B1	B1	NL_552	Ik moet de rekening nog overschrijven.
+overschrijven|VERB	B1	B2	NL_553	Ik moet het bedrag naar uw rekening overschrijven.
+overschrijven|VERB	B1	C1	NL_554	We moeten de auto op jouw naam overschrijven bij de RDW.
+bowlen|VERB	B1	A1	NL_555	Ik ga bowlen.
+bowlen|VERB	B1	A2	NL_556	Wij gaan vanavond bowlen.
+bowlen|VERB	B1	B1	NL_557	We gaan vanavond bowlen met vrienden.
+bowlen|VERB	B1	B2	NL_558	We gaan volgende week bowlen met vrienden.
+bowlen|VERB	B1	C1	NL_559	Na een lange werkweek besloten ze te ontspannen door een uurtje te bowlen.
+VERBruiken|VERB	B1	A1	NL_560	Ik verbruik veel water.
+VERBruiken|VERB	B1	A2	NL_561	Wij verbruiken veel energie.
+VERBruiken|VERB	B1	B1	NL_562	We moeten minder water verbruiken.
+VERBruiken|VERB	B1	B2	NL_563	Ze verbruiken minder energie door de goede isolatie van het huis.
+VERBruiken|VERB	B1	C1	NL_564	Het is essentieel dat we bewuster omgaan met de grondstoffen die we dagelijks verbruiken.
+aanleveren|VERB	B1	A2	NL_566	Zij moet de documenten aanleveren.
+aanleveren|VERB	B1	B1	NL_567	Je moet de documenten voor de deadline aanleveren.
+aanleveren|VERB	B1	B2	NL_568	Kunt u de documenten voor vrijdag aanleveren?
+aanleveren|VERB	B1	C1	NL_569	Kunt u de benodigde documenten voor de aanvraag digitaal aanleveren?
+bulderen|VERB	B1	B1	NL_572	De man begon te bulderen van het lachen.
+bulderen|VERB	B1	B2	NL_573	De menigte begon te bulderen van het lachen.
+bulderen|VERB	B1	C1	NL_574	Hij bulderde van het lachen toen hij het verhaal vertelde.
+binnenkrijgen|VERB	B1	A1	NL_575	Ik wil een brief binnenkrijgen.
+binnenkrijgen|VERB	B1	A2	NL_576	Het is belangrijk om genoeg water binnen te krijgen.
+binnenkrijgen|VERB	B1	B1	NL_577	Het is belangrijk om voldoende water binnen te krijgen.
+binnenkrijgen|VERB	B1	B2	NL_578	Hij moest veel water binnenkrijgen na de lange wandeling.
+binnenkrijgen|VERB	B1	C1	NL_579	Het is essentieel om voldoende eiwitten binnen te krijgen na het sporten.
+doorweken|VERB	B1	B1	NL_582	De regen doorweekte zijn kleding volledig.
+doorweken|VERB	B1	B2	NL_583	De regen heeft mijn jas helemaal doorweekt.
+doorweken|VERB	B1	C1	NL_584	De hevige regen had zijn jas volledig doorweekt.
+langsgaan|VERB	B1	A1	NL_585	Ik ga langs bij de bakker.
+langsgaan|VERB	B1	A2	NL_586	Ik zal morgen bij de bakker langsgaan.
+langsgaan|VERB	B1	B1	NL_587	Ik wil morgen bij mijn vriend langsgaan.
+langsgaan|VERB	B1	B2	NL_588	Ik ga morgen langs bij mijn vriendin.
+langsgaan|VERB	B1	C1	NL_589	Ik moet morgen nog even bij de bakker langsgaan voor vers brood.
+opstappen|VERB	B1	A1	NL_590	Ik stap op de bus.
+opstappen|VERB	B1	A2	NL_591	Zij stapt op de bus.
+opstappen|VERB	B1	B1	NL_592	Ik moet snel opstappen, want de bus vertrekt.
+opstappen|VERB	B1	B2	NL_593	De directeur besloot na tien jaar op te stappen.
+opstappen|VERB	B1	C1	NL_594	Na jaren van trouwe dienst besloot de directeur op te stappen.
+meekrijgen|VERB	B1	A1	NL_595	Ik krijg een boek mee.
+meekrijgen|VERB	B1	A2	NL_596	Ik moet een fles water meekrijgen voor de reis.
+meekrijgen|VERB	B1	B1	NL_597	Ik hoop dat ik genoeg water meekrijg voor de reis.
+meekrijgen|VERB	B1	B2	NL_598	Ik heb een lunchpakket meegekregen van mijn moeder.
+meekrijgen|VERB	B1	C1	NL_599	De werknemers konden de belangrijke boodschap van de directeur goed meekrijgen.
+aanbedene|NOUN	B2	B2	NL_603	De dichter schreef een gedicht voor zijn aanbedene.
+aanbedene|NOUN	B2	C1	NL_604	De ridder zong een lied voor zijn aanbedene.
+sportheld|NOUN	B2	A1	NL_605	Mijn broer is een sportheld.
+sportheld|NOUN	B2	A2	NL_606	Mijn favoriete sportheld is een tennisser.
+sportheld|NOUN	B2	B1	NL_607	Veel kinderen zien hem als hun sportheld.
+sportheld|NOUN	B2	B2	NL_608	De jonge atleet droomt ervan om ooit een grote sportheld te worden.
+sportheld|NOUN	B2	C1	NL_609	De jonge atleet droomde ervan ooit een erkende sportheld te worden.
+aanhang|NOUN	B2	A2	NL_611	De zanger heeft veel aanhang.
+aanhang|NOUN	B2	B1	NL_612	De band heeft veel aanhang bij jongeren.
+aanhang|NOUN	B2	B2	NL_613	De politieke partij heeft veel aanhang onder jongeren.
+aanhang|NOUN	B2	C1	NL_614	De politicus sprak zijn aanhang toe op het plein.
+proefpersoon|NOUN	B2	B1	NL_617	De proefpersoon kreeg een nieuw medicijn.
+proefpersoon|NOUN	B2	B2	NL_618	De proefpersoon moest een vragenlijst invullen.
+proefpersoon|NOUN	B2	C1	NL_619	De proefpersoon vulde een gedetailleerde vragenlijst in over zijn ervaringen tijdens de studie.
+bemiddelaar|NOUN	B2	B1	NL_622	De bemiddelaar probeerde een compromis te vinden.
+bemiddelaar|NOUN	B2	B2	NL_623	De bemiddelaar hielp de partijen een akkoord te bereiken.
+bemiddelaar|NOUN	B2	C1	NL_624	De bemiddelaar slaagde erin een oplossing te vinden die voor beide partijen acceptabel was.
+entourage|NOUN	B2	B1	NL_627	De artiest was met zijn entourage op het feest.
+entourage|NOUN	B2	B2	NL_628	De zangeres verscheen met haar entourage op het podium.
+entourage|NOUN	B2	C1	NL_629	De minister verscheen op de receptie met haar vaste entourage.
+middenweg|NOUN	B2	A2	NL_631	We moeten een middenweg vinden.
+middenweg|NOUN	B2	B1	NL_632	We moeten een middenweg vinden om tot een akkoord te komen.
+middenweg|NOUN	B2	B2	NL_633	Ze vonden een middenweg die voor iedereen acceptabel was.
+middenweg|NOUN	B2	C1	NL_634	Na een lang debat vonden de partijen uiteindelijk een middenweg die voor iedereen acceptabel was.
+parket|NOUN	B2	A1-A2	NL_635-NL_636	Het parket is nieuw.
+parket|NOUN	B2	B1	NL_637	Het parket in de hal glanst prachtig.
+parket|NOUN	B2	B2	NL_638	Het nieuwe appartement heeft mooi parket in de hal.
+parket|NOUN	B2	C1	NL_639	De advocaat sprak met het parket over de lopende rechtszaak.
+admiraal|NOUN	B2	A2	NL_641	De admiraal is op het schip.
+admiraal|NOUN	B2	B1	NL_642	De admiraal droeg een uniform.
+admiraal|NOUN	B2	B2	NL_643	De admiraal leidde de vloot door de storm.
+admiraal|NOUN	B2	C1	NL_644	De admiraal leidde de vloot door de stormachtige zee.
+accolade|NOUN	B2	C1	NL_649	De jonge wetenschapper ontving een prestigieuze accolade voor zijn baanbrekend onderzoek.
+avonduur|NOUN	B2	A1	NL_650	Ik hou van avontuur.
+avonduur|NOUN	B2	A2	NL_651	Het was een groot avontuur.
+avonduur|NOUN	B2	B1	NL_652	We beleefden een spannend avontuur in het bos.
+avonduur|NOUN	B2	B2	NL_653	Hij droomde van een groot avontuur in een ver land.
+avonduur|NOUN	B2	C1	NL_654	Tijdens de avonduur verzamelden de vrienden zich voor een laatste drankje.
+bedrijfsverzamelgebouw|NOUN	B2	B1	NL_657	Mijn kantoor bevindt zich in een modern bedrijfsverzamelgebouw.
+bedrijfsverzamelgebouw|NOUN	B2	B2	NL_658	Ons bedrijf huurt een kantoorruimte in een groot bedrijfsverzamelgebouw.
+bedrijfsverzamelgebouw|NOUN	B2	C1	NL_659	Veel start-ups kiezen voor een plek in een bedrijfsverzamelgebouw vanwege de gedeelde faciliteiten en netwerkmogelijkheden.
+bewind|NOUN	B2	B2	NL_663	Onder het nieuwe bewind zijn er veel veranderingen gekomen.
+bewind|NOUN	B2	C1	NL_664	Onder het nieuwe bewind werden diverse economische hervormingen geïnitieerd.
+blunder|NOUN	B2	A2	NL_666	Hij maakte een blunder.
+blunder|NOUN	B2	B1	NL_667	Ik heb een blunder gemaakt.
+blunder|NOUN	B2	B2	NL_668	De politicus maakte een enorme blunder tijdens het debat.
+blunder|NOUN	B2	C1	NL_669	Zijn politieke blunder leidde tot veel kritiek in de media.
+computerforum|NOUN	B2	B1	NL_672	Ik heb een vraag op het computerforum gesteld.
+computerforum|NOUN	B2	B2	NL_673	Ik heb mijn vraag over de software op een computerforum gesteld.
+computerforum|NOUN	B2	C1	NL_674	Ik heb veel geleerd door actief te zijn op dat computerforum.
+dienstensector|NOUN	B2	B1	NL_677	De dienstensector groeit snel in ons land.
+dienstensector|NOUN	B2	B2	NL_678	De dienstensector speelt een grote rol in de moderne economie.
+dienstensector|NOUN	B2	C1	NL_679	De dienstensector speelt een cruciale rol in de economie van veel ontwikkelde landen.
+extase|NOUN	B2	B1	NL_682	Het publiek was in extase na het concert.
+extase|NOUN	B2	B2	NL_683	De menigte was in pure extase toen de band begon te spelen.
+extase|NOUN	B2	C1	NL_684	Zijn gezicht straalde van extase na het horen van het goede nieuws.
+fietsstad|NOUN	B2	A1	NL_685	Amsterdam is een fietsstad.
+fietsstad|NOUN	B2	A2	NL_686	Utrecht is een bekende fietsstad.
+fietsstad|NOUN	B2	B1	NL_687	Utrecht is een echte fietsstad.
+fietsstad|NOUN	B2	B2	NL_688	Utrecht staat bekend als een echte fietsstad.
+fietsstad|NOUN	B2	C1	NL_689	Utrecht is bekend als een uitstekende fietsstad.
+halfgod|NOUN	B2	B2	NL_698	Hercules was een krachtige halfgod in de Griekse mythologie.
+halfgod|NOUN	B2	C1	NL_699	Hercules werd beschouwd als een halfgod vanwege zijn buitengewone kracht en moed.
+kapen|VERB	B2	B1	NL_702	De terroristen probeerden het vliegtuig te kapen.
+kapen|VERB	B2	B2	NL_703	De piraten probeerden het schip te kapen.
+kapen|VERB	B2	C1	NL_704	Ze slaagden erin de overwinning in de laatste minuten van de wedstrijd te kapen.
+beletten|VERB	B2	B1	NL_707	De regen belette ons om te vertrekken.
+beletten|VERB	B2	B2	NL_708	De hevige regen belette ons om verder te fietsen.
+beletten|VERB	B2	C1	NL_709	De hevige regen belette ons om buiten te sporten.
+bemannen|VERB	B2	B1	NL_712	Een klein team kan de receptie bemannen.
+bemannen|VERB	B2	B2	NL_713	De organisatie heeft moeite om genoeg vrijwilligers te vinden om de stand te bemannen.
+bemannen|VERB	B2	C1	NL_714	Het bedrijf moest extra personeel aannemen om alle afdelingen adequaat te bemannen.
+aanvoelen|VERB	B2	A1	NL_715	De trui voelt zacht aan.
+aanvoelen|VERB	B2	A2	NL_716	De deken voelt warm aan.
+aanvoelen|VERB	B2	B1	NL_717	De trui voelt warm aan.
+aanvoelen|VERB	B2	B2	NL_718	Het materiaal voelt erg glad aan.
+aanvoelen|VERB	B2	C1	NL_719	Hij kon altijd goed aanvoelen wat de stemming in de groep was.
+dwepen|VERB	B2	B1	NL_722	Ze dweept met haar favoriete band.
+dwepen|VERB	B2	B2	NL_723	Veel jonge fans dwepen met de nieuwe popster.
+dwepen|VERB	B2	C1	NL_724	Zij dweepte met de nieuwe kunstenaar, zelfs voordat zijn werk bekend werd.
+dichtslibben|VERB	B2	B1	NL_727	De afvoer in de keuken kan snel dichtslibben.
+dichtslibben|VERB	B2	B2	NL_728	De riolering kan dichtslibben als er te veel vet in komt.
+dichtslibben|VERB	B2	C1	NL_729	Door een ongezonde levensstijl kunnen de bloedvaten dichtslibben.
+waarborgen|VERB	B2	B1	NL_732	De school wil de kwaliteit van het onderwijs waarborgen.
+waarborgen|VERB	B2	B2	NL_733	Het is belangrijk om de kwaliteit van het product te waarborgen.
+waarborgen|VERB	B2	C1	NL_734	De regering moet de rechten van haar burgers waarborgen.
+verteren|VERB	B2	A2	NL_736	Ik kan dit eten goed verteren.
+verteren|VERB	B2	B1	NL_737	Het lichaam heeft tijd nodig om het eten te verteren.
+verteren|VERB	B2	B2	NL_738	Het lichaam kan dit voedsel snel verteren.
+verteren|VERB	B2	C1	NL_739	Het kostte hem tijd om de kritiek te verteren.
+afblazen|VERB	B2	A2	NL_741	We moeten de vergadering afblazen.
+afblazen|VERB	B2	B1	NL_742	Ze hebben het concert afgeblazen vanwege het slechte weer.
+afblazen|VERB	B2	B2	NL_743	Ze moesten de vergadering afblazen.
+afblazen|VERB	B2	C1	NL_744	Ze besloten de bijeenkomst op het laatste moment af te blazen.
+aanreiken|VERB	B2	A2	NL_746	Ik reik je de pen aan.
+aanreiken|VERB	B2	B1	NL_747	De ober reikte de menukaart aan de gast.
+aanreiken|VERB	B2	B2	NL_748	De docent probeerde de studenten praktische tips aan te reiken.
+aanreiken|VERB	B2	C1	NL_749	De conferentie zal de deelnemers waardevolle inzichten aanreiken.
+behelpen|VERB	B2	B1	NL_752	Ze moest zich behelpen met wat er was.
+behelpen|VERB	B2	B2	NL_753	We moeten ons met weinig middelen behelpen.
+behelpen|VERB	B2	C1	NL_754	Hij moest zich behelpen met zijn beperkte budget voor de reis.
+bevoorrechten|VERB	B2	B2	NL_758	De school wilde geen leerlingen bevoorrechten.
+bevoorrechten|VERB	B2	C1	NL_759	Sommige beleidsmaatregelen dreigen bepaalde groepen te bevoorrechten.
+bijvoegen|VERB	B2	A2	NL_761	Ik zal de foto bijvoegen.
+bijvoegen|VERB	B2	B1	NL_762	Ik zal de foto bijvoegen bij mijn e-mail.
+bijvoegen|VERB	B2	B2	NL_763	Vergeet niet de gevraagde documenten bij uw aanvraag bij te voegen.
+bijvoegen|VERB	B2	C1	NL_764	Graag willen we de meest recente cijfers bijvoegen bij dit rapport.
+deponeren|VERB	B2	B1	NL_767	U kunt uw klacht deponeren bij de balie.
+deponeren|VERB	B2	B2	NL_768	Ik wil dit geld op mijn spaarrekening deponeren.
+deponeren|VERB	B2	C1	NL_769	Je moet de formulieren voor het einde van de maand deponeren.
+dicteren|VERB	B2	A2	NL_771	De leraar dicteert de zinnen langzaam.
+dicteren|VERB	B2	B1	NL_772	De leraar ging de zinnen dicteren.
+dicteren|VERB	B2	B2	NL_773	De leraar dicteerde de woorden langzaam zodat iedereen kon meeschrijven.
+dicteren|VERB	B2	C1	NL_774	De secretaresse dicteerde de notulen aan de transcriptionist.
+doordrukken|VERB	B2	A2	NL_776	Ik moest de knop hard doordrukken.
+doordrukken|VERB	B2	B1	NL_777	De minister besloot het voorstel doordrukken.
+doordrukken|VERB	B2	B2	NL_778	Hij besloot zijn mening doordrukken, ook al was niet iedereen het ermee eens.
+doordrukken|VERB	B2	C1	NL_779	Ondanks de aanvankelijke weerstand heeft de directie het voorstel toch doorgedrukt.
+handtekenen|VERB	B2	A2	NL_781	Wil je hier handtekenen?
+handtekenen|VERB	B2	B1	NL_782	Voordat je weggaat, moet je dit formulier handtekenen.
+handtekenen|VERB	B2	B2	NL_783	Ik moet nog een paar documenten handtekenen.
+handtekenen|VERB	B2	C1	NL_784	Voordat de overeenkomst geldig is, moeten alle partijen de documenten handtekenen.
+gewichtheffen|VERB	B2	A2	NL_786	Ik ga elke week gewichtheffen.
+gewichtheffen|VERB	B2	B1	NL_787	Ik ga gewichtheffen in de sportschool.
+gewichtheffen|VERB	B2	B2	NL_788	Hij gewichtheft elke ochtend om sterk te blijven.
+gewichtheffen|VERB	B2	C1	NL_789	Hij gaat elke dinsdag gewichtheffen in de sportschool.
+klaren|VERB	B2	A2	NL_791	Ik moet deze taak klaren.
+klaren|VERB	B2	B1-C1	NL_792-NL_794	We moeten deze taak vandaag nog klaren.
+klaren|VERB	B2	B2	NL_793	Hij moet deze taak vandaag nog klaren.
+interpelleren|VERB	B2	C1	NL_799	De Kamerleden besloten de minister te interpelleren over het gevoelige onderwerp.
+rijgedrag|NOUN	C1	A2	NL_801	Zijn rijgedrag is niet veilig.
+rijgedrag|NOUN	C1	B1	NL_802	Hij moet zijn rijgedrag aanpassen.
+rijgedrag|NOUN	C1	B2	NL_803	Zijn rijgedrag op de snelweg was gevaarlijk.
+rijgedrag|NOUN	C1	C1	NL_804	Zijn rijgedrag was de laatste tijd aanzienlijk verbeterd, wat de verkeersveiligheid ten goede kwam.
+uitvinding|NOUN	C1	A1	NL_805	De telefoon is een uitvinding.
+uitvinding|NOUN	C1	A2	NL_806	De gloeilamp was een belangrijke uitvinding.
+uitvinding|NOUN	C1	B1	NL_807	De smartphone is een geweldige uitvinding.
+uitvinding|NOUN	C1	B2	NL_808	De elektrische auto is een moderne uitvinding.
+uitvinding|NOUN	C1	C1	NL_809	De revolutionaire uitvinding van de printer heeft de verspreiding van kennis enorm versneld.
+parasol|NOUN	C1	A1	NL_810	De parasol is rood.
+parasol|NOUN	C1	A2	NL_811	De parasol staat in de tuin.
+parasol|NOUN	C1	B1	NL_812	We zitten onder de parasol in de tuin.
+parasol|NOUN	C1	B2	NL_813	We zetten de parasol op in de tuin.
+parasol|NOUN	C1	C1	NL_814	De kleurrijke parasol bood de nodige schaduw tijdens de heetste uren van de dag.
+herverdeling|NOUN	C1	B1	NL_817	De herverdeling van de taken is belangrijk.
+herverdeling|NOUN	C1	B2	NL_818	De herverdeling van taken was noodzakelijk.
+herverdeling|NOUN	C1	C1	NL_819	De herverdeling van rijkdom is een belangrijk politiek thema.
+wereldorde|NOUN	C1	B2	NL_823	De opkomst van nieuwe machten beïnvloedt de wereldorde.
+wereldorde|NOUN	C1	C1	NL_824	De stabiliteit van de wereldorde is een belangrijk onderwerp voor internationale politiek.
+schadeclaim|NOUN	C1	B1	NL_827	De verzekering heeft mijn schadeclaim goedgekeurd.
+schadeclaim|NOUN	C1	B2	NL_828	De verzekeringsmaatschappij behandelt de schadeclaim.
+schadeclaim|NOUN	C1	C1	NL_829	De advocaat hielp haar met de schadeclaim.
+alleenrecht|NOUN	C1	B2	NL_833	De uitvinder heeft het alleenrecht op zijn nieuwe product.
+alleenrecht|NOUN	C1	C1	NL_834	Het bedrijf heeft het alleenrecht op de verkoop van dit product in de regio.
+afvoerbuis|NOUN	C1	B1	NL_837	De afvoerbuis van de gootsteen is kapot.
+afvoerbuis|NOUN	C1	B2	NL_838	Er zit een lek in de afvoerbuis onder de wastafel.
+afvoerbuis|NOUN	C1	C1	NL_839	De loodgieter heeft de verstopte afvoerbuis vervangen.
+bedrijfswereld|NOUN	C1	B1	NL_842	Hij wil graag een carrière maken in de bedrijfswereld.
+bedrijfswereld|NOUN	C1	B2	NL_843	De bedrijfswereld is voortdurend in beweging en vereist flexibiliteit.
+bedrijfswereld|NOUN	C1	C1	NL_844	De bedrijfswereld is voortdurend in beweging, wat nieuwe uitdagingen met zich meebrengt.
+biodiversiteit|NOUN	C1	B1	NL_847	De biodiversiteit is belangrijk voor het milieu.
+biodiversiteit|NOUN	C1	B2	NL_848	De bescherming van biodiversiteit is essentieel voor een gezonde planeet.
+biodiversiteit|NOUN	C1	C1	NL_849	Het behoud van biodiversiteit is cruciaal voor een gezond ecosysteem.
+complicatie|NOUN	C1	B1	NL_852	De operatie verliep zonder complicaties.
+complicatie|NOUN	C1	B2	NL_853	De operatie had een onverwachte complicatie.
+complicatie|NOUN	C1	C1	NL_854	De operatie verliep zonder enige complicatie.
+computersatelliet|NOUN	C1	B1	NL_857	De computersatelliet stuurt signalen naar de aarde.
+computersatelliet|NOUN	C1	B2	NL_858	De computersatelliet verstuurt belangrijke informatie naar het grondstation.
+computersatelliet|NOUN	C1	C1	NL_859	De computersatelliet verstuurt signalen naar de basis op aarde.
+discretie|NOUN	C1	B1	NL_862	Ik vraag u om discretie.
+discretie|NOUN	C1	B2	NL_863	Hij vroeg om discretie over de gevoelige informatie.
+discretie|NOUN	C1	C1	NL_864	We verwachten van al onze medewerkers de grootste discretie met gevoelige informatie.
+drughandelaar|NOUN	C1	B1	NL_867	De politie heeft de drughandelaar gearresteerd.
+drughandelaar|NOUN	C1	B2	NL_868	De politie heeft de drughandelaar na een lange zoektocht eindelijk opgepakt.
+drughandelaar|NOUN	C1	C1	NL_869	De politie heeft de drughandelaar na intensief onderzoek kunnen arresteren.
+futuroloog|NOUN	C1	B2	NL_873	De futuroloog gaf een interessante presentatie over trends voor de komende twintig jaar.
+futuroloog|NOUN	C1	C1	NL_874	De futuroloog presenteerde zijn visie op de maatschappelijke veranderingen van de komende decennia.
+geldkoffer|NOUN	C1	A1	NL_875	De geldkoffer is zwaar.
+geldkoffer|NOUN	C1	A2	NL_876	De man draagt een geldkoffer.
+geldkoffer|NOUN	C1	B1	NL_877	Hij opende de geldkoffer en telde het geld.
+geldkoffer|NOUN	C1	B2	NL_878	Zij droeg een zware geldkoffer naar de bank.
+geldkoffer|NOUN	C1	C1	NL_879	De detective vond de geldkoffer onder het bed in de hotelkamer.
+informatica|NOUN	C1	A2-B2	NL_881-NL_883	Mijn zus studeert informatica aan de universiteit.
+informatica|NOUN	C1	B1	NL_882	Ik vind informatica een interessant vak.
+informatica|NOUN	C1	C1	NL_884	Veel studenten kiezen voor informatica vanwege de uitstekende carrièreperspectieven.
+graffitikunstenaar|NOUN	C1	A2	NL_886	De graffitikunstenaar maakt mooie kunst op de muur.
+graffitikunstenaar|NOUN	C1	B1	NL_887	De graffitikunstenaar werkt aan een nieuw kunstwerk.
+graffitikunstenaar|NOUN	C1	B2	NL_888	De graffitikunstenaar creëerde een kleurrijk kunstwerk op de blinde muur.
+graffitikunstenaar|NOUN	C1	C1	NL_889	De graffitikunstenaar transformeerde de saaie muur in een levendig kunstwerk.
+koopgedrag|NOUN	C1	B1	NL_892	De reclame beïnvloedt het koopgedrag van mensen.
+koopgedrag|NOUN	C1	B2	NL_893	Het koopgedrag van consumenten verandert snel.
+koopgedrag|NOUN	C1	C1	NL_894	Het bedrijf bestudeert het koopgedrag van consumenten om trends te identificeren.
+integriteit|NOUN	C1	B1	NL_897	Hij staat bekend om zijn integriteit.
+integriteit|NOUN	C1	B2	NL_898	Zijn integriteit is een belangrijke kwaliteit voor deze functie.
+integriteit|NOUN	C1	C1	NL_899	Zijn integriteit werd door iedereen gewaardeerd.
+hergebruiken|VERB	C1	A2	NL_901	We kunnen deze flessen hergebruiken.
+hergebruiken|VERB	C1	B1	NL_902	We moeten plastic flessen hergebruiken voor een beter milieu.
+hergebruiken|VERB	C1	B2	NL_903	We moeten proberen meer materialen te hergebruiken.
+hergebruiken|VERB	C1	C1	NL_904	We moeten oude materialen hergebruiken om het milieu te beschermen.
+manipuleren|VERB	C1	B1	NL_907	Het is verkeerd om mensen te manipuleren.
+manipuleren|VERB	C1	B2	NL_908	Het is belangrijk om je niet door anderen te laten manipuleren.
+manipuleren|VERB	C1	C1	NL_909	Hij probeerde de cijfers te manipuleren om een beter resultaat te laten zien.
+offeren|VERB	C1	B1	NL_912	De soldaat offerde zijn leven voor zijn land.
+offeren|VERB	C1	B2	NL_913	De soldaat was bereid zijn leven te offeren voor zijn land.
+offeren|VERB	C1	C1	NL_914	De soldaten waren bereid hun leven te offeren voor hun land.
+ontfutselen|VERB	C1	B2	NL_918	De journalist probeerde de politicus een primeur te ontfutselen.
+ontfutselen|VERB	C1	C1	NL_919	De journalist probeerde de politicus een geheim te ontfutselen.
+afschilderen|VERB	C1	B1	NL_922	Hij probeert zijn vriend als een grappig persoon af te schilderen.
+afschilderen|VERB	C1	B2	NL_923	De film probeerde de hoofdpersoon als een held af te schilderen.
+afschilderen|VERB	C1	C1	NL_924	De media probeerde hem als onbetrouwbaar af te schilderen.
+aanwenden|VERB	C1	B2	NL_928	We moeten onze middelen verstandig aanwenden om ons doel te bereiken.
+aanwenden|VERB	C1	C1	NL_929	De directeur besloot alle beschikbare middelen aan te wenden om het project te redden.
+assisteren|VERB	C1	B1	NL_932	Zij zal haar collega assisteren bij het project.
+assisteren|VERB	C1	B2	NL_933	De stagiair zal de projectmanager assisteren bij de presentatie volgende week.
+assisteren|VERB	C1	C1	NL_934	De student mocht de professor assisteren bij haar onderzoek.
+baren|VERB	C1	A2	NL_936	De vrouw baart een baby.
+baren|VERB	C1	B1	NL_937	De vrouw heeft een gezonde baby gebaard.
+baren|VERB	C1	B2	NL_938	De poes baarde drie kittens in het mandje.
+baren|VERB	C1	C1	NL_939	Het plan baart zorgen bij de directie.
+bestraffen|VERB	C1	A2	NL_941	De rechter moet de dief bestraffen.
+bestraffen|VERB	C1	B1	NL_942	De politie bestraft mensen die te snel rijden.
+bestraffen|VERB	C1	B2	NL_943	De rechter zal de dader bestraffen voor zijn misdaad.
+bestraffen|VERB	C1	C1	NL_944	De rechter besloot de dader zwaar te bestraffen.
+bedelven|VERB	C1	B1	NL_947	De kinderen bedolven hun speelgoed onder het zand.
+bedelven|VERB	C1	B2	NL_948	Na de aardbeving werden veel huizen onder puin bedolven.
+bedelven|VERB	C1	C1	NL_949	Na haar indrukwekkende presentatie werd ze bedolven onder vragen van het publiek.
+binnenvallen|VERB	C1	A2	NL_951	De soldaten vielen de stad binnen.
+binnenvallen|VERB	C1	B1	NL_952	Mijn vrienden willen vanavond even binnenvallen.
+binnenvallen|VERB	C1	B2	NL_953	Plotseling viel er een onverwachte gast binnen.
+binnenvallen|VERB	C1	C1	NL_954	Het viel me net binnen dat ik nog een afspraak heb.
+fokken|VERB	C1	A2	NL_956	De boer fokt koeien.
+fokken|VERB	C1	B1	NL_957	Veel boeren fokken koeien voor melk.
+fokken|VERB	C1	B2	NL_958	Mijn opa en oma fokken al jaren Duitse herders.
+fokken|VERB	C1	C1	NL_959	Het is een uitdaging om zeldzame soorten in gevangenschap te fokken.
+herverdelen|VERB	C1	A2	NL_961	We moeten de taken herverdelen.
+herverdelen|VERB	C1	B1	NL_962	We moeten de taken herverdelen in de groep.
+herverdelen|VERB	C1	B2	NL_963	De overheid wil de taken herverdelen.
+herverdelen|VERB	C1	C1	NL_964	Het is essentieel om de taken binnen het team eerlijk te herverdelen om de werkdruk te verminderen.
+glippen|VERB	C1	A2	NL_966	De beker glipte uit mijn hand.
+glippen|VERB	C1	B1	NL_967	Ik glipte bijna over de natte vloer.
+glippen|VERB	C1	B2	NL_968	De zeep glipte uit haar handen.
+glippen|VERB	C1	C1	NL_969	De dief probeerde ongezien langs de bewakers te glippen.
+lozen|VERB	C1	B1	NL_972	Je mag hier geen afval lozen.
+lozen|VERB	C1	B2	NL_973	De tanker moest zijn olie in de haven lozen.
+lozen|VERB	C1	C1	NL_974	De fabriek moest het vervuilde water lozen.
+kiepen|VERB	C1	A2	NL_976	De kar kan kiepen als hij te vol is.
+kiepen|VERB	C1	B1	NL_977	De emmer water kiepte om.
+kiepen|VERB	C1	B2	NL_978	De emmer kiepte over.
+kiepen|VERB	C1	C1	NL_979	De boot kiepte gevaarlijk heen en weer in de storm.
+motoriseren|VERB	C1	B2	NL_983	Ze besloten hun oude boot te motoriseren om sneller te varen.
+motoriseren|VERB	C1	C1	NL_984	De overheid probeert afgelegen gebieden te motoriseren om de economie te stimuleren.
+meepikken|VERB	C1	A2	NL_986	Ik ga onderweg een broodje meepikken.
+meepikken|VERB	C1	B1	NL_987	Ik wil die interessante lezing graag meepikken.
+meepikken|VERB	C1	B2	NL_988	De kinderen wilden de laatste aflevering van hun favoriete serie meepikken.
+meepikken|VERB	C1	C1	NL_989	Ik hoop dat ik dat concert kan meepikken.
+ondermijnen|VERB	C1	B1	NL_992	Slecht slapen kan je energie ondermijnen.
+ondermijnen|VERB	C1	B2	NL_993	Zijn acties dreigen het project te ondermijnen.
+ondermijnen|VERB	C1	C1	NL_994	Door roddels te verspreiden, probeerde hij haar reputatie te ondermijnen.
+nijpen|VERB	C1	A1	NL_995	Mijn schoenen nijpen.
+nijpen|VERB	C1	A2	NL_996	Mijn nieuwe schoenen nijpen een beetje.
+nijpen|VERB	C1	B1	NL_997	De nieuwe schoenen nijpen aan mijn tenen.
+nijpen|VERB	C1	B2	NL_998	De kou begon te nijpen toen de zon onderging.
+nijpen|VERB	C1	C1	NL_999	De tijd begint te nijpen voor de deadline.

@@ -1,0 +1,763 @@
+word_entry	word_level_CEFRLex	sentence_level_generated	sentence_ID	sentence_text
+caso|NOUN	A1	A1	ES_0	En este caso, sí.
+caso|NOUN	A1	A2	ES_1	En este caso, la tienda está cerrada.
+caso|NOUN	A1	B1	ES_2	En este caso, necesitamos más información.
+caso|NOUN	A1	B2	ES_3	Necesitamos analizar este caso con más detalle.
+caso|NOUN	A1	C1	ES_4	La empresa presentó un caso sólido para justificar la inversión en nuevas tecnologías.
+cambio|NOUN	A1	A1	ES_5	Tengo cambio para el autobús.
+cambio|NOUN	A1	A2	ES_6	Necesito un cambio de ropa.
+cambio|NOUN	A1	B1	ES_7	Hubo un cambio en el plan.
+cambio|NOUN	A1	B2	ES_8	El cambio climático es un tema importante en las noticias.
+cambio|NOUN	A1	C1	ES_9	El cambio climático es uno de los mayores desafíos de nuestra era.
+aspecto|NOUN	A1	A1	ES_10	La casa tiene un aspecto moderno.
+aspecto|NOUN	A1	A2	ES_11	El aspecto de la ciudad es muy bonito.
+aspecto|NOUN	A1	B1	ES_12	Su aspecto es muy diferente ahora.
+aspecto|NOUN	A1	B2	ES_13	Es importante considerar todos los aspectos antes de tomar una decisión.
+aspecto|NOUN	A1	C1	ES_14	El aspecto más desafiante de la investigación fue la recolección de datos.
+luz|NOUN	A1	A1	ES_15	La luz es blanca.
+luz|NOUN	A1	A2	ES_16	Enciendo la luz cuando está oscuro.
+luz|NOUN	A1	B1	ES_17	Necesitamos más luz en esta habitación.
+luz|NOUN	A1	B2	ES_18	El edificio tiene mucha luz natural gracias a sus grandes ventanas.
+luz|NOUN	A1	C1	ES_19	El nuevo descubrimiento arroja luz sobre los orígenes de la enfermedad.
+objetivo|NOUN	A1	A1	ES_20	Mi objetivo es aprender español.
+objetivo|NOUN	A1	A2	ES_21	Mi objetivo es terminar el trabajo hoy.
+objetivo|NOUN	A1	B1	ES_22	Mi objetivo es terminar este libro antes del domingo.
+objetivo|NOUN	A1	B2	ES_23	Nuestro principal objetivo es terminar el proyecto a tiempo.
+objetivo|NOUN	A1	C1	ES_24	Nuestro objetivo principal es reducir las emisiones de carbono.
+importancia|NOUN	A1	A2	ES_26	La salud tiene mucha importancia.
+importancia|NOUN	A1	B1	ES_27	La educación tiene mucha importancia en la vida.
+importancia|NOUN	A1	B2	ES_28	La educación tiene gran importancia para el futuro.
+importancia|NOUN	A1	C1	ES_29	La importancia de la investigación científica en el desarrollo humano es innegable.
+copa|NOUN	A1	A1	ES_30	La copa está en la mesa.
+copa|NOUN	A1	A2	ES_31	Quiero una copa de agua, por favor.
+copa|NOUN	A1	B1	ES_32	Ella levantó su copa para brindar.
+copa|NOUN	A1	B2	ES_33	Ganaron la copa del torneo.
+copa|NOUN	A1	C1	ES_34	El equipo celebró con euforia la victoria en la copa nacional.
+producción|NOUN	A1	A1	ES_35	La producción de leche es mucha.
+producción|NOUN	A1	A2	ES_36	La producción de la fábrica es grande.
+producción|NOUN	A1	B1	ES_37	La producción de la fábrica es muy alta este mes.
+producción|NOUN	A1	B2	ES_38	La producción de la fábrica aumentó el mes pasado.
+producción|NOUN	A1	C1	ES_39	La producción literaria de la autora se caracteriza por su estilo innovador.
+técnica|NOUN	A1	A2	ES_41	Esta técnica es difícil.
+técnica|NOUN	A1	B1	ES_42	Aprendimos una nueva técnica en la clase de arte.
+técnica|NOUN	A1	B2	ES_43	Para pintar bien, se necesita una buena técnica.
+técnica|NOUN	A1	C1	ES_44	La técnica que emplearon para la restauración del cuadro era innovadora y muy efectiva.
+vuelo|NOUN	A1	A1	ES_45	El vuelo sale a las diez.
+vuelo|NOUN	A1	A2	ES_46	El vuelo a Madrid sale pronto.
+vuelo|NOUN	A1	B1	ES_47	El vuelo a Londres sale en dos horas.
+vuelo|NOUN	A1	B2	ES_48	El vuelo a París se retrasó dos horas.
+vuelo|NOUN	A1	C1	ES_49	El ensayo final de la obra mostró un vuelo artístico que sorprendió a todos.
+oro|NOUN	A1	A1-A2	ES_50-ES_51	El anillo es de oro.
+oro|NOUN	A1	B1	ES_52	Ella lleva un collar de oro.
+oro|NOUN	A1	B2	ES_53	La medalla de oro fue entregada al atleta ganador.
+oro|NOUN	A1	C1	ES_54	El oro, como metal precioso, ha sido siempre un símbolo de riqueza y poder.
+costumbre|NOUN	A1	A1	ES_55	Es mi costumbre beber café por la mañana.
+costumbre|NOUN	A1	A2	ES_56	Es mi costumbre leer antes de dormir.
+costumbre|NOUN	A1	B1	ES_57	Es mi costumbre tomar café por la mañana.
+costumbre|NOUN	A1	B2	ES_58	Es una costumbre antigua en este pueblo.
+costumbre|NOUN	A1	C1	ES_59	La antigua costumbre de la siesta persiste en muchas regiones, a pesar de los cambios modernos.
+desierto|NOUN	A1	A1	ES_60	El camello vive en el desierto.
+desierto|NOUN	A1	A2	ES_61	El desierto tiene mucha arena.
+desierto|NOUN	A1	B1	ES_62	En el desierto hace mucho calor durante el día.
+desierto|NOUN	A1	B2	ES_63	Cruzamos el desierto en coche para llegar al otro lado.
+desierto|NOUN	A1	C1	ES_64	La vida en el desierto requiere una adaptación extrema a las condiciones áridas.
+volcán|NOUN	A1	A1	ES_65	El volcán es grande.
+volcán|NOUN	A1	A2	ES_66	El volcán es muy grande.
+volcán|NOUN	A1	B1	ES_67	Hay un volcán en la isla.
+volcán|NOUN	A1	B2	ES_68	El volcán Popocatépetl es muy famoso en México.
+volcán|NOUN	A1	C1	ES_69	Los geólogos monitorean constantemente el volcán, cuya actividad sísmica ha aumentado ligeramente.
+cristal|NOUN	A1	A1-A2	ES_70-ES_71	El vaso es de cristal.
+cristal|NOUN	A1	B1	ES_72	Limpié el cristal de la ventana.
+cristal|NOUN	A1	B2	ES_73	La mesa de centro es de cristal.
+cristal|NOUN	A1	C1	ES_74	La metáfora del cristal roto a menudo representa la fragilidad de las relaciones humanas.
+gastronomía|NOUN	A1	B1	ES_77	Me encanta la gastronomía italiana.
+gastronomía|NOUN	A1	B2	ES_78	La gastronomía de esta región es muy famosa.
+gastronomía|NOUN	A1	C1	ES_79	La gastronomía de la región se distingue por la fusión de influencias indígenas y coloniales.
+tontería|NOUN	A1	A1	ES_80	Eso es una tontería.
+tontería|NOUN	A1	A2	ES_81	No digas tonterías.
+tontería|NOUN	A1	B1	ES_82	Lo que dijo fue una tontería.
+tontería|NOUN	A1	B2	ES_83	Lo que dijo sobre el proyecto fue una tontería.
+tontería|NOUN	A1	C1	ES_84	Deja de decir tonterías y concéntrate en lo importante.
+marisco|NOUN	A1	A1	ES_85	Me gusta el marisco.
+marisco|NOUN	A1	A2	ES_86	Me gusta comer marisco en la playa.
+marisco|NOUN	A1	B1	ES_87	A mi padre le encanta el marisco.
+marisco|NOUN	A1	B2	ES_88	Me gusta comer marisco fresco en los restaurantes de la costa.
+marisco|NOUN	A1	C1	ES_89	Prepararon una paella de marisco para la cena.
+científico|NOUN	A1	A1	ES_90	Él es un científico.
+científico|NOUN	A1	A2	ES_91	El científico trabaja en el laboratorio.
+científico|NOUN	A1	B1	ES_92	El científico trabaja en un laboratorio.
+científico|NOUN	A1	B2	ES_93	El científico presentó su investigación en la conferencia.
+científico|NOUN	A1	C1	ES_94	La comunidad científica celebró el avance en la investigación.
+garaje|NOUN	A1	A1	ES_95	El coche está en el garaje.
+garaje|NOUN	A1	A2	ES_96	Mi coche está en el garaje.
+garaje|NOUN	A1	B1	ES_97	Necesitamos limpiar el garaje este fin de semana.
+garaje|NOUN	A1	B2	ES_98	Guardamos el coche en el garaje.
+garaje|NOUN	A1	C1	ES_99	La comunidad de vecinos decidió ampliar el garaje subterráneo para más vehículos.
+querer|VERB	A1	A1	ES_100	Yo quiero agua.
+querer|VERB	A1	A2	ES_101	Quiero un café, por favor.
+querer|VERB	A1	B1	ES_102	Quiero beber agua.
+querer|VERB	A1	B2	ES_103	Ella quiere aprender más sobre la historia de España.
+querer|VERB	A1	C1	ES_104	Quisiera que todos pudiéramos llegar a un acuerdo sobre este asunto tan complejo.
+creer|VERB	A1	A1	ES_105	Yo creo que sí.
+creer|VERB	A1	A2-B1	ES_106-ES_107	Yo creo que es una buena idea.
+creer|VERB	A1	B2	ES_108	Ellos creen que la nueva ley ayudará a todos.
+creer|VERB	A1	C1	ES_109	Siempre he creído en la importancia de la educación para el desarrollo personal.
+pedir|VERB	A1	A1	ES_110	Yo pido agua.
+pedir|VERB	A1	A2	ES_111	Ella pide un vaso de agua.
+pedir|VERB	A1	B1	ES_112	Quiero pedir una ensalada en el restaurante.
+pedir|VERB	A1	B2	ES_113	Ella pidió un café con leche en la cafetería.
+pedir|VERB	A1	C1	ES_114	Tuvo que pedir disculpas por su comportamiento inapropiado durante la reunión.
+necesitar|VERB	A1	A1	ES_115	Yo necesito agua.
+necesitar|VERB	A1	A2	ES_116	Nosotros necesitamos comer.
+necesitar|VERB	A1	B1	ES_117	Necesitas estudiar para el examen de mañana.
+necesitar|VERB	A1	B2	ES_118	Necesitamos discutir la propuesta antes de tomar una decisión final.
+necesitar|VERB	A1	C1	ES_119	A veces, la mente humana necesita un descanso profundo para procesar la información compleja.
+servir|VERB	A1	A1	ES_120	Él sirve el café.
+servir|VERB	A1	A2	ES_121	Ella sirve la comida en el restaurante.
+servir|VERB	A1	B1	ES_122	El camarero nos sirvió la cena.
+servir|VERB	A1	B2	ES_123	Necesitamos encontrar una solución que sirva a todos.
+servir|VERB	A1	C1	ES_124	Aunque la reunión fue tensa, sirvió para aclarar varios puntos importantes.
+encantar|VERB	A1	A1	ES_125	Me encanta el chocolate.
+encantar|VERB	A1	A2	ES_126	Me encanta la música.
+encantar|VERB	A1	B1	ES_127	Me encanta pasar tiempo con mis amigos.
+encantar|VERB	A1	B2	ES_128	A ellos les encanta viajar por el mundo y conocer nuevas culturas.
+encantar|VERB	A1	C1	ES_129	Me encanta cómo su arte contemporáneo desafía las percepciones tradicionales.
+elegir|VERB	A1	A1	ES_130	Yo quiero elegir un postre.
+elegir|VERB	A1	A2	ES_131	Tenemos que elegir un día.
+elegir|VERB	A1	B1	ES_132	Vamos a elegir una película esta noche.
+elegir|VERB	A1	B2	ES_133	Ella tuvo que elegir entre dos opciones para su carrera.
+elegir|VERB	A1	C1	ES_134	Aunque tenía muchas opciones, decidió elegir el camino menos transitado para su proyecto.
+tocar|VERB	A1	A1	ES_135	Él toca la guitarra.
+tocar|VERB	A1	A2	ES_136	Él toca el piano.
+tocar|VERB	A1	B1	ES_137	Ella toca la guitarra en una banda.
+tocar|VERB	A1	B2	ES_138	Ella sabe tocar la guitarra muy bien.
+tocar|VERB	A1	C1	ES_139	Nos toca abordar los desafíos con una perspectiva innovadora.
+construir|VERB	A1	A1	ES_140	Vamos a construir una casa.
+construir|VERB	A1	A2	ES_141	Ellos quieren construir una casa.
+construir|VERB	A1	B1	ES_142	Vamos a construir un puente nuevo en la ciudad.
+construir|VERB	A1	B2	ES_143	Ellos quieren construir una casa nueva en el campo.
+construir|VERB	A1	C1	ES_144	Es fundamental construir puentes de diálogo entre diferentes culturas para fomentar el entendimiento mutuo.
+comenzar|VERB	A1	A1	ES_145	La clase va a comenzar.
+comenzar|VERB	A1	A2	ES_146	La clase va a comenzar pronto.
+comenzar|VERB	A1	B1	ES_147	Mañana vamos a comenzar las clases de español.
+comenzar|VERB	A1	B2	ES_148	Los estudiantes deben comenzar a estudiar para el examen con suficiente antelación.
+comenzar|VERB	A1	C1	ES_149	Es hora de comenzar a abordar las complejidades del problema desde una nueva perspectiva.
+proponer|VERB	A1	A1	ES_150	Yo propongo ir al parque.
+proponer|VERB	A1	A2	ES_151	¿Qué propones para la cena?
+proponer|VERB	A1	B1	ES_152	Quiero proponer una nueva idea para el proyecto.
+proponer|VERB	A1	B2	ES_153	Podemos proponer un nuevo plan para el proyecto.
+proponer|VERB	A1	C1	ES_154	El comité decidió proponer nuevas ideas para mejorar el proyecto.
+continuar|VERB	A1	A1	ES_155	Vamos a continuar la lección.
+continuar|VERB	A1	A2	ES_156	Ellos quieren continuar el juego.
+continuar|VERB	A1	B1	ES_157	Ella quiere continuar sus estudios.
+continuar|VERB	A1	B2	ES_158	Es importante continuar practicando para mejorar.
+continuar|VERB	A1	C1	ES_159	Es esencial continuar trabajando en este proyecto a pesar de los desafíos.
+abandonar|VERB	A1	A1	ES_160	Ella no quiere abandonar su perro.
+abandonar|VERB	A1	A2	ES_161	Ella va a abandonar el trabajo.
+abandonar|VERB	A1	B1	ES_162	Ellos decidieron abandonar la ciudad.
+abandonar|VERB	A1	B2	ES_163	Ella decidió abandonar sus estudios para viajar por el mundo.
+abandonar|VERB	A1	C1	ES_164	El gobierno prometió no abandonar los planes de desarrollo urbano.
+reunir|VERB	A1	A1	ES_165	Yo reúno mis cosas.
+reunir|VERB	A1	A2	ES_166	La familia se reúne para cenar cada domingo.
+reunir|VERB	A1	B1	ES_167	Nos vamos a reunir mañana en el parque.
+reunir|VERB	A1	B2	ES_168	Para el proyecto, debemos reunir mucha información.
+reunir|VERB	A1	C1	ES_169	La exposición busca reunir obras de arte de distintos períodos.
+complicar|VERB	A1	A2	ES_171	No quiero complicar el problema.
+complicar|VERB	A1	B1	ES_172	No quiero complicar las cosas.
+complicar|VERB	A1	B2	ES_173	La situación se puede complicar si no actuamos pronto.
+complicar|VERB	A1	C1	ES_174	Las nuevas regulaciones podrían complicar la implementación del proyecto.
+gritar|VERB	A1	A1	ES_175	El niño grita.
+gritar|VERB	A1	A2	ES_176	El niño empezó a gritar.
+gritar|VERB	A1	B1	ES_177	El niño empezó a gritar de alegría.
+gritar|VERB	A1	B2	ES_178	La multitud empezó a gritar cuando vieron al famoso actor.
+gritar|VERB	A1	C1	ES_179	Aunque se sentía furiosa, decidió no gritar para mantener la compostura.
+publicar|VERB	A1	A1	ES_180	Yo publico una foto.
+publicar|VERB	A1	A2	ES_181	Ella quiere publicar un libro.
+publicar|VERB	A1	B1	ES_182	El periódico va a publicar un artículo interesante mañana.
+publicar|VERB	A1	B2	ES_183	La editorial va a publicar su novela el próximo mes.
+publicar|VERB	A1	C1	ES_184	La editorial decidió publicar su novela después de varias revisiones exhaustivas.
+acostumbrar|VERB	A1	A2	ES_186	Ella se acostumbra a la nueva casa.
+acostumbrar|VERB	A1	B1	ES_187	Me estoy acostumbrando a la comida picante.
+acostumbrar|VERB	A1	B2	ES_188	Me acostumbré a levantarme temprano para trabajar.
+acostumbrar|VERB	A1	C1	ES_189	A veces cuesta acostumbrarse a una nueva rutina de trabajo.
+resolver|VERB	A1	A1	ES_190	Ella puede resolver la tarea.
+resolver|VERB	A1	A2	ES_191	Ella necesita resolver el problema.
+resolver|VERB	A1	B1	ES_192	Necesito resolver este problema antes de mañana.
+resolver|VERB	A1	B2	ES_193	Espero que podamos resolver este asunto pronto.
+resolver|VERB	A1	C1	ES_194	La comunidad espera que las autoridades puedan resolver los problemas de infraestructura urgentemente.
+picar|VERB	A1	A1	ES_195	Me pica un mosquito.
+picar|VERB	A1	A2	ES_196	El mosquito me picó en el brazo.
+picar|VERB	A1	B1	ES_197	Nos gusta picar algo antes de la cena.
+picar|VERB	A1	B2	ES_198	Solemos picar algo ligero antes de la cena.
+picar|VERB	A1	C1	ES_199	La exposición logró picar la curiosidad de muchos visitantes.
+remedio|NOUN	A2	A1	ES_200	Este es un buen remedio para el dolor.
+remedio|NOUN	A2	A2	ES_201	Tengo un remedio para la tos.
+remedio|NOUN	A2	B1	ES_202	Busco un remedio para mi dolor de garganta.
+remedio|NOUN	A2	B2	ES_203	Necesitamos encontrar un remedio para este problema.
+remedio|NOUN	A2	C1	ES_204	Era consciente de que su situación no tenía remedio, pero aun así luchó.
+sueldo|NOUN	A2	A1	ES_205	Mi sueldo es bajo.
+sueldo|NOUN	A2	A2	ES_206	Mi hermano recibe su sueldo hoy.
+sueldo|NOUN	A2	B1	ES_207	Mi sueldo me permite vivir bien.
+sueldo|NOUN	A2	B2	ES_208	Mi sueldo no es muy alto este mes.
+sueldo|NOUN	A2	C1	ES_209	Su sueldo le permite vivir cómodamente en la ciudad.
+reino|NOUN	A2	A2	ES_211	El rey vive en su reino.
+reino|NOUN	A2	B1	ES_212	El rey gobernó su reino con justicia.
+reino|NOUN	A2	B2	ES_213	El rey gobernó el reino con justicia y sabiduría.
+reino|NOUN	A2	C1	ES_214	La historia del reino ha sido marcada por numerosas guerras y alianzas estratégicas.
+miel|NOUN	A2	A1	ES_215	Me gusta la miel.
+miel|NOUN	A2	A2	ES_216	Me gusta la miel en mi té.
+miel|NOUN	A2	B1	ES_217	Me gusta poner miel en mi tostada.
+miel|NOUN	A2	B2	ES_218	La miel es un endulzante natural que muchos usan en su té.
+miel|NOUN	A2	C1	ES_219	El sabor dulce de la miel realza el postre de frutas.
+archivo|NOUN	A2	A1	ES_220	Tengo un archivo en mi computadora.
+archivo|NOUN	A2	A2	ES_221	El documento está en el archivo.
+archivo|NOUN	A2	B1	ES_222	Necesito abrir el archivo para ver la información.
+archivo|NOUN	A2	B2	ES_223	Guarda el archivo en la carpeta correcta.
+archivo|NOUN	A2	C1	ES_224	La investigación requirió una exhaustiva revisión de los archivos gubernamentales.
+bolero|NOUN	A2	A2	ES_226	Me gusta escuchar un bolero.
+bolero|NOUN	A2	B1	ES_227	A mi abuela le gusta escuchar boleros.
+bolero|NOUN	A2	B2	ES_228	Me encanta escuchar boleros cuando estoy triste.
+bolero|NOUN	A2	C1	ES_229	El cantante interpretó un bolero clásico que emocionó a toda la audiencia.
+retiro|NOUN	A2	A1	ES_230	Quiero hacer un retiro en el banco.
+retiro|NOUN	A2	A2	ES_231	Mi abuelo disfrutó mucho su retiro.
+retiro|NOUN	A2	B1	ES_232	Mi abuelo celebró su retiro el mes pasado.
+retiro|NOUN	A2	B2	ES_233	Mi abuelo disfrutó mucho su retiro después de tantos años de trabajo.
+retiro|NOUN	A2	C1	ES_234	Después de años de dedicación, mi padre disfrutará de su merecido retiro.
+humano|NOUN	A2	A1	ES_235	Somos humanos.
+humano|NOUN	A2	A2	ES_236	Todo humano necesita dormir.
+humano|NOUN	A2	B1-B2	ES_237-ES_238	Cada humano tiene sus propias ideas.
+humano|NOUN	A2	C1	ES_239	El humano tiene una inherente necesidad de conexión.
+contradicción|NOUN	A2	B1	ES_242	Hay una contradicción en sus palabras.
+contradicción|NOUN	A2	B2	ES_243	Su declaración está llena de contradicciones.
+contradicción|NOUN	A2	C1	ES_244	Su testimonio estaba lleno de contradicciones que hicieron dudar al jurado.
+cinturón|NOUN	A2	A1	ES_245	El cinturón es grande.
+cinturón|NOUN	A2	A2	ES_246	El cinturón es negro.
+cinturón|NOUN	A2	B1	ES_247	Necesito un cinturón para mis pantalones.
+cinturón|NOUN	A2	B2	ES_248	Siempre me pongo el cinturón cuando viajo en coche.
+cinturón|NOUN	A2	C1	ES_249	Ella optó por un cinturón de cuero genuino para complementar su atuendo formal.
+latino|NOUN	A2	A1	ES_250	Él es latino.
+latino|NOUN	A2	A2	ES_251	Él es latino y vive en España.
+latino|NOUN	A2	B1	ES_252	Muchos latinos viven en esta ciudad.
+latino|NOUN	A2	B2	ES_253	Conocí a un latino muy amable en la fiesta de ayer.
+latino|NOUN	A2	C1	ES_254	Muchos latinos han emigrado a Europa en busca de nuevas oportunidades.
+desempleo|NOUN	A2	A2	ES_256	El desempleo es alto en algunas regiones.
+desempleo|NOUN	A2	B1	ES_257	El desempleo afecta a muchas familias.
+desempleo|NOUN	A2	B2	ES_258	El desempleo es un problema grave en muchas economías.
+desempleo|NOUN	A2	C1	ES_259	La tasa de desempleo ha disminuido ligeramente en el último trimestre.
+azar|NOUN	A2	A2	ES_261	El resultado fue puro azar.
+azar|NOUN	A2	B1	ES_262	El azar a veces nos trae sorpresas.
+azar|NOUN	A2	B2	ES_263	Ganaron el premio por puro azar.
+azar|NOUN	A2	C1	ES_264	El éxito del proyecto dependió en gran medida del azar.
+microondas|NOUN	A2	A1	ES_265	El microondas está en la cocina.
+microondas|NOUN	A2	A2	ES_266	Caliento mi comida en el microondas.
+microondas|NOUN	A2	B1	ES_267	Caliento la leche en el microondas.
+microondas|NOUN	A2	B2	ES_268	Caliento el café en el microondas.
+microondas|NOUN	A2	C1	ES_269	A pesar de su antigüedad, el microondas seguía funcionando con una eficiencia sorprendente.
+peregrinación|NOUN	A2	B1	ES_272	Cada año, miles de personas hacen una peregrinación a ese lugar sagrado.
+peregrinación|NOUN	A2	B2	ES_273	Muchas personas hacen una peregrinación a Santiago de Compostela.
+peregrinación|NOUN	A2	C1	ES_274	Cada año, miles de fieles inician una peregrinación hacia el santuario.
+consola|NOUN	A2	A1	ES_275	Tengo una consola.
+consola|NOUN	A2	A2	ES_276	Mi hermano tiene una consola nueva.
+consola|NOUN	A2	B1	ES_277	Mi amigo compró una consola nueva para jugar.
+consola|NOUN	A2	B2	ES_278	Compramos una consola nueva para jugar a los videojuegos.
+consola|NOUN	A2	C1	ES_279	La nueva consola de videojuegos ofrece una experiencia gráfica superior.
+rumbo|NOUN	A2	A2	ES_281	Vamos con rumbo a casa.
+rumbo|NOUN	A2	B1	ES_282	El avión toma rumbo a Madrid.
+rumbo|NOUN	A2	B2	ES_283	Es posible que tengamos que cambiar de rumbo si la situación no mejora.
+rumbo|NOUN	A2	C1	ES_284	La empresa ha tomado un nuevo rumbo estratégico para expandirse.
+pendiente|NOUN	A2	A1	ES_285	Tengo un pendiente muy bonito.
+pendiente|NOUN	A2	A2-B1	ES_286-ES_287	Ella lleva un pendiente muy bonito.
+pendiente|NOUN	A2	B2	ES_288	Se puso un pendiente de plata en la oreja.
+pendiente|NOUN	A2	C1	ES_289	Tengo un pendiente importante que resolver antes de irme.
+paracaidismo|NOUN	A2	A2	ES_291	Quiero probar el paracaidismo.
+paracaidismo|NOUN	A2	B1	ES_292	Me gustaría probar el paracaidismo algún día.
+paracaidismo|NOUN	A2	B2	ES_293	El paracaidismo es un deporte extremo muy emocionante.
+paracaidismo|NOUN	A2	C1	ES_294	Aunque el paracaidismo puede parecer arriesgado, muchos lo encuentran increíblemente liberador.
+represión|NOUN	A2	B1	ES_297	Hubo represión en la manifestación.
+represión|NOUN	A2	B2	ES_298	Hubo represión en las protestas de ayer.
+represión|NOUN	A2	C1	ES_299	La represión del gobierno generó un fuerte descontento entre la población.
+romper|VERB	A2	A1	ES_300	Yo rompo el plato.
+romper|VERB	A2	A2	ES_301	Ella rompió el vaso.
+romper|VERB	A2	B1	ES_302	No quiero romper el vaso.
+romper|VERB	A2	B2	ES_303	Decidió romper con su pareja después de muchos años.
+romper|VERB	A2	C1	ES_304	Decidieron romper con las tradiciones familiares para crear algo nuevo.
+representar|VERB	A2	A1	ES_305	Este dibujo representa un perro.
+representar|VERB	A2	A2	ES_306	El rojo representa el amor.
+representar|VERB	A2	B1	ES_307	Este símbolo representa la paz.
+representar|VERB	A2	B2	ES_308	Ella va a representar a la compañía en la reunión.
+representar|VERB	A2	C1	ES_309	Su renuncia representa un cambio significativo en la dirección de la empresa.
+exigir|VERB	A2	A2	ES_311	La profesora exige la tarea.
+exigir|VERB	A2	B1	ES_312	El profesor exige mucha atención en clase.
+exigir|VERB	A2	B2	ES_313	Los clientes exigieron una explicación por el retraso.
+exigir|VERB	A2	C1	ES_314	La situación actual nos va a exigir un gran esfuerzo colectivo.
+mencionar|VERB	A2	A2	ES_316	No quiero mencionar eso.
+mencionar|VERB	A2	B1	ES_317	Ella mencionó que la reunión era a las diez.
+mencionar|VERB	A2	B2	ES_318	Él mencionó que vendría más tarde.
+mencionar|VERB	A2	C1	ES_319	Me gustaría mencionar brevemente los puntos clave de nuestra propuesta.
+desesperar|VERB	A2	A2	ES_321	No desesperes, todo estará bien.
+desesperar|VERB	A2	B1	ES_322	No debes desesperarte por los pequeños problemas.
+desesperar|VERB	A2	B2	ES_323	No te desesperes, la solución está cerca.
+desesperar|VERB	A2	C1	ES_324	Aunque la situación era crítica, ella se negaba a desesperarse.
+provenir|VERB	A2	B1	ES_327	El sonido proviene de la habitación de al lado.
+provenir|VERB	A2	B2	ES_328	Estos datos provienen de una investigación reciente.
+provenir|VERB	A2	C1	ES_329	Los datos provienen de una investigación reciente sobre el tema.
+estimular|VERB	A2	A2	ES_331	El profesor quiere estimular la participación de los estudiantes.
+estimular|VERB	A2	B1	ES_332	Los profesores intentan estimular a los estudiantes con actividades nuevas.
+estimular|VERB	A2	B2	ES_333	Los buenos resultados lo estimularon a seguir trabajando.
+estimular|VERB	A2	C1	ES_334	Los nuevos incentivos fiscales buscan estimular la inversión extranjera.
+hervir|VERB	A2	A1	ES_335	El agua hierve.
+hervir|VERB	A2	A2	ES_336	Voy a hervir el agua para el té.
+hervir|VERB	A2	B1	ES_337	El agua hierve en la olla.
+hervir|VERB	A2	B2	ES_338	Necesitamos hervir el agua antes de beberla.
+hervir|VERB	A2	C1	ES_339	La discusión hirvió hasta que estalló una pelea.
+rogar|VERB	A2	B1	ES_342	Le rogamos que llegue a tiempo.
+rogar|VERB	A2	B2	ES_343	Le ruego que me escuche atentamente.
+rogar|VERB	A2	C1	ES_344	Le rogó que reconsiderara su decisión.
+nombrar|VERB	A2	A1	ES_345	Puedo nombrar los colores.
+nombrar|VERB	A2	A2	ES_346	Ella va a nombrar a su hijo Daniel.
+nombrar|VERB	A2	B1	ES_347	Quiero nombrar a mi perro Max.
+nombrar|VERB	A2	B2	ES_348	La empresa decidió nombrar un nuevo gerente para el departamento.
+nombrar|VERB	A2	C1	ES_349	La junta directiva decidió nombrar a un nuevo presidente para la compañía.
+acumular|VERB	A2	A2	ES_351	Ella no quiere acumular muchas cosas en su casa.
+acumular|VERB	A2	B1	ES_352	Ella no quiere acumular más trabajo en su escritorio.
+acumular|VERB	A2	B2	ES_353	No quiero acumular más trabajo para el fin de semana.
+acumular|VERB	A2	C1	ES_354	Es importante no acumular tareas pendientes al final de la semana.
+prevenir|VERB	A2	A2	ES_356	Lavarse las manos ayuda a prevenir enfermedades.
+prevenir|VERB	A2	B1	ES_357	Debemos lavarnos las manos para prevenir resfriados.
+prevenir|VERB	A2	B2	ES_358	Podemos prevenir muchos problemas si planificamos bien.
+prevenir|VERB	A2	C1	ES_359	Para prevenir futuros problemas, es fundamental analizar los errores del pasado.
+rescatar|VERB	A2	A1	ES_360	El niño quiere rescatar al pájaro.
+rescatar|VERB	A2	A2	ES_361	El bombero rescató al gato.
+rescatar|VERB	A2	B1	ES_362	Los bomberos pudieron rescatar al perro.
+rescatar|VERB	A2	B2	ES_363	Los voluntarios lograron rescatar a la gente atrapada.
+rescatar|VERB	A2	C1	ES_364	Es esencial rescatar las lenguas indígenas antes de que se extingan.
+distribuir|VERB	A2	A2	ES_366	La tienda va a distribuir los folletos mañana.
+distribuir|VERB	A2	B1	ES_367	La tienda distribuye sus productos en varias ciudades.
+distribuir|VERB	A2	B2	ES_368	La empresa distribuye sus productos por todo el país.
+distribuir|VERB	A2	C1	ES_369	La organización se encargó de distribuir los alimentos a las familias necesitadas.
+morder|VERB	A2	A1	ES_370	El perro muerde el juguete.
+morder|VERB	A2	A2	ES_371	El perro muerde el hueso.
+morder|VERB	A2	B1	ES_372	No debes morder las uñas.
+morder|VERB	A2	B2	ES_373	El perro intentó morder el juguete.
+morder|VERB	A2	C1	ES_374	Se mordió el labio inferior, pensativo, mientras escuchaba la compleja explicación.
+contactar|VERB	A2	A1-A2	ES_375-ES_376	Necesito contactar a mi amigo.
+contactar|VERB	A2	B1	ES_377	Puedes contactar a la oficina si tienes alguna duda.
+contactar|VERB	A2	B2	ES_378	Puedes contactar con el servicio al cliente si tienes algún problema.
+contactar|VERB	A2	C1	ES_379	Tras varios intentos fallidos, logramos contactar con el departamento de soporte técnico.
+posar|VERB	A2	A1	ES_380	Ella posa para la foto.
+posar|VERB	A2	A2	ES_381	Ella va a posar para la foto.
+posar|VERB	A2	B1	ES_382	Ella se va a posar para una foto.
+posar|VERB	A2	B2	ES_383	La modelo tuvo que posar durante horas para la sesión de fotos.
+posar|VERB	A2	C1	ES_384	El director de fotografía les pidió que posaran de forma natural, sin forzar ninguna expresión.
+originar|VERB	A2	B1	ES_387	El río se origina en las montañas.
+originar|VERB	A2	B2	ES_388	El conflicto se originó por un malentendido.
+originar|VERB	A2	C1	ES_389	La escasez de agua podría originar graves conflictos en la región.
+tostar|VERB	A2	A1	ES_390	Yo tuesto el pan.
+tostar|VERB	A2	A2	ES_391	Voy a tostar el pan para el desayuno.
+tostar|VERB	A2	B1	ES_392	Me gusta tostar el pan para el desayuno.
+tostar|VERB	A2	B2	ES_393	Puedes tostar las almendras antes de añadirlas al pastel.
+tostar|VERB	A2	C1	ES_394	Para realzar el sabor de las especias, es recomendable tostarlas ligeramente antes de usarlas.
+distraer|VERB	A2	A1	ES_395	El ruido me distrae.
+distraer|VERB	A2	A2	ES_396	Ella se distrae fácilmente con su teléfono.
+distraer|VERB	A2	B1	ES_397	No puedo estudiar porque el ruido me distrae.
+distraer|VERB	A2	B2	ES_398	El ruido del tráfico puede distraerme cuando intento leer.
+distraer|VERB	A2	C1	ES_399	Su habilidad para concentrarse le permite no distraerse con las trivialidades cotidianas.
+referencia|NOUN	B1	A2	ES_401	La profesora nos dio una referencia para el proyecto.
+referencia|NOUN	B1	B1	ES_402	Necesito una referencia para mi nuevo trabajo.
+referencia|NOUN	B1	B2	ES_403	Puedes usar este libro como referencia para tu proyecto.
+referencia|NOUN	B1	C1	ES_404	Su disertación se ha convertido en la referencia principal para futuros estudios en el área.
+testimonio|NOUN	B1	B1	ES_407	El hombre dio su testimonio sobre lo que vio.
+testimonio|NOUN	B1	B2	ES_408	El abuelo compartió su testimonio sobre la guerra.
+testimonio|NOUN	B1	C1	ES_409	Su testimonio fue clave para la resolución del caso.
+ingenio|NOUN	B1	A2	ES_411	Ella tiene mucho ingenio.
+ingenio|NOUN	B1	B1	ES_412	Ella mostró mucho ingenio para resolver el problema.
+ingenio|NOUN	B1	B2	ES_413	Mostró mucho ingenio para resolver el problema.
+ingenio|NOUN	B1	C1	ES_414	Su ingenio para resolver problemas complejos fue evidente durante la crisis.
+cemento|NOUN	B1	A1	ES_415	El suelo es de cemento.
+cemento|NOUN	B1	A2	ES_416	La pared es de cemento.
+cemento|NOUN	B1	B1	ES_417	El cemento se usa para construir muros.
+cemento|NOUN	B1	B2	ES_418	Los trabajadores usaron mucho cemento para construir los cimientos de la casa.
+cemento|NOUN	B1	C1	ES_419	El cemento fragua rápidamente con el calor.
+filial|NOUN	B1	B1	ES_422	La empresa abrió una nueva filial en otra ciudad.
+filial|NOUN	B1	B2	ES_423	La empresa abrió una nueva filial en la capital.
+filial|NOUN	B1	C1	ES_424	La empresa anunció la apertura de una nueva filial en Sudamérica para expandir su mercado.
+fallo|NOUN	B1	A2	ES_426	Hubo un fallo en la máquina.
+fallo|NOUN	B1	B1	ES_427	Hubo un fallo en el sistema.
+fallo|NOUN	B1	B2	ES_428	El fallo del motor detuvo el coche en medio de la carretera.
+fallo|NOUN	B1	C1	ES_429	El sistema sufrió un fallo inesperado y se reinició.
+boliche|NOUN	B1	A1	ES_430	El boliche está abierto.
+boliche|NOUN	B1	A2	ES_431	Vamos al boliche.
+boliche|NOUN	B1	B1	ES_432	Vamos al boliche a jugar esta noche.
+boliche|NOUN	B1	B2	ES_433	Pasamos la tarde en el boliche.
+boliche|NOUN	B1	C1	ES_434	Después de cenar, fuimos al boliche a jugar unas partidas.
+muralista|NOUN	B1	A2	ES_436	El muralista pinta un dibujo grande en la pared.
+muralista|NOUN	B1	B1	ES_437	Diego Rivera fue un famoso muralista mexicano.
+muralista|NOUN	B1	B2	ES_438	El muralista pintó una obra grande en la pared del edificio.
+muralista|NOUN	B1	C1	ES_439	El muralista plasmó su visión artística en la fachada del centro cultural.
+desaparecido|NOUN	B1	B1	ES_442	La policía encontró al desaparecido.
+desaparecido|NOUN	B1	B2	ES_443	La familia espera noticias del desaparecido.
+desaparecido|NOUN	B1	C1	ES_444	La familia aún busca a su desaparecido.
+exclusión|NOUN	B1	B1	ES_447	La exclusión de algunos estudiantes fue una sorpresa.
+exclusión|NOUN	B1	B2	ES_448	La exclusión social afecta a muchas personas en esta ciudad.
+exclusión|NOUN	B1	C1	ES_449	La exclusión de ciertos grupos de la sociedad es una preocupación global.
+jerga|NOUN	B1	A2	ES_451	Mi hermano usa mucha jerga.
+jerga|NOUN	B1	B1	ES_452	No entiendo la jerga que usan en esa serie.
+jerga|NOUN	B1	B2	ES_453	A veces es difícil entender la jerga de los adolescentes.
+jerga|NOUN	B1	C1	ES_454	La jerga de los adolescentes a menudo incluye palabras que no usamos los adultos.
+patada|NOUN	B1	A1	ES_455	El niño da una patada al balón.
+patada|NOUN	B1	A2	ES_456	El jugador le dio una patada al balón.
+patada|NOUN	B1	B1	ES_457	El niño dio una patada al balón.
+patada|NOUN	B1	B2	ES_458	El niño le dio una patada a la puerta cuando estaba enfadado.
+patada|NOUN	B1	C1	ES_459	El árbitro no dudó en mostrar la tarjeta roja tras la patada intencionada.
+anoréxico|NOUN	B1	B2	ES_463	El anoréxico necesita apoyo profesional para superar su enfermedad.
+anoréxico|NOUN	B1	C1	ES_464	El anoréxico rechazaba cualquier intento de convencerlo de comer.
+mapuche|NOUN	B1	A2	ES_466	Hay mapuches en Chile y Argentina.
+mapuche|NOUN	B1	B1	ES_467	El mapuche es un pueblo originario.
+mapuche|NOUN	B1	B2	ES_468	Los mapuches son un pueblo originario de Chile y Argentina.
+mapuche|NOUN	B1	C1	ES_469	Muchos mapuches siguen defendiendo su idioma y costumbres ancestrales.
+aporte|NOUN	B1	B1	ES_472	Necesitamos el aporte de todos para este proyecto.
+aporte|NOUN	B1	B2	ES_473	Su aporte fue muy valioso para el éxito del equipo.
+aporte|NOUN	B1	C1	ES_474	Su aporte al proyecto fue fundamental para su éxito.
+malo|NOUN	B1	A1	ES_475	El lobo es el malo del cuento.
+malo|NOUN	B1	A2	ES_476	Lo malo es que no tenemos tiempo.
+malo|NOUN	B1	B1	ES_477	Lo malo del viaje fue la comida.
+malo|NOUN	B1	B2	ES_478	Lo malo de este trabajo es el horario.
+malo|NOUN	B1	C1	ES_479	El malo de la historia fue atrapado por la policía.
+sensor|NOUN	B1	B1	ES_482	El coche tiene un sensor para aparcar.
+sensor|NOUN	B1	B2	ES_483	El sensor de movimiento activa la luz automáticamente.
+sensor|NOUN	B1	C1	ES_484	Los coches modernos incorporan múltiples sensores para mejorar la seguridad y la eficiencia.
+mérito|NOUN	B1	A2-B1	ES_486-ES_487	Su trabajo tiene mucho mérito.
+mérito|NOUN	B1	B2	ES_488	Su dedicación al trabajo tiene un gran mérito.
+mérito|NOUN	B1	C1	ES_489	Reconoció el mérito de su equipo después del exitoso proyecto.
+amiga|NOUN	B1	A1	ES_490	Ella es mi amiga.
+amiga|NOUN	B1	A2	ES_491	Mi amiga viene a mi casa hoy.
+amiga|NOUN	B1	B1	ES_492	Mi amiga y yo vamos al cine esta noche.
+amiga|NOUN	B1	B2	ES_493	Mi amiga Laura me recomendó un libro muy interesante.
+amiga|NOUN	B1	C1	ES_494	Aunque vivimos lejos, mi amiga y yo mantenemos una estrecha relación a través de videollamadas.
+monotonía|NOUN	B1	B1	ES_497	La monotonía de la rutina a veces es aburrida.
+monotonía|NOUN	B1	B2	ES_498	Para evitar la monotonía, a veces cambiamos de ruta.
+monotonía|NOUN	B1	C1	ES_499	Buscaba romper con la monotonía de su rutina diaria.
+armar|VERB	B1	A1	ES_500	Yo armo un rompecabezas.
+armar|VERB	B1	A2	ES_501	Necesitamos armar la caja.
+armar|VERB	B1	B1	ES_502	Ellos tienen que armar los muebles nuevos hoy.
+armar|VERB	B1	B2	ES_503	Necesitamos armar el mueble antes de que lleguen los invitados.
+armar|VERB	B1	C1	ES_504	Armaron una estrategia innovadora para el lanzamiento del producto.
+percibir|VERB	B1	B1	ES_507	Ella percibe el aroma de las flores.
+percibir|VERB	B1	B2	ES_508	Es importante percibir las señales de advertencia a tiempo.
+percibir|VERB	B1	C1	ES_509	Es importante percibir las señales no verbales durante una conversación.
+cursar|VERB	B1	A2	ES_511	Mi hermana cursa una clase de baile.
+cursar|VERB	B1	B1	ES_512	Voy a cursar mis estudios universitarios el próximo año.
+cursar|VERB	B1	B2	ES_513	Este año voy a cursar la asignatura de economía.
+cursar|VERB	B1	C1	ES_514	Él decidió cursar un máster en energías renovables.
+alertar|VERB	B1	A2	ES_516	Ella quiere alertar a sus amigos.
+alertar|VERB	B1	B1	ES_517	La policía tuvo que alertar a los vecinos sobre el peligro.
+alertar|VERB	B1	B2	ES_518	Los bomberos tuvieron que alertar a los residentes sobre el peligro.
+alertar|VERB	B1	C1	ES_519	La noticia de la tormenta inminente logró alertar a la población para que tomara precauciones.
+cesar|VERB	B1	A2	ES_521	La lluvia cesó.
+cesar|VERB	B1	B1	ES_522	El ruido cesó después de unos minutos.
+cesar|VERB	B1	B2	ES_523	La lluvia cesó después de una hora.
+cesar|VERB	B1	C1	ES_524	El ministro fue cesado de su cargo tras el escándalo.
+empeñar|VERB	B1	B1	ES_527	Él se empeñó en aprender a cocinar bien.
+empeñar|VERB	B1	B2	ES_528	Mi hermano se empeña en visitar todos los museos de la ciudad.
+empeñar|VERB	B1	C1	ES_529	Se empeñó en aprender a tocar la guitarra.
+remitir|VERB	B1	B1	ES_532	Después de la tormenta, el viento remitió.
+remitir|VERB	B1	B2	ES_533	Por favor, remite el informe lo antes posible.
+remitir|VERB	B1	C1	ES_534	La fiebre empezó a remitir después de unas horas de descanso.
+alterar|VERB	B1	B1	ES_537	No quiero alterar tus planes.
+alterar|VERB	B1	B2	ES_538	El ruido constante puede alterar la concentración.
+alterar|VERB	B1	C1	ES_539	El ruido constante de la construcción puede alterar la tranquilidad de los vecinos.
+ascender|VERB	B1	A2	ES_541	El ascensor va a ascender al quinto piso.
+ascender|VERB	B1	B1	ES_542	Es difícil ascender esta montaña sin equipo.
+ascender|VERB	B1	B2	ES_543	El alpinista planea ascender a la cima de la montaña.
+ascender|VERB	B1	C1	ES_544	Después de años de arduo trabajo, logró ascender al puesto de director.
+asignar|VERB	B1	A2	ES_546	La profesora asignó la tarea a los estudiantes.
+asignar|VERB	B1	B1	ES_547	El profesor va a asignar el trabajo para el lunes.
+asignar|VERB	B1	B2	ES_548	La profesora nos asignó un ensayo para la próxima semana.
+asignar|VERB	B1	C1	ES_549	Le asignaron la tarea de coordinar el proyecto.
+bordar|VERB	B1	A2	ES_551	Mi abuela puede bordar muy bien.
+bordar|VERB	B1	B1	ES_552	Mi hermana está bordando una camisa.
+bordar|VERB	B1	B2	ES_553	Mi abuela suele bordar pañuelos para sus nietos.
+bordar|VERB	B1	C1	ES_554	El actor bordó su papel, ganándose el aplauso unánime del público.
+consumar|VERB	B1	B2	ES_558	Ellos lograron consumar su plan después de mucho esfuerzo.
+consumar|VERB	B1	C1	ES_559	Finalmente, lograron consumar su plan de expansión internacional.
+imputar|VERB	B1	B2	ES_563	El juez decidió imputarle el delito.
+imputar|VERB	B1	C1	ES_564	La fiscalía decidió imputar los cargos al exfuncionario.
+fluir|VERB	B1	A2	ES_566	El agua fluye en el río.
+fluir|VERB	B1	B1	ES_567	El agua fluye por el río.
+fluir|VERB	B1	B2	ES_568	La conversación fluía sin problemas durante la cena.
+fluir|VERB	B1	C1	ES_569	La conversación fluyó sin esfuerzo durante toda la cena.
+descomponer|VERB	B1	A2	ES_571	El coche se descompuso y no podemos usarlo.
+descomponer|VERB	B1	B1	ES_572	Si no pones la leche en la nevera, se va a descomponer.
+descomponer|VERB	B1	B2	ES_573	El coche se descompuso justo antes de llegar a la ciudad.
+descomponer|VERB	B1	C1	ES_574	La mala noticia lo descompuso emocionalmente.
+alinear|VERB	B1	A2	ES_576	Alinea los libros en el estante, por favor.
+alinear|VERB	B1	B1	ES_577	Hay que alinear los libros en el estante.
+alinear|VERB	B1	B2	ES_578	Es importante alinear nuestras metas para tener éxito en el proyecto.
+alinear|VERB	B1	C1	ES_579	Los partidos intentaron alinear sus intereses para lograr un acuerdo.
+sacudir|VERB	B1	A2	ES_581	Sacude el polvo de los libros.
+sacudir|VERB	B1	B1	ES_582	El perro empezó a sacudir la cola cuando vio a su dueño.
+sacudir|VERB	B1	B2	ES_583	El perro se sacudió después de salir del agua.
+sacudir|VERB	B1	C1	ES_584	El discurso del presidente logró sacudir la conciencia de muchos ciudadanos.
+enriquecer|VERB	B1	B1	ES_587	Viajar puede enriquecer tu vida con nuevas experiencias.
+enriquecer|VERB	B1	B2	ES_588	Viajar puede enriquecer tu vida.
+enriquecer|VERB	B1	C1	ES_589	Leer mucho puede enriquecer tu vocabulario y tu perspectiva.
+atrasar|VERB	B1	A1	ES_590	Mi reloj atrasa.
+atrasar|VERB	B1	A2	ES_591	No quiero atrasar la reunión.
+atrasar|VERB	B1	B1	ES_592	La reunión se va a atrasar un poco.
+atrasar|VERB	B1	B2	ES_593	El mal tiempo puede atrasar el vuelo.
+atrasar|VERB	B1	C1	ES_594	La burocracia excesiva puede atrasar el proceso de aprobación de nuevas iniciativas.
+descalificar|VERB	B1	B1	ES_597	El juez decidió descalificar al concursante.
+descalificar|VERB	B1	B2	ES_598	El árbitro decidió descalificar al jugador por su comportamiento antideportivo.
+descalificar|VERB	B1	C1	ES_599	El árbitro decidió descalificar al equipo por incumplir las normas del torneo.
+aspiración|NOUN	B2	B1	ES_602	Su mayor aspiración es viajar por el mundo.
+aspiración|NOUN	B2	B2	ES_603	Su aspiración es convertirse en un médico exitoso.
+aspiración|NOUN	B2	C1	ES_604	Su mayor aspiración es contribuir al cambio social positivo.
+ácido|NOUN	B2	A2	ES_606	El vinagre contiene un ácido.
+ácido|NOUN	B2	B1	ES_607	Algunas frutas tienen mucho ácido.
+ácido|NOUN	B2	B2	ES_608	El jugo de limón tiene mucho ácido.
+ácido|NOUN	B2	C1	ES_609	La reacción química liberó un ácido volátil.
+cónyuge|NOUN	B2	B1	ES_612	Mi cónyuge trabaja en un hospital.
+cónyuge|NOUN	B2	B2	ES_613	Mi cónyuge y yo celebramos nuestro aniversario el mes pasado.
+cónyuge|NOUN	B2	C1	ES_614	El cónyuge de la presidenta suele acompañarla en eventos oficiales.
+pauta|NOUN	B2	A2	ES_616	La profesora dio una pauta clara para el proyecto.
+pauta|NOUN	B2	B1	ES_617	El profesor dio algunas pautas para el proyecto.
+pauta|NOUN	B2	B2	ES_618	Necesitamos una pauta clara para organizar el evento.
+pauta|NOUN	B2	C1	ES_619	Debemos seguir las pautas establecidas para el proyecto.
+mediador|NOUN	B2	B1	ES_622	El mediador ayudó a las partes a encontrar una solución.
+mediador|NOUN	B2	B2	ES_623	El mediador ayudó a las partes a encontrar un acuerdo justo.
+mediador|NOUN	B2	C1	ES_624	El mediador ayudó a resolver el conflicto entre las partes.
+monopolio|NOUN	B2	B1	ES_627	La empresa tiene el monopolio de la venta de electricidad en la región.
+monopolio|NOUN	B2	B2	ES_628	Esa empresa tiene un monopolio en el mercado local.
+monopolio|NOUN	B2	C1	ES_629	El gobierno intentó romper el monopolio de la empresa.
+preservación|NOUN	B2	B1	ES_632	La preservación del medio ambiente es importante para todos.
+preservación|NOUN	B2	B2	ES_633	La preservación de los bosques es crucial para el clima.
+preservación|NOUN	B2	C1	ES_634	La preservación de los ecosistemas es esencial para la biodiversidad.
+aleta|NOUN	B2	A1	ES_635	El pez tiene una aleta.
+aleta|NOUN	B2	A2	ES_636	El pez mueve su aleta para nadar.
+aleta|NOUN	B2	B1	ES_637	El pez nada con sus aletas.
+aleta|NOUN	B2	B2	ES_638	El buceador usó aletas para nadar más rápido.
+aleta|NOUN	B2	C1	ES_639	El biólogo marino estudió la morfología de la aleta caudal del delfín para entender su hidrodinámica.
+metáfora|NOUN	B2	B2	ES_643	El autor empleó una metáfora para describir el atardecer.
+metáfora|NOUN	B2	C1	ES_644	Su poesía a menudo utiliza la metáfora como una herramienta para explorar emociones complejas.
+química|NOUN	B2	A1	ES_645	Me gusta la química.
+química|NOUN	B2	A2	ES_646	Me gusta la clase de química.
+química|NOUN	B2	B1	ES_647	Ella trabaja en un laboratorio de química.
+química|NOUN	B2	B2	ES_648	La química de los alimentos es un área de gran interés.
+química|NOUN	B2	C1	ES_649	Había una química especial entre ellos que hizo su colaboración muy productiva.
+duende|NOUN	B2	A2	ES_651	Un duende vive en el bosque.
+duende|NOUN	B2	B1	ES_652	Los niños creen en los duendes.
+duende|NOUN	B2	B2	ES_653	El niño creía en los duendes del bosque.
+duende|NOUN	B2	C1	ES_654	Su voz flamenca tenía un duende que cautivaba a todos.
+asignación|NOUN	B2	B1	ES_657	La asignación para mañana es leer el capítulo siete.
+asignación|NOUN	B2	B2	ES_658	La asignación para el curso debe entregarse antes del viernes.
+asignación|NOUN	B2	C1	ES_659	La asignación de recursos para el proyecto es crucial.
+gesta|NOUN	B2	B2	ES_663	La construcción del canal fue una gran gesta para el país.
+gesta|NOUN	B2	C1	ES_664	La gesta de construir un puente sobre el cañón llevó años de esfuerzo.
+espiritualidad|NOUN	B2	B1	ES_667	Ella encontró paz en su espiritualidad.
+espiritualidad|NOUN	B2	B2	ES_668	La espiritualidad puede significar algo diferente para cada persona.
+espiritualidad|NOUN	B2	C1	ES_669	Su búsqueda de la espiritualidad la llevó a estudiar diversas filosofías.
+roble|NOUN	B2	A2	ES_671	Hay un roble grande en el parque.
+roble|NOUN	B2	B1	ES_672	Hay un roble grande al lado del río.
+roble|NOUN	B2	B2	ES_673	El banco del parque es de madera de roble.
+roble|NOUN	B2	C1	ES_674	El viejo roble del jardín ofrecía una sombra generosa en los días calurosos de verano.
+practicante|NOUN	B2	A2	ES_676	El practicante trabaja en la empresa.
+practicante|NOUN	B2	B1	ES_677	La nueva practicante ayuda en la oficina.
+practicante|NOUN	B2	B2	ES_678	El nuevo practicante aprende rápidamente las tareas del equipo.
+practicante|NOUN	B2	C1	ES_679	El practicante de medicina acompañó al cirujano durante la operación.
+bechamel|NOUN	B2	A2	ES_681	La bechamel es una salsa blanca.
+bechamel|NOUN	B2	B1	ES_682	Esta lasaña tiene mucha bechamel.
+bechamel|NOUN	B2	B2	ES_683	Preparo la lasaña con mucha bechamel.
+bechamel|NOUN	B2	C1	ES_684	La bechamel es un ingrediente clave en platos como la lasaña.
+ajedrecista|NOUN	B2	A2	ES_686	Mi hermano es ajedrecista.
+ajedrecista|NOUN	B2	B1	ES_687	Mi hermano es un buen ajedrecista.
+ajedrecista|NOUN	B2	B2	ES_688	El ajedrecista se concentró en cada movimiento.
+ajedrecista|NOUN	B2	C1	ES_689	El ajedrecista analizó la posición de las piezas con detenimiento.
+esguince|NOUN	B2	A2	ES_691	Tengo un esguince en el tobillo.
+esguince|NOUN	B2	B1	ES_692	Me hice un esguince en el tobillo.
+esguince|NOUN	B2	B2	ES_693	Después de caerse, le diagnosticaron un esguince leve.
+esguince|NOUN	B2	C1	ES_694	El esguince de tobillo la mantuvo sin poder correr por varias semanas.
+coplero|NOUN	B2	B1	ES_697	El coplero cantó viejas canciones de amor.
+coplero|NOUN	B2	C1	ES_699	El coplero entonó una melodía tradicional que conmovió a la audiencia.
+lamentar|VERB	B2	A2	ES_701	Lamento no poder ir a la fiesta.
+lamentar|VERB	B2	B1	ES_702	Lamento no poder acompañarte mañana.
+lamentar|VERB	B2	B2	ES_703	Lamento que tengas que irte tan pronto.
+lamentar|VERB	B2	C1	ES_704	Lamento que no pudieras venir a la fiesta.
+afrontar|VERB	B2	B1	ES_707	Es importante afrontar los problemas con calma.
+afrontar|VERB	B2	B2	ES_708	Ellos necesitan afrontar la realidad de la situación.
+afrontar|VERB	B2	C1	ES_709	Es importante afrontar los problemas con una actitud positiva.
+defraudar|VERB	B2	A2	ES_711	No quiero defraudarte.
+defraudar|VERB	B2	B1	ES_712	No quiero defraudar a mis padres.
+defraudar|VERB	B2	B2	ES_713	El nuevo producto defraudó a los clientes.
+defraudar|VERB	B2	C1	ES_714	Me defraudó que no cumpliera su promesa de ayudarnos.
+involucrar|VERB	B2	A2	ES_716	Ella quiere involucrar a todos en la actividad.
+involucrar|VERB	B2	B1	ES_717	Queremos involucrar a más personas en el proyecto.
+involucrar|VERB	B2	B2	ES_718	Ella decidió involucrarse más en las actividades del grupo.
+involucrar|VERB	B2	C1	ES_719	La nueva política busca involucrar a más ciudadanos en la vida cívica de la comunidad.
+depurar|VERB	B2	A2	ES_721	El filtro ayuda a depurar el agua.
+depurar|VERB	B2	B1	ES_722	El cuerpo necesita depurar las toxinas para estar sano.
+depurar|VERB	B2	B2	ES_723	El hígado tiene la función de depurar la sangre.
+depurar|VERB	B2	C1	ES_724	Es fundamental depurar los datos para obtener resultados fiables.
+atormentar|VERB	B2	B1	ES_727	El ruido del vecino me atormenta cada noche.
+atormentar|VERB	B2	B2	ES_728	Los recuerdos de la guerra lo atormentaban.
+atormentar|VERB	B2	C1	ES_729	La duda sobre su decisión final comenzó a atormentarlo.
+propagar|VERB	B2	A2	ES_731	El fuego se puede propagar muy rápido.
+propagar|VERB	B2	B1	ES_732	Es importante lavarse las manos para no propagar el virus.
+propagar|VERB	B2	B2	ES_733	Es importante evitar que el fuego se propague.
+propagar|VERB	B2	C1	ES_734	La información se propagó rápidamente a través de las redes sociales.
+persistir|VERB	B2	A2	ES_736	Debes persistir para terminar el proyecto.
+persistir|VERB	B2	B1	ES_737	Debes persistir para alcanzar tus metas.
+persistir|VERB	B2	B2	ES_738	Si persistes, lo lograrás.
+persistir|VERB	B2	C1	ES_739	A pesar de los desafíos, decidió persistir en su intento de resolver el problema.
+achacar|VERB	B2	B1	ES_742	Ella le achacó la demora al tráfico.
+achacar|VERB	B2	B2	ES_743	Siempre le achacan la culpa a los demás.
+achacar|VERB	B2	C1	ES_744	La prensa suele achacar la crisis económica a la mala gestión del gobierno.
+desmesurar|VERB	B2	C1	ES_749	El entusiasmo de la multitud se desmesuró al conocer la noticia.
+principiar|VERB	B2	B1	ES_752	Ellos principiarán el proyecto la próxima semana.
+principiar|VERB	B2	B2	ES_753	El evento va a principiar a las seis de la tarde.
+principiar|VERB	B2	C1	ES_754	La obra principia con un monólogo emotivo.
+rediseñar|VERB	B2	B1	ES_757	Quieren rediseñar el logo de la empresa.
+rediseñar|VERB	B2	B2	ES_758	La empresa va a rediseñar su sitio web.
+rediseñar|VERB	B2	C1	ES_759	La empresa decidió rediseñar su logotipo para modernizar su imagen.
+desplomar|VERB	B2	B1	ES_762	El viejo muro se desplomó después de la tormenta.
+desplomar|VERB	B2	B2	ES_763	El viejo puente de madera se desplomó con el peso.
+desplomar|VERB	B2	C1	ES_764	Después de horas de trabajo, se desplomó en el sofá.
+tergiversar|VERB	B2	B1	ES_767	No debes tergiversar la información.
+tergiversar|VERB	B2	B2	ES_768	No debes tergiversar mis palabras.
+tergiversar|VERB	B2	C1	ES_769	El periodista fue acusado de tergiversar la información para crear controversia.
+recluir|VERB	B2	B2	ES_773	Después de la enfermedad, prefirió recluirse en su casa por un tiempo.
+recluir|VERB	B2	C1	ES_774	Decidió recluirse en su estudio para terminar el libro.
+broncear|VERB	B2	A1	ES_775	Ella se broncea en la playa.
+broncear|VERB	B2	A2	ES_776	Me gusta broncearme en la playa.
+broncear|VERB	B2	B1	ES_777	Quiero broncearme un poco este fin de semana.
+broncear|VERB	B2	B2	ES_778	Ella se broncea fácilmente en verano.
+broncear|VERB	B2	C1	ES_779	Para no broncearse demasiado, es esencial aplicar protector solar a menudo.
+espirar|VERB	B2	B1	ES_782	Es importante espirar despacio para relajarse.
+espirar|VERB	B2	B2	ES_783	Cuando haces yoga, es importante espirar despacio.
+espirar|VERB	B2	C1	ES_784	Después de inhalar, es importante espirar con calma para relajar el cuerpo.
+cuajar|VERB	B2	A2	ES_786	La leche se cuajó.
+cuajar|VERB	B2	B1	ES_787	La gelatina no cuajó en la nevera.
+cuajar|VERB	B2	B2	ES_788	Su propuesta finalmente cuajó después de varias revisiones.
+cuajar|VERB	B2	C1	ES_789	Su propuesta finalmente logró cuajar en la reunión de la junta directiva.
+reenganchar|VERB	B2	B1	ES_792	Quiero reengancharme al gimnasio el mes que viene.
+reenganchar|VERB	B2	B2	ES_793	Después de las vacaciones, cuesta reengancharse al ritmo de trabajo.
+reenganchar|VERB	B2	C1	ES_794	Le costó mucho reengancharse a la rutina de trabajo después de las vacaciones.
+divisar|VERB	B2	B1	ES_797	Desde la cima, pudimos divisar el pueblo en el valle.
+divisar|VERB	B2	B2	ES_798	Desde la montaña, pudimos divisar el mar.
+divisar|VERB	B2	C1	ES_799	Desde la cima de la montaña, logramos divisar el pueblo a lo lejos.
+acusado|NOUN	C1	B1	ES_802	El acusado esperó al juez.
+acusado|NOUN	C1	B2	ES_803	El acusado habló con su abogado.
+acusado|NOUN	C1	C1	ES_804	El acusado escuchó atentamente el veredicto del juez.
+injuria|NOUN	C1	B2	ES_808	Sus comentarios fueron una injuria para la familia.
+injuria|NOUN	C1	C1	ES_809	La injuria publicada en el periódico causó un gran escándalo.
+inseminación|NOUN	C1	B2	ES_813	La inseminación puede ser una opción para algunas parejas con problemas de fertilidad.
+inseminación|NOUN	C1	C1	ES_814	La inseminación artificial es una técnica reproductiva avanzada.
+democratización|NOUN	C1	B2	ES_818	La democratización de la información es crucial en la era digital.
+democratización|NOUN	C1	C1	ES_819	La democratización de la información ha cambiado la forma en que las personas acceden a noticias.
+decencia|NOUN	C1	B1	ES_822	Es importante actuar con decencia.
+decencia|NOUN	C1	B2	ES_823	La decencia es importante en el trato con los demás.
+decencia|NOUN	C1	C1	ES_824	Actuó con decencia a pesar de la situación difícil.
+toxina|NOUN	C1	B1	ES_827	Es importante evitar las toxinas en nuestra comida.
+toxina|NOUN	C1	B2	ES_828	Es importante evitar las toxinas en los alimentos.
+toxina|NOUN	C1	C1	ES_829	La planta produce una toxina para defenderse de los insectos.
+violación|NOUN	C1	B1	ES_832	Hubo una violación de la ley.
+violación|NOUN	C1	B2	ES_833	La violación de las normas de seguridad puede causar accidentes.
+violación|NOUN	C1	C1	ES_834	La violación de las normas de tráfico puede resultar en multas elevadas.
+antidepresivo|NOUN	C1	B1	ES_837	El médico le recetó un antidepresivo.
+antidepresivo|NOUN	C1	B2	ES_838	El médico le recetó un antidepresivo para mejorar su estado de ánimo.
+antidepresivo|NOUN	C1	C1	ES_839	El psiquiatra sugirió un antidepresivo para manejar los episodios de ansiedad severa.
+alumbramiento|NOUN	C1	B1	ES_842	El alumbramiento de su primer hijo fue un momento muy especial.
+alumbramiento|NOUN	C1	B2	ES_843	El alumbramiento fue largo, pero la madre y el bebé están bien.
+alumbramiento|NOUN	C1	C1	ES_844	La publicación de su ensayo supuso un alumbramiento para el pensamiento contemporáneo.
+alfiler|NOUN	C1	A1	ES_845	Necesito un alfiler.
+alfiler|NOUN	C1	A2	ES_846	Ella usa un alfiler.
+alfiler|NOUN	C1	B1	ES_847	Necesito un alfiler para mi camisa.
+alfiler|NOUN	C1	B2	ES_848	Necesito un alfiler para sujetar la tela.
+alfiler|NOUN	C1	C1	ES_849	Se pinchó el dedo con un alfiler mientras cosía la tela.
+coito|NOUN	C1	B2	ES_853	El estudio analizó la frecuencia del coito.
+coito|NOUN	C1	C1	ES_854	La charla abordó el papel del coito en la reproducción humana.
+artefacto|NOUN	C1	A2	ES_856	Compramos un artefacto nuevo para la cocina.
+artefacto|NOUN	C1	B1	ES_857	El museo tiene un artefacto antiguo.
+artefacto|NOUN	C1	B2	ES_858	Este artefacto funciona con pilas.
+artefacto|NOUN	C1	C1	ES_859	El arqueólogo examinó cada artefacto con gran meticulosidad.
+escalinata|NOUN	C1	A2	ES_861	La escalinata tiene muchos escalones.
+escalinata|NOUN	C1	B1	ES_862	Subimos la escalinata para ver la vista desde arriba.
+escalinata|NOUN	C1	B2	ES_863	Subieron la escalinata de piedra que conducía a la entrada principal del museo.
+escalinata|NOUN	C1	C1	ES_864	La escalinata de mármol conducía a la entrada principal del palacio.
+ensaladilla|NOUN	C1	A1	ES_865	Me gusta la ensaladilla.
+ensaladilla|NOUN	C1	A2	ES_866	Pedimos ensaladilla en el restaurante.
+ensaladilla|NOUN	C1	B1	ES_867	La ensaladilla es mi plato favorito en verano.
+ensaladilla|NOUN	C1	B2	ES_868	Pedimos una ración de ensaladilla para compartir en la mesa.
+ensaladilla|NOUN	C1	C1	ES_869	La ensaladilla que pedimos estaba deliciosa y muy fresca.
+expectación|NOUN	C1	B1-B2	ES_872-ES_873	Había mucha expectación antes del concierto.
+expectación|NOUN	C1	C1	ES_874	La expectación en la sala era palpable antes de que se anunciara el ganador.
+grana|NOUN	C1	B1	ES_877	Me gusta el sabor de la grana de la granada.
+grana|NOUN	C1	B2	ES_878	El color grana es similar al rojo oscuro.
+grana|NOUN	C1	C1	ES_879	Los antiguos tapices mostraban un profundo color de grana.
+indagación|NOUN	C1	B1	ES_882	Mi hermana hizo una indagación para su proyecto.
+indagación|NOUN	C1	B2	ES_883	La investigación preliminar es una indagación necesaria antes de tomar una decisión.
+indagación|NOUN	C1	C1	ES_884	La indagación policial sigue en curso para esclarecer los hechos.
+mercaduría|NOUN	C1	B1	ES_887	La tienda recibió una gran cantidad de mercaduría hoy.
+mercaduría|NOUN	C1	B2	ES_888	La tienda recibió nueva mercaduría.
+mercaduría|NOUN	C1	C1	ES_889	La escasez de materias primas elevó el costo de la mercaduría en las tiendas.
+pictograma|NOUN	C1	B1	ES_892	El pictograma en la señal ayuda a entender la información.
+pictograma|NOUN	C1	B2	ES_893	El pictograma en la señal ayudó a los turistas a encontrar la salida.
+pictograma|NOUN	C1	C1	ES_894	El pictograma en la pared señalaba la salida de emergencia.
+musicalidad|NOUN	C1	B1	ES_897	La musicalidad de su voz es muy agradable.
+musicalidad|NOUN	C1	B2	ES_898	La musicalidad de su voz era evidente.
+musicalidad|NOUN	C1	C1	ES_899	La musicalidad de su voz cautivó a la audiencia desde el primer momento.
+barajar|VERB	C1	A2	ES_901	Ella baraja las cartas.
+barajar|VERB	C1	B1	ES_902	Antes de jugar, tienes que barajar las cartas.
+barajar|VERB	C1	B2	ES_903	Tenemos que barajar varias opciones antes de decidir.
+barajar|VERB	C1	C1	ES_904	La empresa está barajando varias estrategias para expandirse en el mercado.
+denegar|VERB	C1	B1	ES_907	El gobierno denegó su permiso.
+denegar|VERB	C1	B2	ES_908	El banco denegó su préstamo.
+denegar|VERB	C1	C1	ES_909	La junta decidió denegar la solicitud de financiación debido a la falta de fondos.
+desposar|VERB	C1	B2	ES_913	Planeamos desposarnos el próximo verano en la playa.
+desposar|VERB	C1	C1	ES_914	El príncipe desposó a la plebeya en una ceremonia íntima.
+aborrecer|VERB	C1	B2	ES_918	Mucha gente aborrece levantarse temprano los lunes.
+aborrecer|VERB	C1	C1	ES_919	Después de años de engaño, llegó a aborrecer su presencia.
+recalcar|VERB	C1	B1	ES_922	Ella quiso recalcar la importancia de la reunión.
+recalcar|VERB	C1	B2	ES_923	El profesor quiso recalcar la importancia de estudiar.
+recalcar|VERB	C1	C1	ES_924	El orador quiso recalcar la necesidad de tomar medidas urgentes contra el cambio climático.
+compulsar|VERB	C1	B2	ES_928	El funcionario necesita compulsar la copia con el original para validarla.
+compulsar|VERB	C1	C1	ES_929	Para solicitar la beca, tuvo que compulsar todos sus documentos académicos.
+reportar|VERB	C1	A2	ES_931	Ella va a reportar el problema.
+reportar|VERB	C1	B1	ES_932	El periodista reportó la noticia.
+reportar|VERB	C1	B2	ES_933	Es importante reportar cualquier anomalía al supervisor.
+reportar|VERB	C1	C1	ES_934	La investigación logró reportar datos concluyentes sobre el fenómeno.
+afanar|VERB	C1	C1	ES_939	Se afanó por completar la tarea antes de la fecha límite.
+atemorizar|VERB	C1	B1	ES_942	La película de terror atemorizó a mi hermana.
+atemorizar|VERB	C1	B2	ES_943	La tormenta fuerte logró atemorizar a los niños.
+atemorizar|VERB	C1	C1	ES_944	La perspectiva de hablar en público no me atemoriza.
+calibrar|VERB	C1	B1	ES_947	Necesitamos calibrar la balanza para que las medidas sean exactas.
+calibrar|VERB	C1	B2	ES_948	Debemos calibrar la presión de los neumáticos regularmente.
+calibrar|VERB	C1	C1	ES_949	Intentó calibrar la reacción de la audiencia antes de hacer su anuncio.
+desdeñar|VERB	C1	B2	ES_953	No se debe desdeñar su experiencia en este campo.
+desdeñar|VERB	C1	C1	ES_954	No debemos desdeñar la importancia de los pequeños detalles en este proyecto.
+deglutir|VERB	C1	B2	ES_958	Es difícil deglutir alimentos sólidos después de la cirugía.
+deglutir|VERB	C1	C1	ES_959	El paciente tenía dificultades para deglutir alimentos sólidos.
+desistir|VERB	C1	A2	ES_961	No voy a desistir ahora.
+desistir|VERB	C1	B1	ES_962	No debemos desistir de nuestros sueños.
+desistir|VERB	C1	B2	ES_963	Decidió desistir de su intento después de varios fracasos.
+desistir|VERB	C1	C1	ES_964	A pesar de los contratiempos, decidieron no desistir de su proyecto.
+encalar|VERB	C1	B2	ES_968	Tenemos que encalar la fachada de la casa antes del verano.
+encalar|VERB	C1	C1	ES_969	Decidieron encalar las paredes de la casa para que pareciera más luminosa.
+entrometer|VERB	C1	B1	ES_972	Ella no se entromete en los problemas de los demás.
+entrometer|VERB	C1	B2	ES_973	No me gusta cuando la gente se entromete en mi vida personal.
+entrometer|VERB	C1	C1	ES_974	No debes entrometerte en asuntos ajenos sin permiso.
+esbozar|VERB	C1	B1	ES_977	Ella esbozó una sonrisa cuando escuchó la noticia.
+esbozar|VERB	C1	B2	ES_978	Él empezó a esbozar un nuevo plan para el proyecto.
+esbozar|VERB	C1	C1	ES_979	En su presentación, la ponente logró esbozar las ideas clave de su investigación.
+inmovilizar|VERB	C1	A2	ES_981	Necesitamos inmovilizar la pierna rota.
+inmovilizar|VERB	C1	B1	ES_982	El médico tuvo que inmovilizar su pierna.
+inmovilizar|VERB	C1	B2	ES_983	El accidente inmovilizó el tráfico en la autopista.
+inmovilizar|VERB	C1	C1	ES_984	La huelga general consiguió inmovilizar gran parte de la economía del país.
+omitir|VERB	C1	B1	ES_987	Ella decidió omitir algunos detalles de su historia.
+omitir|VERB	C1	B2	ES_988	El escritor decidió omitir algunos detalles poco importantes de la historia.
+omitir|VERB	C1	C1	ES_989	El informe decidió omitir los detalles menos relevantes para no extenderse demasiado.
+recapitular|VERB	C1	B1	ES_992	Antes de terminar, me gustaría recapitular los puntos principales.
+recapitular|VERB	C1	B2	ES_993	Antes de terminar, el profesor decidió recapitular la lección.
+recapitular|VERB	C1	C1	ES_994	Antes de concluir, me gustaría recapitular los puntos clave de nuestra discusión.
+pasmar|VERB	C1	B1	ES_997	Su belleza me pasmó.
+pasmar|VERB	C1	B2	ES_998	La belleza del paisaje nos pasmó.
+pasmar|VERB	C1	C1	ES_999	La belleza del paisaje me pasmó por completo.

@@ -272,7 +272,7 @@ tray|NOUN	A2	A1	EN_285	Put the cups on the tray.
 tray|NOUN	A2	A2	EN_286	She put the empty cups on the tray.
 tray|NOUN	A2	B1	EN_287	She put the dirty dishes on the tray.
 tray|NOUN	A2	B2	EN_288	She put the empty glasses on the tray.
-tray|NOUN	A2	C1	EN_289	The waiter carefully balanced the tray of drinks as he navigated through the crowded restaurant.The new intern was tasked with organizing the incoming mail into separate trays for each department.
+tray|NOUN	A2	C1	EN_289	The waiter carefully balanced the tray of drinks as he navigated through the crowded restaurant.
 decoration|NOUN	A2	A1	EN_290	This is a nice decoration.
 decoration|NOUN	A2	A2	EN_291	The Christmas tree has many beautiful decorations.
 decoration|NOUN	A2	B1	EN_292	The Christmas decoration on the tree looked pretty.
@@ -291,7 +291,7 @@ realize|VERB	A2	A2	EN_306	I realize it is late.
 realize|VERB	A2	B1	EN_307	I realized I was late for the meeting.
 realize|VERB	A2	B2	EN_308	She realized that she had left her keys at home.
 realize|VERB	A2	C1	EN_309	After a long discussion, they finally realized the full implications of their decision.
-promise|VERB	A2	A1	EN_310	I promise to be on time.I promise to be on time.
+promise|VERB	A2	A1	EN_310	I promise to be on time.
 promise|VERB	A2	A2	EN_311	I promise to help you.
 promise|VERB	A2	B1	EN_312	I promise to call you when I arrive.
 promise|VERB	A2	B2	EN_313	I promise to call you tomorrow.
@@ -390,7 +390,7 @@ tourism|NOUN	B1	C1	EN_414	The government is investing heavily in sustainable tou
 failure|NOUN	B1	A2	EN_416	The project was a failure.
 failure|NOUN	B1	B1	EN_417	His failure to prepare for the test was disappointing.
 failure|NOUN	B1	B2	EN_418	His failure to study led to a poor test result.
-failure|NOUN	B1	C1	EN_419	His initial failure to secure funding didn't deter him from pursuing his entrepreneurial dream.His initial failure to secure funding didn't deter him from pursuing his entrepreneurial dream.
+failure|NOUN	B1	C1	EN_419	His initial failure to secure funding didn't deter him from pursuing his entrepreneurial dream.
 catalogue|NOUN	B1	B1	EN_422	I looked through the catalogue to find a new sofa.
 catalogue|NOUN	B1	B2	EN_423	I looked through the furniture catalogue to find a new chair.
 catalogue|NOUN	B1	C1	EN_424	The university published a new catalogue of all its available courses for the next academic year.
@@ -570,7 +570,7 @@ potential|NOUN	B2	C1	EN_644	The new technology has the potential to revolutioniz
 cop|NOUN	B2	A1	EN_645	A cop helps people.
 cop|NOUN	B2	A2	EN_646	The cop stopped the car.
 cop|NOUN	B2	B1	EN_647	The cop directed traffic after the accident.
-cop|NOUN	B2	B2	EN_648	The cop arrived quickly after we called for help.La película me conmovió mucho.
+cop|NOUN	B2	B2	EN_648	The cop arrived quickly after we called for help.
 cop|NOUN	B2	C1	EN_649	The detective knew the young cop was eager to prove himself.
 cleanliness|NOUN	B2	A2	EN_651	Good cleanliness is important for health.
 cleanliness|NOUN	B2	B1	EN_652	Good cleanliness is important for your health.
@@ -635,7 +635,7 @@ evolve|VERB	B2	B1	EN_722	His music style has evolved over the years.
 evolve|VERB	B2	B2	EN_723	Our ideas about the project will evolve over the next few weeks.
 evolve|VERB	B2	C1	EN_724	Their business strategy needed to evolve to stay competitive in the market.
 associate|VERB	B2	B1	EN_727	I associate that smell with summer.
-associate|VERB	B2	B2	EN_728	Most people associate good grades with studying.Most people associate good grades with studying.
+associate|VERB	B2	B2	EN_728	Most people associate good grades with studying.
 associate|VERB	B2	C1	EN_729	Most people associate the smell of fresh bread with comfort.
 stamp|VERB	B2	A1	EN_730	I stamp the letter.
 stamp|VERB	B2	A2	EN_731	I need to stamp this letter.
@@ -801,7 +801,7 @@ obscure|VERB	C1	B2	EN_978	The fog began to obscure the view of the city.
 obscure|VERB	C1	C1	EN_979	The thick smoke began to obscure the sun, casting an eerie glow over the landscape.
 poke|VERB	C1	A1	EN_980	Don't poke the cat.
 poke|VERB	C1	A2	EN_981	Don't poke the cake with your finger.
-poke|VERB	C1	B1	EN_982	She poked the cake with a fork to see if it was ready.She poked the dog gently with her foot.
+poke|VERB	C1	B1	EN_982	She poked the cake with a fork to see if it was ready.
 poke|VERB	C1	B2	EN_983	He poked his head out the window to see what was happening.
 poke|VERB	C1	C1	EN_984	She decided to poke around the old attic for forgotten treasures.
 retouch|VERB	C1	B1	EN_987	Can you retouch this photo to make the colors brighter?

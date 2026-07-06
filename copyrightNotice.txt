@@ -1,5 +1,5 @@
-ShAnEL-2
-Copyright (C) 2026  Jasper Degraeuwe and Thomas Moerman
+Conplext 1.0
+Copyright (C) 2026 David Alfter and Jasper Degraeuwe
 
 This dataset is free: you can redistribute it and/or modify it 
 under the terms of the ODC-By License as published by the Open 
@@ -9,7 +9,7 @@ your option) any later version.
 NO AI TRAINING: Without in any way limiting the authors' 
 exclusive rights under copyright, any use of this publication to 
 "train" generative artificial intelligence (GenAI) technologies to 
-generate text is expressly prohibited.  The authors reserve all 
+generate text is expressly prohibited. The authors reserve all 
 rights to license uses of this work for GenAI training and 
 development of machine learning models.
 

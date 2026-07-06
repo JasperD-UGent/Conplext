@@ -1,0 +1,38 @@
+{
+    "upload_type": "dataset",
+
+    "publication_date": "2026-07-06",
+
+    "creators": [
+        {
+            "orcid": "0000-0002-1232-6118",
+            "affiliation": "University of Gothenburg",
+            "name": "Alfter, David"
+        },
+        {
+            "orcid": "0000-0003-0850-314X",
+            "affiliation": "Ghent University",
+            "name": "Degraeuwe, Jasper"
+        }
+    ],
+
+    "license": "odc-by-1.0",
+
+    "title": "Conplext 1.0: A Multilingual Lexical Complexity Prediction Dataset for L2 Learning",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.63317/4wbqzig7hgaw",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication-conferencepaper"
+        }
+    ],
+
+    "keywords": ["lexical complexity", "language learning", "best-worst scaling"],
+
+    "communities": [
+        {"identifier": "ugent"}
+    ]
+
+}
